@@ -1,33 +1,33 @@
 {
   "date": "2026-11-19",
   "dateLabel": "Thursday, November 19, 2026",
-  "updated": "10:41 AM CT, Nov 19",
+  "updated": "12:12 PM CT, Nov 19",
   "glance": [
-    "Nvidia posted a record $115.8B quarter, but shares fell 2.9% as the board ruled out bringing back Jensen Huang as CEO.",
-    "Anthropic priced its IPO at $83 a share, valuing it near $1.5 trillion; ANT starts trading on Nasdaq today.",
-    "Google launched Gemini 4 Neon, a mid-tier model it says leads several coding and agent benchmarks.",
-    "Officials told Congress the recent string of US tech outages, including FAA and NSA systems, were unrelated and not cyberattacks.",
-    "Trump, Xi and Putin are set to hold their first-ever three-way summit today in Shenzhen at APEC."
+    "Anthropic opened at $111.50 on Nasdaq, about 34% above its $83 IPO price, valuing it near $1.5 trillion.",
+    "The Trump-Xi-Putin summit ended with a declaration on nuclear risk and UN reform but no mention of Ukraine.",
+    "Stocks are rebounding at midday, with the Nasdaq up nearly 2% on the Anthropic debut.",
+    "Nvidia's interim CEO promised earlier raises and equity at its first all-hands since Jensen Huang's exit.",
+    "Patches are out for a serious AI-discovered NGINX flaw that exposes millions of web servers."
   ],
   "tech": [
     {
-      "tag": "Chips",
-      "headline": "Nvidia beats big, but the CEO saga weighs on the stock",
-      "summary": "Nvidia reported $115.8 billion in quarterly revenue, more than double a year ago and well above estimates, with the new Vera Rubin platform contributing nearly $20 billion. It guided to about $130 billion next quarter (assuming no China data center sales) and raised its fiscal 2028 growth outlook to 75%. Shares still fell 2.9% Wednesday after leadership said Jensen Huang, who resigned Nov. 12 over code-of-conduct issues, will not be reinstated; CFO Colette Kress is interim CEO while the board searches for a permanent chief.",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo"
+      "tag": "AI",
+      "headline": "Anthropic soars in Nasdaq debut",
+      "summary": "Anthropic's shares opened at $111.50 when trading began at 11:48 a.m. ET, about 34% above the $83 IPO price, and quickly climbed near $115, implying a market value around $1.5 trillion. The offering, priced above its $70 to $78 range, is the largest on record, and about $3 billion came from a Japanese investor tranche. The debut is being watched as a test of investor appetite for AI after weeks of tech selling.",
+      "source": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
     },
     {
-      "tag": "AI",
-      "headline": "Anthropic prices record IPO at $83 a share",
-      "summary": "Anthropic priced its shares at $83, above the $70 to $78 marketed range, valuing the Claude maker at roughly $1.5 trillion fully diluted, up from $965 billion in May. CNBC reports the offering raised more than $81 billion, the largest on record, ahead of SpaceX's listing. Shares begin trading today on Nasdaq under the ticker ANT, alongside a separate $26 billion private placement from major tech companies.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      "tag": "Chips",
+      "headline": "Nvidia's interim chief moves to steady staff after record quarter",
+      "summary": "Days after Jensen Huang's exit, interim CEO Colette Kress held Nvidia's first all-hands without him and signaled pay raises and equity grants would come earlier than planned, Wired reports. The company had just posted $115.8 billion in quarterly revenue, more than double a year ago, and guided to about $130 billion next quarter, but shares slipped Wednesday as the board ruled out reinstating Huang and began a search for a permanent CEO.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
     },
     {
       "tag": "AI",
       "headline": "Google rolls out Gemini 4 Neon",
-      "summary": "Google released Gemini 4 Neon, a middle tier between its top Carbon model and the fast Hydrogen model, across the Gemini API, Antigravity and the Gemini app for paid subscribers. Google claims it ranks first on an independent coding-agent index and has its lowest-ever fabrication rate in internal tests. It is priced at $3 per million input tokens with a 1-million-token context window, and a cyber-defense variant is going to vetted security teams.",
+      "summary": "Google released Gemini 4 Neon, a middle tier between its top Carbon and fast Hydrogen models, across the Gemini API, Antigravity and the Gemini app for paid users, claiming top marks on a coding-agent index at $3 per million input tokens. Google also renamed its Gemini Spark agent to Tasks and made it free in six countries, and opened Genie 4 world-generation to AI Ultra subscribers.",
       "source": "Google",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
     },
@@ -55,12 +55,33 @@
     {
       "tag": "Policy",
       "headline": "White House weighs making companies disclose Chinese AI use",
-      "summary": "The Trump administration is considering a rule that would require US firms to disclose when they use Chinese-made AI models. Separately, Tencent's president said new US limits on remote access to advanced chips will slow AI training in China, and House Democrats opened a probe into Commerce Secretary Lutnick's family ties to Nvidia.",
+      "summary": "The Trump administration is considering a rule requiring US firms to disclose when they use Chinese-made AI models, while new Commerce rules tighten licensing for advanced chips headed to overseas data centers serving restricted firms. In California, Gov. Gavin Newsom proposed broad new state powers to regulate AI, stopping short of mandatory kill switches.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"
     }
   ],
   "other": [
+    {
+      "tag": "World",
+      "headline": "Trump-Xi-Putin summit ends with a declaration that skips Ukraine",
+      "summary": "The first three-way meeting of the US, Chinese and Russian leaders ran about 90 minutes in Shenzhen with no joint press conference. A follow-up declaration covered UN reform, energy supply, criticism of ICC overreach and a pledge that nuclear war must never be fought, but said nothing about Ukraine; Kyiv insisted no deal about it can be made without it.",
+      "source": "UNN",
+      "url": "https://unn.ua/en/news/three-at-the-negotiating-table-how-the-meeting-between-trump-xi-and-putin-ended-and-what-it-means-for-ukraine"
+    },
+    {
+      "tag": "Markets",
+      "headline": "Stocks rebound as Anthropic lifts the Nasdaq",
+      "summary": "By midday the Nasdaq was up about 1.9% and the S&P 500 about 1.1%, while the Dow edged up 0.2% after three straight losses. Tech led the rebound as Anthropic began trading.",
+      "source": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/s-p-500-rises-1-09-as-u-s-stocks-climb-jobless-claims-edge-higher"
+    },
+    {
+      "tag": "Business",
+      "headline": "Jobless claims tick up; Fed hike talk lingers",
+      "summary": "Initial unemployment claims rose by 1,000 to 203,000, slightly above forecasts but still low. With inflation running hot, futures traders are pricing quarter-point Fed rate hikes in December and January, and the 10-year Treasury yield is holding above 5%.",
+      "source": "KuCoin News",
+      "url": "https://www.kucoin.com/news/flash/s-p-500-rises-1-09-as-u-s-stocks-climb-jobless-claims-edge-higher"
+    },
     {
       "tag": "US",
       "headline": "Officials: recent outages were not a coordinated attack",
@@ -69,30 +90,9 @@
       "url": "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/"
     },
     {
-      "tag": "World",
-      "headline": "Trump, Xi and Putin meet in Shenzhen",
-      "summary": "Xi Jinping personally greeted President Trump on arrival in Shenzhen for the APEC summit, and the two are set to hold a first-ever trilateral meeting with Vladimir Putin today. Trade, arms control, Ukraine and Iran are expected on the agenda.",
-      "source": "PBS News Hour",
-      "url": "https://www.pbs.org/newshour/show/november-18-2026-pbs-news-hour-full-episode"
-    },
-    {
-      "tag": "Markets",
-      "headline": "Dow drops 561 points; Nasdaq edges up",
-      "summary": "The Dow fell 1.1% to about 50,198 for a third straight loss, the S&P 500 slipped 0.2% and the Nasdaq gained 0.4% as AMD and Broadcom rose while Nvidia lagged. The 10-year Treasury yield remains above 5%, and investors are watching Anthropic's debut today.",
-      "source": "The Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-nvidia-slips-on-strong-results-as-succession-and-china-business-risks-weigh/"
-    },
-    {
       "tag": "US",
       "headline": "Peltola wins Alaska Senate race; Jeffries nominated for Speaker",
       "summary": "Democrat Mary Peltola defeated Republican Sen. Dan Sullivan roughly 50% to 46%, becoming the first Indigenous woman from Alaska elected to the Senate and widening the Democratic majority. House Democrats nominated Hakeem Jeffries for Speaker in the next Congress.",
-      "source": "Democracy Now (via Havana Times)",
-      "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-november-18-2026"
-    },
-    {
-      "tag": "World",
-      "headline": "Cost-of-living protests sweep France",
-      "summary": "About 146,000 people joined peaceful demonstrations across France over rising living costs, including students and some private-sector workers.",
       "source": "Democracy Now (via Havana Times)",
       "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-november-18-2026"
     }
