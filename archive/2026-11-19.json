@@ -1,19 +1,19 @@
 {
   "date": "2026-11-19",
   "dateLabel": "Thursday, November 19, 2026",
-  "updated": "12:12 PM CT, Nov 19",
+  "updated": "3:50 PM CT, Nov 19",
   "glance": [
-    "Anthropic opened at $111.50 on Nasdaq, about 34% above its $83 IPO price, valuing it near $1.5 trillion.",
+    "Anthropic opened at $111.50 on Nasdaq, 34% above its $83 IPO price, before fading to about $95.",
     "The Trump-Xi-Putin summit ended with a declaration on nuclear risk and UN reform but no mention of Ukraine.",
-    "Stocks are rebounding at midday, with the Nasdaq up nearly 2% on the Anthropic debut.",
+    "Stocks reversed early gains and fell about 2% as the Anthropic debut triggered profit-taking in AI stocks.",
     "Nvidia's interim CEO promised earlier raises and equity at its first all-hands since Jensen Huang's exit.",
     "Patches are out for a serious AI-discovered NGINX flaw that exposes millions of web servers."
   ],
   "tech": [
     {
       "tag": "AI",
-      "headline": "Anthropic soars in Nasdaq debut",
-      "summary": "Anthropic's shares opened at $111.50 when trading began at 11:48 a.m. ET, about 34% above the $83 IPO price, and quickly climbed near $115, implying a market value around $1.5 trillion. The offering, priced above its $70 to $78 range, is the largest on record, and about $3 billion came from a Japanese investor tranche. The debut is being watched as a test of investor appetite for AI after weeks of tech selling.",
+      "headline": "Anthropic's Nasdaq debut: big pop, then a fade",
+      "summary": "Anthropic's shares opened at $111.50 when trading began at 11:48 a.m. ET, about 34% above the $83 IPO price, and touched nearly $115 before sliding to around $95 by mid-afternoon. The roughly $81 billion offering, priced above its $70 to $78 range, is the largest on record. The debut coincided with a broad selloff in AI stocks as investors appeared to cash out of other holdings.",
       "source": "Stock Titan",
       "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
     },
@@ -70,10 +70,10 @@
     },
     {
       "tag": "Markets",
-      "headline": "Stocks rebound as Anthropic lifts the Nasdaq",
-      "summary": "By midday the Nasdaq was up about 1.9% and the S&P 500 about 1.1%, while the Dow edged up 0.2% after three straight losses. Tech led the rebound as Anthropic began trading.",
-      "source": "KuCoin News",
-      "url": "https://www.kucoin.com/news/flash/s-p-500-rises-1-09-as-u-s-stocks-climb-jobless-claims-edge-higher"
+      "headline": "Stocks slide as Anthropic debut sparks AI profit-taking",
+      "summary": "An early rally evaporated once Anthropic began trading just before noon ET; the Dow lost about 1,084 points and the S&P 500 and Nasdaq fell roughly 2%, with Amazon, Nvidia and Alphabet among the decliners. A sharp drop in the Philadelphia Fed manufacturing index added to the gloom.",
+      "source": "Stock Titan",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
     },
     {
       "tag": "Business",
@@ -96,5 +96,75 @@
       "source": "Democracy Now (via Havana Times)",
       "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-november-18-2026"
     }
-  ]
+  ],
+  "markets": {
+    "asOf": "market close, Nov 19 (figures preliminary)",
+    "summary": "Stocks reversed an early rally and fell about 2% once Anthropic began trading, as investors took profits in AI names; the VIX neared 29, its highest since March.",
+    "indexes": [
+      {
+        "name": "Dow",
+        "value": "",
+        "change": "-1,084 pts"
+      },
+      {
+        "name": "S&P 500",
+        "value": "",
+        "change": "-2.0%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "",
+        "change": "-2.2%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "5.07%",
+        "change": "+0.01"
+      },
+      {
+        "name": "WTI oil",
+        "value": "$83.46",
+        "change": ""
+      },
+      {
+        "name": "Bitcoin",
+        "value": "$62,250",
+        "change": "-1%"
+      }
+    ],
+    "movers": [
+      {
+        "symbol": "ANT",
+        "name": "Anthropic",
+        "change": "+15%",
+        "note": "Opened at $111.50 vs. $83 IPO price, then faded to about $95."
+      },
+      {
+        "symbol": "PANW",
+        "name": "Palo Alto Networks",
+        "change": "+5.6%",
+        "note": "Beat estimates, raised outlook, agreed to buy Applied Compute."
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": "-8.5%",
+        "note": "Slid after a short-seller report (as of early afternoon)."
+      },
+      {
+        "symbol": "WSM",
+        "name": "Williams-Sonoma",
+        "change": "-15%",
+        "note": "Sales grew 5.8% but it only held its full-year outlook."
+      },
+      {
+        "symbol": "WMT",
+        "name": "Walmart",
+        "change": "-1.2%",
+        "note": "Raised guidance less than investors hoped."
+      }
+    ],
+    "source": "Stock Titan",
+    "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+  }
 }

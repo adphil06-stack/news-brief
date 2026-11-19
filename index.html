@@ -16,12 +16,12 @@
 <style>
   :root {
     --paper: #f7f3ea; --ink: #1a1a1a; --muted: #5f5a50; --rule: #1a1a1a;
-    --hair: #cfc7b6; --kicker: #8b1e1e; --link: #1a1a1a;
+    --hair: #cfc7b6; --kicker: #8b1e1e; --link: #1a1a1a; --up: #1d6b34; --down: #a3241c;
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --paper: #16150f; --ink: #ece6d8; --muted: #a39d8f; --rule: #ece6d8;
-      --hair: #3a372e; --kicker: #e07a6a; --link: #ece6d8;
+      --hair: #3a372e; --kicker: #e07a6a; --link: #ece6d8; --up: #6cc287; --down: #ee8676;
     }
   }
   * { box-sizing: border-box; }
@@ -56,12 +56,27 @@
     text-transform: uppercase; letter-spacing: 0.1em; color: var(--kicker); }
   .src { font-size: 13px; font-style: italic; color: var(--muted); }
   .src a { color: var(--link); text-decoration: underline; text-decoration-color: var(--hair); text-underline-offset: 2px; }
+  .mkt-take { font-style: italic; margin: 10px 0 12px; }
+  .mkt-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; border-top: 1px solid var(--hair); border-left: 1px solid var(--hair); }
+  .mkt-cell { padding: 8px 8px 7px; border-right: 1px solid var(--hair); border-bottom: 1px solid var(--hair); }
+  .mkt-name { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+  .mkt-val { font-size: 17px; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .chg { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .up { color: var(--up); } .down { color: var(--down); }
+  .movers { list-style: none; margin: 12px 0 0; padding: 0; }
+  .movers li { padding: 7px 0; border-bottom: 1px solid var(--hair); }
+  .movers li:last-child { border-bottom: none; }
+  .movers b { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 13px; letter-spacing: 0.04em; }
+  .mkt-asof { font-size: 12px; color: var(--muted); font-style: italic; margin-top: 4px; }
+  @media (max-width: 420px) { .mkt-grid { grid-template-columns: repeat(2, 1fr); } }
   .status { text-align: center; color: var(--muted); font-style: italic; padding: 40px 10px; }
   footer { text-align: center; font-size: 12px; color: var(--muted); border-top: 3px double var(--rule);
     margin-top: 18px; padding-top: 8px; font-style: italic; }
   @media print {
     body { background: #fff; color: #000; font-size: 10.5pt; }
     .dateline select { display: none; }
+    .up, .down { color: #000; } .mkt-grid { grid-template-columns: repeat(6, 1fr); } .movers li { padding: 3px 0; }
     article { break-inside: avoid; padding: 6px 0; }
     article h3 { font-size: 13pt; } section:first-of-type article:first-of-type h3 { font-size: 15pt; }
     .masthead { font-size: 30pt; }
@@ -102,6 +117,22 @@ function story(s) {
   </article>`;
 }
 
+function dir(c) { const t = String(c || "").trim(); return /^[+▲]/.test(t) ? "up" : /^[-−–▼]/.test(t) ? "down" : ""; }
+
+function markets(m) {
+  if (!m || !(m.indexes?.length || m.movers?.length || m.summary)) return "";
+  const cells = (m.indexes || []).map(i => `<div class="mkt-cell"><div class="mkt-name">${esc(i.name)}</div>
+      ${i.value ? `<div class="mkt-val">${esc(i.value)}</div>` : ""}<div class="chg ${dir(i.change)}">${esc(i.change)}</div></div>`).join("");
+  const movers = (m.movers || []).map(x => `<li><b>${esc(x.symbol)}</b>${x.name ? " " + esc(x.name) : ""}
+      <span class="chg ${dir(x.change)}">${esc(x.change)}</span> — ${esc(x.note)}</li>`).join("");
+  return `<section><h2>Markets</h2>
+    ${m.summary ? `<p class="mkt-take">${esc(m.summary)}</p>` : ""}
+    ${cells ? `<div class="mkt-grid">${cells}</div>` : ""}
+    ${movers ? `<ul class="movers">${movers}</ul>` : ""}
+    <div class="mkt-asof">${m.asOf ? "As of " + esc(m.asOf) : ""}${m.url ? ` · <span class="src"><a href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">${esc(m.source || "Source")} ↗</a></span>` : ""}</div>
+  </section>`;
+}
+
 function render(b) {
   $("date").textContent = b.dateLabel || b.date || "";
   const t = (b.updated || "").match(/(\d{1,2}):\d{2}\s*(AM|PM)/i);
@@ -112,6 +143,7 @@ function render(b) {
   $("main").innerHTML = `
     ${b.glance?.length ? `<div class="glance"><h2>At a glance</h2><ul>${b.glance.map(g => `<li>${esc(g)}</li>`).join("")}</ul></div>` : ""}
     ${b.tech?.length ? `<section><h2>Tech</h2>${b.tech.map(story).join("")}</section>` : ""}
+    ${markets(b.markets)}
     ${b.other?.length ? `<section><h2>Other headlines</h2>${b.other.map(story).join("")}</section>` : ""}
     ${b.note ? `<div class="status">${esc(b.note)}</div>` : ""}
     <footer>${b.updated ? "Last updated " + esc(b.updated) : ""}</footer>`;
