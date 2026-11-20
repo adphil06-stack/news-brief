@@ -8,8 +8,8 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="News Brief">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="theme-color" content="#f7f3ea" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#16150f" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f7f3ea">
+<meta name="color-scheme" content="only light">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png?v=6">
 <link rel="icon" type="image/png" href="icons/icon-192.png?v=6">
@@ -17,12 +17,7 @@
   :root {
     --paper: #f7f3ea; --ink: #1a1a1a; --muted: #5f5a50; --rule: #1a1a1a;
     --hair: #cfc7b6; --kicker: #8b1e1e; --link: #1a1a1a; --up: #1d6b34; --down: #a3241c;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper: #16150f; --ink: #ece6d8; --muted: #a39d8f; --rule: #ece6d8;
-      --hair: #3a372e; --kicker: #e07a6a; --link: #ece6d8; --up: #6cc287; --down: #ee8676;
-    }
+    color-scheme: only light;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; background: var(--paper); color: var(--ink);
