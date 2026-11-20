@@ -1,170 +1,49 @@
 {
-  "date": "2026-11-19",
-  "dateLabel": "Thursday, November 19, 2026",
-  "updated": "4:46 PM CT, Nov 19",
+  "date": "2026-11-20",
+  "dateLabel": "Friday, November 20, 2026",
+  "updated": "6:58 AM CT, Nov 20",
   "glance": [
-    "Stocks fell about 2% (Dow -1,100) as Anthropic's debut triggered an AI selloff; VIX highest since March.",
-    "Anthropic closed its first day at $97.17, up 17% from its $83 IPO price after opening at $111.50.",
-    "After the bell, Intuit beat estimates and agreed to sell Mailchimp for $3.68 billion; shares fell.",
-    "Reuters: Meta's Muse AI agent has mixed up users' conversations and exposed private data.",
-    "Trump heads home from the Xi-Putin summit with a nuclear-risk statement but nothing on Ukraine."
+    "Nasdaq futures fell about 1.6% before dawn as the AI selloff spread to Asia and Europe; Wall Street is headed for its worst week since April 2025.",
+    "Anthropic shares slid nearly 7% in premarket trading, a day after closing its first session 17% above the $83 IPO price.",
+    "Japan's Nikkei and South Korea's KOSPI each dropped about 5% overnight; SoftBank had one of its worst days in years.",
+    "Intuit fell about 11% premarket after agreeing to sell Mailchimp for $3.68 billion and trimming its revenue outlook.",
+    "Futures now price a near-certain Fed rate hike in December after a Philadelphia Fed official said rates must rise again."
   ],
   "tech": [
-    {
-      "tag": "AI",
-      "headline": "Anthropic closes first day at $97.17, up 17% from IPO price",
-      "summary": "Anthropic's shares opened at $111.50, about 34% above the $83 IPO price, hit nearly $115, then faded through the afternoon to close at $97.17. The roughly $81 billion offering is the largest on record and values the company well above $1 trillion. The debut drew money out of other AI stocks, contributing to a broad market selloff, and shares slipped further after hours.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
-    },
-    {
-      "tag": "Software",
-      "headline": "Intuit beats estimates and agrees to sell Mailchimp for $3.68B",
-      "summary": "Intuit reported first-quarter revenue up 12% and beat Wall Street estimates after the close, and said it will sell email-marketing unit Mailchimp to Bending Spoons for about $3.68 billion, far below the roughly $12 billion it paid in 2021. Shares fell sharply in after-hours trading.",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/earnings/intuit-beats-firstquarter-estimates-agrees-to-sell-mailchimp-for-368-billion-5040049"
-    },
-    {
-      "tag": "Big Tech",
-      "headline": "Report: Meta's Muse agent mixed up users' conversations and data",
-      "summary": "Meta employees have flagged that the Muse AI agent surfaced other people's information, such as bank balances and order details, inside unrelated chats, according to internal posts reviewed by Reuters. One staffer said it prompted a reply to a Signal message without permission. Muse launched in September and has more than 10 million downloads; Meta did not immediately comment.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Nvidia's interim chief moves to steady staff after record quarter",
-      "summary": "Days after Jensen Huang's exit, interim CEO Colette Kress held Nvidia's first all-hands without him and signaled raises and equity grants would come earlier than planned, Wired reports. The company just posted $115.8 billion in quarterly revenue and guided to about $130 billion next quarter, but shares fell 3.3% Thursday in the AI selloff while the board searches for a permanent CEO.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"
-    },
-    {
-      "tag": "Security",
-      "headline": "AI-discovered NGINX flaw lets attackers take over servers",
-      "summary": "Security firm Xint used AI models to uncover five flaws in NGINX, one of the web's most widely used server programs, including an unauthenticated remote-code-execution bug dating to 2015 that works on default settings. F5, which maintains NGINX, began issuing patches Wednesday and urged immediate updates; Wiz says it found the same flaws independently. Researchers estimate millions of exposed servers could be vulnerable.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/"
-    },
-    {
-      "tag": "Startups",
-      "headline": "Palo Alto Networks buys AI startup Applied Compute for $4.5B",
-      "summary": "Palo Alto Networks agreed to acquire Applied Compute in an all-stock deal worth about $4.5 billion, extending its push into AI-driven security. It also reported revenue up 39% to $3.44 billion and raised its full-year outlook; shares rose about 6.4% Thursday, bucking the market slide.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611"
-    },
-    {
-      "tag": "AI",
-      "headline": "Google rolls out Gemini 4 Neon",
-      "summary": "Google released Gemini 4 Neon, a middle tier between its top Carbon and fast Hydrogen models, across the Gemini API, Antigravity and the Gemini app for paid users, claiming top marks on a coding-agent index at $3 per million input tokens. Google also renamed its Gemini Spark agent to Tasks and made it free in six countries, and opened Genie 4 world-generation to AI Ultra subscribers.",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    }
-  ],
-  "other": [
-    {
-      "tag": "Business",
-      "headline": "Wall Street's worst day in months as AI stocks slide",
-      "summary": "The Dow lost about 1,100 points and the S&P 500 and Nasdaq each fell more than 2% after an early rally collapsed once Anthropic began trading. Investors sold Nvidia, Amazon, Alphabet and other AI winners, and the VIX fear gauge hit its highest level since March.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-      "tag": "World",
-      "headline": "Trump heads home after three-way summit with Xi and Putin",
-      "summary": "The rare Trump-Xi-Putin meeting in China produced a joint statement on nuclear risk and UN reform but little concrete progress and no mention of Ukraine. Analysts described the summit as heavy on symbolism, with the leaders' warm rhetoric outpacing actual agreements.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/11/19/politics/trump-putin-xi-meeting-takeaways"
-    },
-    {
-      "tag": "Business",
-      "headline": "Jobless claims tick up; Fed hike talk lingers",
-      "summary": "Initial unemployment claims rose by 1,000 to 203,000, slightly above forecasts but still low. With inflation running hot, futures traders are pricing quarter-point Fed rate hikes in December and January, and the 10-year Treasury yield is holding above 5%.",
-      "source": "KuCoin News",
-      "url": "https://www.kucoin.com/news/flash/s-p-500-rises-1-09-as-u-s-stocks-climb-jobless-claims-edge-higher"
-    },
-    {
-      "tag": "US",
-      "headline": "Officials: recent outages were not a coordinated attack",
-      "summary": "At a House Homeland Security hearing, DHS Secretary Markwayne Mullin, DNI Jay Clayton and the FBI said a run of outages, including an FAA ground stop, bank and Microsoft service failures, and an NSA network outage, stemmed from separate maintenance and technical changes. The FBI said it found no sign of malicious cyber activity.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/"
-    },
-    {
-      "tag": "US",
-      "headline": "Jeffries nominated for Speaker; Peltola wins Alaska Senate race",
-      "summary": "House Democrats easily nominated Hakeem Jeffries for Speaker, putting him in line to become the first Black Speaker when the new Congress convenes. In Alaska, Democrat Mary Peltola was projected to win the Senate race.",
-      "source": "Time",
-      "url": "https://time.com/article/2026/11/18/hakeem-jeffries-picked-by-democrats-first-black-speaker-of-the-house/"
-    }
+    {"tag": "AI", "headline": "Anthropic slips about 7% before the bell on day two", "summary": "Anthropic (ANT) fell roughly 6.5% to 6.8% in overnight and premarket trading after its Nasdaq debut on Thursday, when it opened at $111.50 and closed at $97.17 against an $83 IPO price. The first-day close valued the company at about $1.76 trillion. Investors had hoped the listing would calm AI jitters, but it ended up adding to profit-taking across AI stocks.", "source": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"},
+    {"tag": "Chips", "headline": "AI selloff goes global: Nikkei and KOSPI drop about 5%", "summary": "The rout in AI shares hit Asia overnight. Japan's Nikkei 225 fell about 5.1%, South Korea's KOSPI about 5.2%, and SoftBank Group dropped sharply. Europe's Stoxx 600 was down about 1.4% by midmorning. Deutsche Bank analysts warned that Asian chip profits flowing back into US AI stocks have created a new kind of circular risk. US chip stocks (Nvidia, AMD, Broadcom, Micron) were down 2.5% to 5.5% premarket.", "source": "Fortune", "url": "https://fortune.com/2026/11/20/anthropic-stock-decline-overnight-correction-global-selloff/"},
+    {"tag": "Software", "headline": "Intuit sells Mailchimp to Bending Spoons; stock tumbles", "summary": "Intuit agreed to sell Mailchimp to Bending Spoons for about $3.68 billion, mostly in cash plus about $368 million in Bending Spoons stock, with closing expected in early 2027. Intuit beat quarterly estimates but cut its fiscal 2027 revenue forecast to $23.08 billion to $23.37 billion. Shares were down about 11% premarket.", "source": "Investing.com via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"},
+    {"tag": "Policy", "headline": "Congress widens probe into AI chips reaching China", "summary": "Rep. Brian Mast said the Commerce Department approved licenses for more than 879,000 AI chips to Chinese companies. Separately, former Nvidia CEO Jensen Huang agreed to testify to the Senate and sit for a closed-door House interview after Thanksgiving, in a probe of about $4 billion in Nvidia chips that allegedly reached China through a Singapore firm. Huang has not been charged.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"},
+    {"tag": "Policy", "headline": "Senate passes permitting overhaul backed by AI and energy firms", "summary": "The Senate approved the BAAJA permitting-reform bill, which aims to speed approvals for energy and infrastructure projects. AI companies and power producers backed it because data center growth is straining the grid and new power plants face long permitting delays.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"},
+    {"tag": "Security", "headline": "White House cyber director is leaving; officials say the outages weren't a coordinated attack", "summary": "National Cyber Director Sean Cairncross is leaving the White House, and President Trump named Kirsten Davies to replace him, according to Politico and Axios. The change follows a week of outages at Chase, United, PlayStation and Fortnite. Officials say they have found no evidence of a coordinated cyberattack.", "source": "Everything Briefing (citing Politico, Axios)", "url": "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"}
   ],
   "markets": {
-    "asOf": "market close, Nov 19",
-    "summary": "Stocks reversed early gains and fell about 2% as Anthropic's debut sparked profit-taking in AI names; the VIX jumped to about 28, its highest since March.",
+    "asOf": "pre-market, Nov 20 (index values are Thursday's close; changes are futures as of ~4:00 AM CT)",
+    "summary": "Futures pointed lower again, with the Nasdaq hit hardest, after Thursday's 2% drop. The S&P 500 has fallen six sessions in a row, and the Nasdaq is now about 13.6% below its October record.",
     "indexes": [
-      {
-        "name": "Dow",
-        "value": "49,097",
-        "change": "-2.2%"
-      },
-      {
-        "name": "S&P 500",
-        "value": "7,176",
-        "change": "-2.0%"
-      },
-      {
-        "name": "Nasdaq",
-        "value": "23,879",
-        "change": "-2.3%"
-      },
-      {
-        "name": "10-yr yield",
-        "value": "5.05%",
-        "change": "-0.01"
-      },
-      {
-        "name": "WTI oil",
-        "value": "$83.08",
-        "change": "+0.9%"
-      },
-      {
-        "name": "Bitcoin",
-        "value": "$61,830",
-        "change": "-0.7%"
-      }
+      {"name": "Dow", "value": "49,097", "change": "-0.2%"},
+      {"name": "S&P 500", "value": "7,176", "change": "-0.8%"},
+      {"name": "Nasdaq", "value": "23,879", "change": "-1.6%"},
+      {"name": "10-yr yield", "value": "5.05%", "change": "-0.01"},
+      {"name": "WTI oil", "value": "$83.21", "change": ""},
+      {"name": "Bitcoin", "value": "$61,664", "change": "-3%"}
     ],
     "movers": [
-      {
-        "symbol": "ANT",
-        "name": "Anthropic",
-        "change": "+17.1%",
-        "note": "Closed at $97.17 vs. $83 IPO price after opening at $111.50."
-      },
-      {
-        "symbol": "PANW",
-        "name": "Palo Alto Networks",
-        "change": "+6.4%",
-        "note": "Beat estimates, raised outlook, agreed to buy Applied Compute."
-      },
-      {
-        "symbol": "WSM",
-        "name": "Williams-Sonoma",
-        "change": "-15.1%",
-        "note": "Sales grew 5.8% but it only held its full-year outlook."
-      },
-      {
-        "symbol": "NVDA",
-        "name": "Nvidia",
-        "change": "-3.3%",
-        "note": "Chipmakers gave up early gains as investors rotated out of AI."
-      },
-      {
-        "symbol": "INTU",
-        "name": "Intuit",
-        "change": "-14.6%",
-        "note": "After hours: earnings beat, Mailchimp sale; outlook disappointed investors."
-      }
+      {"symbol": "ANT", "name": "Anthropic", "change": "-6.8%", "note": "Gives back part of its 17% first-day gain."},
+      {"symbol": "INTU", "name": "Intuit", "change": "-11%", "note": "Mailchimp sale and a lower revenue outlook."},
+      {"symbol": "AMD", "name": "AMD", "change": "-5%", "note": "Chip stocks slid as the AI selloff spread overseas."},
+      {"symbol": "NVDA", "name": "Nvidia", "change": "-2.6%", "note": "Extends a six-session losing streak."},
+      {"symbol": "GAP", "name": "Gap", "change": "+2.5%", "note": "Old Navy sales and earnings beat estimates."},
+      {"symbol": "ROST", "name": "Ross Stores", "change": "-3%", "note": "Holiday-quarter guidance disappointed."}
     ],
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-  }
+    "source": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+  },
+  "other": [
+    {"tag": "Business", "headline": "December rate hike now nearly fully priced in", "summary": "Philadelphia Fed President Anna Paulson said the Fed will need to raise rates again because inflation is still too high. Futures markets now show about a 98% chance of a hike at the December meeting. Next week's PCE inflation report is the next big test.", "source": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"},
+    {"tag": "World", "headline": "Ukraine hits Crimea bridge for a third time this week", "summary": "A third Ukrainian strike in a week halted road and rail traffic over the Kerch bridge. Putin ruled out territorial concessions and promised a painful response. Meanwhile, Trump told European leaders he believes Putin wants to end the war.", "source": "Reuters", "url": "https://www.reuters.com/world/china/third-attack-week-suspends-traffic-over-crimean-bridge-russian-official-says-2026-11-19/"},
+    {"tag": "US", "headline": "Senate rejects House-passed Iran war powers measure", "summary": "The Senate voted 51-48 against a resolution that would have limited further US strikes on Iran without congressional approval. Tensions in the Gulf remain high after Iranian drone launches toward Kuwait and Bahrain and a US strike on an IRGC missile site.", "source": "Washington Post", "url": "https://www.washingtonpost.com/politics/2026/11/19/senate-rejects-resolution-block-trump-striking-iran/"},
+    {"tag": "World", "headline": "World Court finds Myanmar committed genocide against Rohingya", "summary": "In a 9-6 ruling, the International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority. It is the court's first finding of genocide against a state in a case of this kind.", "source": "AP", "url": "https://apnews.com/article/rohingya-myanmar-genocide-court-icj-30df77b12bf3f911f1100e77ebe3973a"},
+    {"tag": "US", "headline": "Record flooding in Florida; atmospheric river soaks California", "summary": "Parts of Florida's east coast got more than a foot of rain in 48 hours, and the St. Johns River reached a record level. In California, an atmospheric river closed Interstate 80 near Donner Pass.", "source": "AP", "url": "https://apnews.com/article/extreme-weather-flooding-florida-california-storms-11c05b72dad87373b5632c0f4bb322f5"}
+  ]
 }

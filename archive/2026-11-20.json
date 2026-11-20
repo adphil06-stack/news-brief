@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-20",
+  "dateLabel": "Friday, November 20, 2026",
+  "updated": "6:58 AM CT, Nov 20",
+  "glance": [
+    "Nasdaq futures fell about 1.6% before dawn as the AI selloff spread to Asia and Europe; Wall Street is headed for its worst week since April 2025.",
+    "Anthropic shares slid nearly 7% in premarket trading, a day after closing its first session 17% above the $83 IPO price.",
+    "Japan's Nikkei and South Korea's KOSPI each dropped about 5% overnight; SoftBank had one of its worst days in years.",
+    "Intuit fell about 11% premarket after agreeing to sell Mailchimp for $3.68 billion and trimming its revenue outlook.",
+    "Futures now price a near-certain Fed rate hike in December after a Philadelphia Fed official said rates must rise again."
+  ],
+  "tech": [
+    {"tag": "AI", "headline": "Anthropic slips about 7% before the bell on day two", "summary": "Anthropic (ANT) fell roughly 6.5% to 6.8% in overnight and premarket trading after its Nasdaq debut on Thursday, when it opened at $111.50 and closed at $97.17 against an $83 IPO price. The first-day close valued the company at about $1.76 trillion. Investors had hoped the listing would calm AI jitters, but it ended up adding to profit-taking across AI stocks.", "source": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"},
+    {"tag": "Chips", "headline": "AI selloff goes global: Nikkei and KOSPI drop about 5%", "summary": "The rout in AI shares hit Asia overnight. Japan's Nikkei 225 fell about 5.1%, South Korea's KOSPI about 5.2%, and SoftBank Group dropped sharply. Europe's Stoxx 600 was down about 1.4% by midmorning. Deutsche Bank analysts warned that Asian chip profits flowing back into US AI stocks have created a new kind of circular risk. US chip stocks (Nvidia, AMD, Broadcom, Micron) were down 2.5% to 5.5% premarket.", "source": "Fortune", "url": "https://fortune.com/2026/11/20/anthropic-stock-decline-overnight-correction-global-selloff/"},
+    {"tag": "Software", "headline": "Intuit sells Mailchimp to Bending Spoons; stock tumbles", "summary": "Intuit agreed to sell Mailchimp to Bending Spoons for about $3.68 billion, mostly in cash plus about $368 million in Bending Spoons stock, with closing expected in early 2027. Intuit beat quarterly estimates but cut its fiscal 2027 revenue forecast to $23.08 billion to $23.37 billion. Shares were down about 11% premarket.", "source": "Investing.com via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html"},
+    {"tag": "Policy", "headline": "Congress widens probe into AI chips reaching China", "summary": "Rep. Brian Mast said the Commerce Department approved licenses for more than 879,000 AI chips to Chinese companies. Separately, former Nvidia CEO Jensen Huang agreed to testify to the Senate and sit for a closed-door House interview after Thanksgiving, in a probe of about $4 billion in Nvidia chips that allegedly reached China through a Singapore firm. Huang has not been charged.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"},
+    {"tag": "Policy", "headline": "Senate passes permitting overhaul backed by AI and energy firms", "summary": "The Senate approved the BAAJA permitting-reform bill, which aims to speed approvals for energy and infrastructure projects. AI companies and power producers backed it because data center growth is straining the grid and new power plants face long permitting delays.", "source": "CNBC", "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"},
+    {"tag": "Security", "headline": "White House cyber director is leaving; officials say the outages weren't a coordinated attack", "summary": "National Cyber Director Sean Cairncross is leaving the White House, and President Trump named Kirsten Davies to replace him, according to Politico and Axios. The change follows a week of outages at Chase, United, PlayStation and Fortnite. Officials say they have found no evidence of a coordinated cyberattack.", "source": "Everything Briefing (citing Politico, Axios)", "url": "https://everythingbriefing.substack.com/p/congress-politics-and-todays-history"}
+  ],
+  "markets": {
+    "asOf": "pre-market, Nov 20 (index values are Thursday's close; changes are futures as of ~4:00 AM CT)",
+    "summary": "Futures pointed lower again, with the Nasdaq hit hardest, after Thursday's 2% drop. The S&P 500 has fallen six sessions in a row, and the Nasdaq is now about 13.6% below its October record.",
+    "indexes": [
+      {"name": "Dow", "value": "49,097", "change": "-0.2%"},
+      {"name": "S&P 500", "value": "7,176", "change": "-0.8%"},
+      {"name": "Nasdaq", "value": "23,879", "change": "-1.6%"},
+      {"name": "10-yr yield", "value": "5.05%", "change": "-0.01"},
+      {"name": "WTI oil", "value": "$83.21", "change": ""},
+      {"name": "Bitcoin", "value": "$61,664", "change": "-3%"}
+    ],
+    "movers": [
+      {"symbol": "ANT", "name": "Anthropic", "change": "-6.8%", "note": "Gives back part of its 17% first-day gain."},
+      {"symbol": "INTU", "name": "Intuit", "change": "-11%", "note": "Mailchimp sale and a lower revenue outlook."},
+      {"symbol": "AMD", "name": "AMD", "change": "-5%", "note": "Chip stocks slid as the AI selloff spread overseas."},
+      {"symbol": "NVDA", "name": "Nvidia", "change": "-2.6%", "note": "Extends a six-session losing streak."},
+      {"symbol": "GAP", "name": "Gap", "change": "+2.5%", "note": "Old Navy sales and earnings beat estimates."},
+      {"symbol": "ROST", "name": "Ross Stores", "change": "-3%", "note": "Holiday-quarter guidance disappointed."}
+    ],
+    "source": "Reuters via Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+  },
+  "other": [
+    {"tag": "Business", "headline": "December rate hike now nearly fully priced in", "summary": "Philadelphia Fed President Anna Paulson said the Fed will need to raise rates again because inflation is still too high. Futures markets now show about a 98% chance of a hike at the December meeting. Next week's PCE inflation report is the next big test.", "source": "Reuters via Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"},
+    {"tag": "World", "headline": "Ukraine hits Crimea bridge for a third time this week", "summary": "A third Ukrainian strike in a week halted road and rail traffic over the Kerch bridge. Putin ruled out territorial concessions and promised a painful response. Meanwhile, Trump told European leaders he believes Putin wants to end the war.", "source": "Reuters", "url": "https://www.reuters.com/world/china/third-attack-week-suspends-traffic-over-crimean-bridge-russian-official-says-2026-11-19/"},
+    {"tag": "US", "headline": "Senate rejects House-passed Iran war powers measure", "summary": "The Senate voted 51-48 against a resolution that would have limited further US strikes on Iran without congressional approval. Tensions in the Gulf remain high after Iranian drone launches toward Kuwait and Bahrain and a US strike on an IRGC missile site.", "source": "Washington Post", "url": "https://www.washingtonpost.com/politics/2026/11/19/senate-rejects-resolution-block-trump-striking-iran/"},
+    {"tag": "World", "headline": "World Court finds Myanmar committed genocide against Rohingya", "summary": "In a 9-6 ruling, the International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority. It is the court's first finding of genocide against a state in a case of this kind.", "source": "AP", "url": "https://apnews.com/article/rohingya-myanmar-genocide-court-icj-30df77b12bf3f911f1100e77ebe3973a"},
+    {"tag": "US", "headline": "Record flooding in Florida; atmospheric river soaks California", "summary": "Parts of Florida's east coast got more than a foot of rain in 48 hours, and the St. Johns River reached a record level. In California, an atmospheric river closed Interstate 80 near Donner Pass.", "source": "AP", "url": "https://apnews.com/article/extreme-weather-flooding-florida-california-storms-11c05b72dad87373b5632c0f4bb322f5"}
+  ]
+}
