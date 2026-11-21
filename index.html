@@ -50,7 +50,7 @@
   .tag { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; font-size: 11px; font-weight: 700;
     text-transform: uppercase; letter-spacing: 0.1em; color: var(--kicker); }
   .src { font-size: 13px; font-style: italic; color: var(--muted); }
-  .src a { color: var(--link); text-decoration: underline; text-decoration-color: var(--hair); text-underline-offset: 2px; }
+  .src a { color: var(--link); text-decoration: underline; }
   .mkt-take { font-style: italic; margin: 10px 0 12px; }
   .mkt-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; border-top: 1px solid var(--hair); border-left: 1px solid var(--hair); }
   .mkt-cell { padding: 8px 8px 7px; border-right: 1px solid var(--hair); border-bottom: 1px solid var(--hair); }
@@ -108,7 +108,7 @@ function story(s) {
     ${s.tag ? `<div class="tag">${esc(s.tag)}</div>` : ""}
     <h3>${esc(s.headline)}</h3>
     <p>${esc(s.summary)}</p>
-    ${s.url ? `<div class="src"><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.source || "Source")} ↗</a></div>` : ""}
+    ${s.url ? `<div class="src"><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.source || "Source")}</a></div>` : ""}
   </article>`;
 }
 
@@ -124,7 +124,7 @@ function markets(m) {
     ${m.summary ? `<p class="mkt-take">${esc(m.summary)}</p>` : ""}
     ${cells ? `<div class="mkt-grid">${cells}</div>` : ""}
     ${movers ? `<ul class="movers">${movers}</ul>` : ""}
-    <div class="mkt-asof">${m.asOf ? "As of " + esc(m.asOf) : ""}${m.url ? ` · <span class="src"><a href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">${esc(m.source || "Source")} ↗</a></span>` : ""}</div>
+    <div class="mkt-asof">${m.asOf ? "As of " + esc(m.asOf) : ""}${m.url ? ` · <span class="src"><a href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">${esc(m.source || "Source")}</a></span>` : ""}</div>
   </section>`;
 }
 
