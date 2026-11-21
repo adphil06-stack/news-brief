@@ -1,12 +1,12 @@
 {
   "date": "2026-11-21",
   "dateLabel": "Saturday, November 21, 2026",
-  "updated": "11:15 AM CT, Nov 21",
+  "updated": "4:15 PM CT, Nov 21",
   "glance": [
+    "Bitcoin plunged to about $55,000 Saturday, its lowest in two years, before bouncing back near $60,000 as liquidations topped $1 billion.",
+    "Mexico captured cartel boss Fausto Isidro Meza Flores, one of the FBI's most wanted; at least 11 died in ensuing clashes in Sinaloa.",
     "The SEC is reportedly probing Nvidia's accounting after the stock fell 14% Friday, capping a seven-week, 44% slide.",
     "CrowdStrike is said to be in talks to buy Zscaler, a deal that would create a roughly $265 billion security giant.",
-    "Amazon says China-linked hackers used autonomous AI agents to find and exploit a zero-day in a medical imaging app.",
-    "Intuit is selling Mailchimp to Bending Spoons for $3.68 billion, far below the $12 billion it paid in 2021.",
     "Wall Street ended its worst week since April 2025, with the S&P 500 and Dow in correction territory."
   ],
   "tech": [
@@ -62,30 +62,116 @@
   ],
   "markets": {
     "asOf": "market close, Nov 20 (markets closed for the weekend)",
-    "summary": "An AI-led selloff sent the S&P 500 down for a seventh straight day and into a correction, capping Wall Street's worst week since April 2025 as investors fled to Treasurys and defensive stocks.",
+    "summary": "An AI-led selloff sent the S&P 500 down for a seventh straight day and into a correction, capping Wall Street's worst week since April 2025; the rout spilled into crypto over the weekend.",
     "indexes": [
-      {"name": "Dow", "value": "48,147", "change": "-1.9%"},
-      {"name": "S&P 500", "value": "6,910", "change": "-3.7%"},
-      {"name": "Nasdaq", "value": "22,618", "change": "-5.3%"},
-      {"name": "10-yr yield", "value": "4.91%", "change": "-0.13"},
-      {"name": "WTI oil", "value": "", "change": ""},
-      {"name": "Bitcoin", "value": "~$57,000", "change": ""}
+      {
+        "name": "Dow",
+        "value": "48,147",
+        "change": "-1.9%"
+      },
+      {
+        "name": "S&P 500",
+        "value": "6,910",
+        "change": "-3.7%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "22,618",
+        "change": "-5.3%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "4.91%",
+        "change": "-0.13"
+      },
+      {
+        "name": "WTI oil",
+        "value": "$83.41",
+        "change": "+1.2%"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "~$60,000 (Sat)",
+        "change": ""
+      }
     ],
     "movers": [
-      {"symbol": "NVDA", "name": "Nvidia", "change": "-14%", "note": "Lowest close in 18 months; SEC accounting probe reported."},
-      {"symbol": "ZS", "name": "Zscaler", "change": "+15%", "note": "After hours, on report CrowdStrike is in buyout talks."},
-      {"symbol": "GS", "name": "Goldman Sachs", "change": "-7%", "note": "Banks hit as the broad selloff deepened."},
-      {"symbol": "AMZN", "name": "Amazon", "change": "-5%", "note": "Big AI spenders sold alongside chipmakers."},
-      {"symbol": "UNH", "name": "UnitedHealth", "change": "+3%", "note": "Analyst upgrade; defensive stocks gained."}
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "-14%",
+        "note": "Lowest close in 18 months; SEC accounting probe reported."
+      },
+      {
+        "symbol": "ZS",
+        "name": "Zscaler",
+        "change": "+15%",
+        "note": "After hours, on report CrowdStrike is in buyout talks."
+      },
+      {
+        "symbol": "GS",
+        "name": "Goldman Sachs",
+        "change": "-7%",
+        "note": "Banks hit as the broad selloff deepened."
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "change": "-5%",
+        "note": "Big AI spenders sold alongside chipmakers."
+      },
+      {
+        "symbol": "UNH",
+        "name": "UnitedHealth",
+        "change": "+3%",
+        "note": "Analyst upgrade; defensive stocks gained."
+      }
     ],
     "source": "AP via The Mother Lode",
     "url": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
   },
   "other": [
-    {"tag": "Business", "headline": "YouTube nears $3 billion settlement with school districts", "summary": "YouTube reached an agreement in principle to pay about $3 billion to US school districts that accused it of fostering addiction among students, Bloomberg reported. Finalizing the deal could take months.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"},
-    {"tag": "World", "headline": "Russian strikes kill at least 10 in Kyiv and Lviv", "summary": "Russian attacks hit bridges in Kyiv and a rail station in Lviv, killing at least 10 people. Poland said Russian objects crossed into its airspace during the barrage.", "source": "BBC", "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"},
-    {"tag": "World", "headline": "Trump, Xi and Putin pledge to reduce nuclear risk", "summary": "The three leaders committed to steps aimed at lowering the danger of nuclear conflict, though the pledge left the war in Ukraine unresolved.", "source": "New York Times", "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html"},
-    {"tag": "US", "headline": "Senate blocks Iran war powers measure, passes permitting bill", "summary": "The Senate rejected an effort to limit the president's authority to wage war on Iran, and separately approved legislation to speed permitting for energy and infrastructure projects.", "source": "New York Times", "url": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html"},
-    {"tag": "World", "headline": "World Court rules Myanmar committed genocide against Rohingya", "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority, a landmark ruling in the case brought by Gambia.", "source": "AP", "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78"}
+    {
+      "tag": "Business",
+      "headline": "Bitcoin briefly sinks to $55,000, a two-year low",
+      "summary": "The selloff in tech stocks spread to crypto Saturday, with Bitcoin dropping to roughly $55,000 for the first time in two years before recovering to around $60,000. More than $1 billion in leveraged positions were liquidated during the plunge.",
+      "source": "The Crypto Times",
+      "url": "https://www.cryptotimes.io/2026/11/21/bitcoin-reclaims-60k-after-plunging-to-55k-as-liquidations-top-1b/"
+    },
+    {
+      "tag": "World",
+      "headline": "Mexico captures cartel leader 'El Chapo Isidro'; 11 killed in Sinaloa",
+      "summary": "Mexican forces arrested Fausto Isidro Meza Flores, a cartel boss on the FBI's 10 most wanted list, in an operation that used US intelligence. Seven alleged gunmen and four soldiers were killed in a firefight that began Friday night.",
+      "source": "AP",
+      "url": "https://www.crossville-chronicle.com/news/ap_news/ap-news-summary-at-2-55-p-m-est/article_ed91a8d6-2809-5e35-b385-0983419e3468.html"
+    },
+    {
+      "tag": "World",
+      "headline": "Russian strikes hit Kryvyi Rih after deadly attacks on Kyiv and Lviv",
+      "summary": "A ballistic missile attack on Zelenskyy's hometown overnight killed two and wounded about 60, damaging a hospital and schools, a day after strikes in Kyiv and Lviv killed at least 10. A Russian cargo ship caught fire in the Gulf of Finland after a drone hit, and Finland's prime minister warned the war is spilling into the region.",
+      "source": "AP",
+      "url": "https://www.clintonherald.com/news/national_news/ap-news-summary-at-12-13-p-m-est/article_93e6263a-1143-50da-84b9-7da1651e9ff0.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "YouTube nears $3 billion settlement with school districts",
+      "summary": "YouTube reached an agreement in principle to pay about $3 billion to US school districts that accused it of fostering addiction among students, Bloomberg reported. Finalizing the deal could take months.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
+    },
+    {
+      "tag": "World",
+      "headline": "Trump, Xi and Putin pledge to reduce nuclear risk",
+      "summary": "The three leaders committed to steps aimed at lowering the danger of nuclear conflict, though the pledge left the war in Ukraine unresolved.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html"
+    },
+    {
+      "tag": "World",
+      "headline": "World Court rules Myanmar committed genocide against Rohingya",
+      "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority, a landmark ruling in the case brought by Gambia.",
+      "source": "AP",
+      "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78"
+    }
   ]
 }
