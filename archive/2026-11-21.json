@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-21",
+  "dateLabel": "Saturday, November 21, 2026",
+  "updated": "6:15 AM CT, Nov 21",
+  "glance": [
+    "The SEC is reportedly probing Nvidia's accounting, after the stock fell 14% Friday to cap a seven-week, 44% slide.",
+    "CrowdStrike is said to be in talks to buy Zscaler in a deal that would create a roughly $265 billion security giant.",
+    "Wall Street closed its worst week since April 2025: S&P 500 -3.7% and Nasdaq -5.3% on Friday, with the S&P and Dow in correction.",
+    "Trump threatened to block or heavily tax US companies that build data centers abroad.",
+    "YouTube reportedly agreed in principle to pay about $3 billion to US school districts over youth-addiction claims."
+  ],
+  "tech": [
+    {
+      "tag": "Chips",
+      "headline": "SEC reportedly probing Nvidia's accounting as the stock's slide deepens",
+      "summary": "Regulators are examining Nvidia's accounting practices, including a change last year in how it reports revenue by geography, according to Reuters sources. The news landed on a day Nvidia closed down 14%, its seventh straight weekly decline and a 44% drop over seven weeks, the longest losing streak since the 2008 crisis. The company is already without founder Jensen Huang, who resigned Nov 12, and faces a California subpoena.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+    },
+    {
+      "tag": "Security",
+      "headline": "CrowdStrike in talks to acquire Zscaler",
+      "summary": "CrowdStrike is negotiating to buy rival Zscaler, Bloomberg reported Friday, a deal that would combine two of the largest cloud security firms into a company worth about $265 billion. Zscaler shares jumped more than 15% after hours. It would be one of the biggest tech deals of the year, arriving in the middle of a sharp market selloff.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Trump threatens tax on US data centers built overseas",
+      "summary": "President Trump said he would bar US companies from building data centers abroad or hit them with a steep tax if they do. The threat adds to policy uncertainty for AI infrastructure spending, which has been at the center of this month's tech-stock rout.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
+    },
+    {
+      "tag": "Security",
+      "headline": "Hackers breached USDA farmer-payment system",
+      "summary": "Hackers got into the Agriculture Department system that handles payments to farmers earlier this week, NBC News reported, citing sources. The extent of the access and any data taken were not yet clear. It follows the EU Commission breach and the departure of the top US cyber official reported earlier this week.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic's IPO tops $93 billion after greenshoe; stock still above offer price",
+      "summary": "Underwriters exercised their option to buy extra shares, adding $12.2 billion and bringing Anthropic's total IPO raise to about $93.5 billion, per CNBC (some reports cite a higher figure). Shares slid for a second day Friday amid the AI selloff but stayed above the $83 offer price. Separately, an Anthropic mathematician claimed to have used Claude to prove the Riemann hypothesis; the claim is unverified.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+    },
+    {
+      "tag": "Startups",
+      "headline": "Databricks and Cognition seek new funding despite the rout",
+      "summary": "Databricks is in early talks to raise several billion dollars at about a $225 billion valuation, up from $190 billion in August, the WSJ reported. Cognition, maker of the Devin coding agent, is weighing a $2 billion-plus raise at a $75 billion valuation, per Bloomberg. Private AI valuations are still climbing even as public AI stocks fall.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de"
+    },
+    {
+      "tag": "Gadgets",
+      "headline": "GTA VI posts $3.79 billion in day-one sales",
+      "summary": "Take-Two said Grand Theft Auto VI brought in $3.79 billion on its first day, a record-scale launch for an entertainment product. The release is a major test for console demand heading into the holiday shopping season.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/"
+    }
+  ],
+  "markets": {
+    "asOf": "market close, Nov 20 (markets closed for the weekend)",
+    "summary": "An AI-led selloff sent the S&P 500 down for a seventh straight day and into a correction, capping Wall Street's worst week since April 2025 as investors fled to Treasurys and defensive stocks.",
+    "indexes": [
+      {
+        "name": "Dow",
+        "value": "48,147",
+        "change": "-1.9%"
+      },
+      {
+        "name": "S&P 500",
+        "value": "6,910",
+        "change": "-3.7%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "22,618",
+        "change": "-5.3%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "4.91%",
+        "change": "-0.13"
+      },
+      {
+        "name": "WTI oil",
+        "value": "",
+        "change": ""
+      },
+      {
+        "name": "Bitcoin",
+        "value": "~$57,000",
+        "change": ""
+      }
+    ],
+    "movers": [
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "-14%",
+        "note": "Lowest close in 18 months; SEC accounting probe reported."
+      },
+      {
+        "symbol": "ZS",
+        "name": "Zscaler",
+        "change": "+15%",
+        "note": "After hours, on report CrowdStrike is in buyout talks."
+      },
+      {
+        "symbol": "GS",
+        "name": "Goldman Sachs",
+        "change": "-7%",
+        "note": "Banks hit as the broad selloff deepened."
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "change": "-5%",
+        "note": "Big AI spenders sold alongside chipmakers."
+      },
+      {
+        "symbol": "UNH",
+        "name": "UnitedHealth",
+        "change": "+3%",
+        "note": "Analyst upgrade; defensive stocks gained."
+      }
+    ],
+    "source": "AP via The Mother Lode",
+    "url": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
+  },
+  "other": [
+    {
+      "tag": "Business",
+      "headline": "YouTube nears $3 billion settlement with school districts",
+      "summary": "YouTube reached an agreement in principle to pay about $3 billion to US school districts that accused it of fostering addiction among students, Bloomberg reported. Finalizing the deal could take months.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
+    },
+    {
+      "tag": "World",
+      "headline": "Russian strikes kill at least 10 in Kyiv and Lviv",
+      "summary": "Russian attacks hit bridges in Kyiv and a rail station in Lviv, killing at least 10 people. Poland said Russian objects crossed into its airspace during the barrage.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+    },
+    {
+      "tag": "World",
+      "headline": "Trump, Xi and Putin pledge to reduce nuclear risk",
+      "summary": "The three leaders committed to steps aimed at lowering the danger of nuclear conflict, though the pledge left the war in Ukraine unresolved.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html"
+    },
+    {
+      "tag": "US",
+      "headline": "Senate blocks Iran war powers measure, passes permitting bill",
+      "summary": "The Senate rejected an effort to limit the president's authority to wage war on Iran, and separately approved legislation to speed permitting for energy and infrastructure projects.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html"
+    },
+    {
+      "tag": "World",
+      "headline": "World Court rules Myanmar committed genocide against Rohingya",
+      "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority, a landmark ruling in the case brought by Gambia.",
+      "source": "AP",
+      "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78"
+    }
+  ]
+}
