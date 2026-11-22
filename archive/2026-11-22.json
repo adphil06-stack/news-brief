@@ -1,61 +1,68 @@
 {
   "date": "2026-11-22",
   "dateLabel": "Sunday, November 22, 2026",
-  "updated": "11:15 AM CT, Nov 22",
+  "updated": "4:16 PM CT, Nov 22",
   "glance": [
-    "Amazon is reportedly near a $7.5 billion deal for AI startup Decart, possibly next week, to bolster AWS's AI compute push.",
-    "Nvidia's crisis deepens: Bessent wants board answers within 10 days, and an NYT report says China's spy agency has spent years targeting AI chips.",
-    "Russia's strike on an apartment block in Dymer near Kyiv has killed at least three; Zelensky says 14 were unaccounted for.",
-    "A researcher's bait test found AI providers leaking prompts: planted fake AWS keys were reused tens of thousands of times.",
-    "Markets are closed for the weekend after Wall Street's worst week since April 2025; Bitcoin sits near $59,000."
+    "Iran's Revolutionary Guard says weekend strikes on Bahrain targeted US Patriot sites; Gulf neighbors condemned the attack and new tanker incidents were reported Sunday.",
+    "Amazon is reportedly close to a $7.5 billion purchase of AI startup Decart, possibly announced next week.",
+    "Nvidia heads into a tense week: Washington wants board answers within 10 days, and chipmakers warn new US export rules reach further than expected.",
+    "The death toll from Russia's drone strike on an apartment block in Dymer near Kyiv has risen to four, with about 10 people still unaccounted for.",
+    "Bitcoin bounced about 5% to near $61,000 after Saturday's two-year low; stock futures reopen at 5 PM CT after Wall Street's worst week since April 2025."
   ],
   "tech": [
     {
       "tag": "Startups",
       "headline": "Amazon reportedly nears $7.5 billion deal for AI startup Decart",
-      "summary": "Amazon is in advanced talks to buy Decart, an AI startup focused on fast, efficient real-time AI generation, in a deal worth about $7.5 billion that could be announced as soon as next week, the Financial Times reports. The purchase would help AWS compete with Nvidia on AI compute and would be one of Amazon's largest AI acquisitions.",
-      "source": "Financial Times via Techmeme",
-      "url": "https://www.techmeme.com/"
+      "summary": "Amazon is in advanced talks to buy Decart, which builds fast, efficient real-time AI generation models, in a deal worth about $7.5 billion that could come as soon as next week, the Financial Times reports. It would rank among Amazon's largest AI acquisitions and strengthen AWS's push to rival Nvidia in AI compute.",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
     },
     {
       "tag": "Chips",
-      "headline": "Nvidia faces 10-day deadline from Washington amid SEC probe",
-      "summary": "After reports that the SEC is examining Nvidia's accounting and disclosures, Treasury Secretary Scott Bessent said he wants answers from the board and outside counsel within roughly 10 days. Nvidia has delayed its quarterly 10-Q filing and cited an independent board committee review, while the FT reports about half of 2025 revenue ran through its Singapore unit. The stock lost nearly $900 billion in value last week, its worst week since 2008.",
+      "headline": "Nvidia faces a 10-day deadline from Washington amid SEC scrutiny",
+      "summary": "After reports that the SEC is examining Nvidia's accounting and disclosures, Treasury Secretary Scott Bessent said he wants answers from the board and outside counsel within roughly 10 days. Nvidia has delayed its quarterly 10-Q and cited an independent board committee review. The stock lost nearly $900 billion in value last week, setting up a closely watched Monday open.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
     },
     {
       "tag": "Chips",
-      "headline": "NYT: China's spy agency has targeted AI chips for years",
-      "summary": "China's Ministry of State Security has run a campaign for at least two years to help Chinese companies obtain advanced AI chips and gather intelligence on the sector, according to The New York Times. The report ties the effort to the Megaspeed case at the center of the Nvidia chip-smuggling scandal and notes a new US rule requiring licenses for overseas data centers serving firms in listed countries. Beijing called the espionage claims fabricated.",
-      "source": "NYT via Business Standard",
-      "url": "https://www.business-standard.com/world-news/china-s-spies-set-sights-on-ai-semiconductors-years-before-nvidia-scandal-126112200539_1.html"
+      "headline": "Chip-smuggling probe widens as China spy report lands",
+      "summary": "An FT investigation traces ties between businesswoman Alice Huang, gaming firms and shell companies allegedly used to move Nvidia chips into China. Separately, The New York Times reports China's Ministry of State Security has worked for at least two years to help Chinese firms obtain advanced AI chips; Beijing called the claims fabricated.",
+      "source": "Financial Times / NYT",
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Supply chain warns new US export rules hit more than AI chips",
+      "summary": "Industry insiders told Nikkei Asia that the latest US export controls cover a broader range of semiconductors than expected, including system-on-chip parts used in consumer electronics. That could spread disruption well beyond data-center hardware into phones, PCs and other gadgets.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls"
     },
     {
       "tag": "Security",
-      "headline": "Bait test shows AI services leaking users' prompts",
-      "summary": "Security researcher HD Moore sent nearly 2 million prompts containing planted fake secrets to AI providers and found at least three providers breached, resellers logging prompts and some ignoring zero-retention settings. A couple hundred bait AWS keys were later tried tens of thousands of times by attackers. It is a warning against pasting credentials or sensitive data into chatbots.",
-      "source": "Ars Technica via Sam on AI",
-      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
+      "headline": "Bait test finds AI routers leaking users' secrets",
+      "summary": "Researchers fed planted fake credentials through AI routing services such as OpenRouter and Vercel and found privacy promises were often broken, even under zero-data-retention settings; some bait AWS keys were later tried tens of thousands of times by attackers. It is a strong reminder not to paste credentials into AI tools.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
     },
     {
-      "tag": "Security",
-      "headline": "Bell Canada says an AI-driven attacker stole enterprise customer data",
-      "summary": "Bell Canada disclosed a Nov. 17 breach by what it described as an agentic, AI-assisted attacker that took enterprise customer records, including circuit ordering and provisioning data. It joins a string of incidents this month in which attackers used AI agents to find and exploit flaws, including Amazon's report on China-linked hackers.",
-      "source": "BleepingComputer via EpiFive",
-      "url": "https://www.epifive.com/news/live/2026-11-21"
+      "tag": "AI",
+      "headline": "AI-aided proof tackles a famous Navier-Stokes problem",
+      "summary": "NYU mathematician Tristan Buckmaster and Anthropic's Levent Alpöge published an AI-assisted proof showing blowup in the Navier-Stokes fluid equations, Scientific American reports. If it holds up under expert review, it would be one of the most significant math results yet credited partly to AI.",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
     },
     {
-      "tag": "Big Tech",
-      "headline": "Google rolls out AI-first homepage without a search button",
-      "summary": "Google began rolling out a redesigned homepage built around its AI Mode, adding a chat-history sidebar and dropping the familiar Search button. It is one of the most visible changes to Google's front page in decades as the company pushes users toward conversational search.",
-      "source": "Ars Technica via EpiFive",
-      "url": "https://www.epifive.com/news/live/2026-11-21"
+      "tag": "Software",
+      "headline": "Microsoft will retire its To Do app in June 2027",
+      "summary": "Microsoft plans to shut down To Do on June 30, 2027, moving work and school users to Planner but offering no direct replacement for personal accounts, GeekWire reports. Longtime users of the popular list app are pushing back.",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/"
     }
   ],
   "markets": {
-    "asOf": "market close, Fri Nov 20 (futures reopen Sunday 5 PM CT); Bitcoin as of Sun morning",
-    "summary": "Stocks are coming off Wall Street's worst week since April 2025, with the S&P 500 and Dow in correction; Bitcoin is holding near $59,000 after Saturday's plunge to a two-year low.",
+    "asOf": "market close, Fri Nov 20 (futures reopen 5 PM CT Sunday); Bitcoin as of Sunday",
+    "summary": "Stocks are coming off Wall Street's worst week since April 2025, with the S&P 500 and Dow in correction; Bitcoin rebounded about 5% Sunday after hitting a two-year low Saturday.",
     "indexes": [
       {
         "name": "Dow",
@@ -84,8 +91,8 @@
       },
       {
         "name": "Bitcoin",
-        "value": "$58,900",
-        "change": "-2%"
+        "value": "$61,000",
+        "change": "+5%"
       }
     ],
     "movers": [
@@ -126,43 +133,43 @@
   "other": [
     {
       "tag": "World",
-      "headline": "Death toll rises in Russian strike on apartment block near Kyiv",
-      "summary": "At least three people have been killed after an overnight Russian attack tore apart a section of a five-story building in Dymer, north of Kyiv, with rescuers still searching the rubble; Zelensky earlier said 14 people were unaccounted for. He said Russia fired about 2,700 drones and 165 missiles at Ukraine over the past week.",
-      "source": "Mezha / Ukrainska Pravda",
-      "url": "https://mezha.net/eng/news/mezha-1c4c0140dac6fd53b1d896e5_the_death_toll"
+      "headline": "Iran says Bahrain strikes targeted US Patriot sites; tanker incidents reported",
+      "summary": "Iran's Revolutionary Guard said Saturday's attack on Bahrain, which sparked a fire at an industrial site in Sitra and injured two people, was aimed at US Patriot missile sites; Saudi Arabia, Kuwait and Qatar condemned it. On Sunday the IRGC claimed it downed a US drone near the Strait of Hormuz, and UK maritime authorities reported an incident involving a tanker and military forces in the Gulf of Oman.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+    },
+    {
+      "tag": "World",
+      "headline": "Dymer strike death toll rises to four",
+      "summary": "Zelensky said Sunday evening that four people were killed when a Russian drone tore apart a section of a five-story apartment building in Dymer, north of Kyiv, and that there was still no word on about 10 others. Rescuers pulled a child alive from the rubble; a separate strike on a supermarket in Vyshneve killed three.",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4187474-death-toll-from-russian-attack-in-dymer-rises-to-four-zelensky.html"
     },
     {
       "tag": "World",
       "headline": "NATO's eastern flank reports airspace scares",
-      "summary": "Poland's top operational commander said a NATO Swedish Gripen pilot was cleared to shoot down a suspected Russian cruise missile over Poland on Nov. 20 but couldn't identify it in bad weather. Moldova reported a Russian drone crossing its airspace twice, and Finland is investigating a suspected helicopter incursion.",
+      "summary": "Poland's operational commander said a NATO Gripen pilot was cleared to shoot down a suspected Russian cruise missile over Poland on Nov. 20 but couldn't identify it in bad weather. Moldova reported a Russian drone crossing its airspace twice, and Finland is probing a suspected helicopter incursion.",
       "source": "Kyiv Independent via Ukraine desk note",
       "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-22-november-2026"
     },
     {
       "tag": "US",
       "headline": "Trump orders contractors to loop in White House on congressional requests",
-      "summary": "President Trump issued an executive order directing federal contractors to coordinate with the White House when congressional committees request information from them. The move touches on how much direct access Congress has to companies doing government work.",
+      "summary": "President Trump signed an executive order directing federal contractors to coordinate with the White House when congressional committees ask them for information, a move that bears on Congress's direct oversight of companies doing government work.",
       "source": "CNN",
       "url": "https://cnn.com/2026/11/21/politics/trump-executive-order-federal-contractors-congressional-requests"
     },
     {
       "tag": "Business",
-      "headline": "Bitcoin steadies near $59,000 after two-year low",
-      "summary": "Bitcoin hovered around $58,900 Sunday after dropping to about $55,600 Saturday, leaving it more than 50% below its October 2025 peak. Spot Bitcoin ETFs have seen about $2.35 billion in recent outflows as the AI-led stock selloff spilled into crypto.",
-      "source": "Sunday Guardian",
-      "url": "https://sundayguardianlive.com/business/bitcoin-price-today-btc-trades-at-58875-as-indian-investors-track-the-latest-crypto-market-move-check-market-drivers-snapshot-more-325947/"
-    },
-    {
-      "tag": "Business",
-      "headline": "GTA VI pulls in $3.79 billion on day one",
-      "summary": "Take-Two Interactive said Grand Theft Auto VI generated $3.79 billion in first-day sales, a record-scale launch for the video game industry and a major test of consumer spending heading into the holidays.",
-      "source": "Variety via Techmeme",
-      "url": "https://www.techmeme.com/"
+      "headline": "China's tech giants set to double AI spending",
+      "summary": "Research firm Rhodium estimates China's largest tech companies will double capital spending to about $139 billion in 2026, while AI lab revenue covers less than 8% of that outlay, The New York Times reports.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html"
     },
     {
       "tag": "Sports",
       "headline": "Verstappen wins chaotic Las Vegas Grand Prix",
-      "summary": "Max Verstappen won Saturday night's race on the Strip as Lando Norris passed Kimi Antonelli for second on the final lap. George Russell crashed out and the two Ferraris collided, adding to a messy night for Mercedes and Ferrari.",
+      "summary": "Max Verstappen won Saturday night's race on the Strip as Lando Norris passed Kimi Antonelli for second on the final lap. George Russell crashed out and the two Ferraris collided.",
       "source": "The Race",
       "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-max-verstappen-wins-ferrari-drivers-collide/"
     }
