@@ -1,68 +1,61 @@
 {
-  "date": "2026-11-21",
-  "dateLabel": "Saturday, November 21, 2026",
-  "updated": "4:15 PM CT, Nov 21",
+  "date": "2026-11-22",
+  "dateLabel": "Sunday, November 22, 2026",
+  "updated": "6:16 AM CT, Nov 22",
   "glance": [
-    "Bitcoin plunged to about $55,000 Saturday, its lowest in two years, before bouncing back near $60,000 as liquidations topped $1 billion.",
-    "Mexico captured cartel boss Fausto Isidro Meza Flores, one of the FBI's most wanted; at least 11 died in ensuing clashes in Sinaloa.",
-    "The SEC is reportedly probing Nvidia's accounting after the stock fell 14% Friday, capping a seven-week, 44% slide.",
-    "CrowdStrike is said to be in talks to buy Zscaler, a deal that would create a roughly $265 billion security giant.",
-    "Wall Street ended its worst week since April 2025, with the S&P 500 and Dow in correction territory."
+    "Treasury Secretary Bessent wants answers from Nvidia's board within 10 days as the SEC accounting probe and filing delay weigh on the chipmaker.",
+    "A researcher's bait test found AI providers leaking prompts: planted fake AWS keys were reused tens of thousands of times.",
+    "Russia struck an apartment block in Dymer near Kyiv overnight; Zelensky says 14 people are unaccounted for.",
+    "Max Verstappen won a chaotic Las Vegas Grand Prix; Lando Norris grabbed second on the final lap.",
+    "Bitcoin trades near $59,000 Sunday after briefly sinking to about $55,600 Saturday, its lowest in two years."
   ],
   "tech": [
     {
       "tag": "Chips",
-      "headline": "SEC reportedly probing Nvidia's accounting as the stock's slide deepens",
-      "summary": "Regulators are examining Nvidia's accounting practices, including a change last year in how it reports revenue by geography, according to Reuters sources. The news landed on a day Nvidia closed down 14%, its seventh straight weekly decline and a 44% drop over seven weeks, the longest losing streak since the 2008 crisis. The company is already without founder Jensen Huang, who resigned Nov 12, and faces a California subpoena.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+      "headline": "Nvidia probe widens as Washington demands answers within 10 days",
+      "summary": "After reports that the SEC is examining Nvidia's accounting and disclosures, Treasury Secretary Scott Bessent said he wants answers from the board and outside counsel within roughly 10 days. Nvidia has delayed its quarterly 10-Q filing and cited an independent board committee review, while the FT reports about half of 2025 revenue ran through its Singapore unit. The stock lost nearly $900 billion in value last week, its worst week since 2008.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
     },
     {
       "tag": "Security",
-      "headline": "CrowdStrike in talks to acquire Zscaler",
-      "summary": "CrowdStrike is negotiating to buy rival Zscaler, Bloomberg reported Friday, a deal that would combine two of the largest cloud security firms into a company worth about $265 billion. Zscaler shares jumped more than 15% after hours. It would be one of the biggest tech deals of the year, arriving in the middle of a sharp market selloff.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"
+      "headline": "Bait test shows AI services leaking users' prompts",
+      "summary": "Security researcher HD Moore sent nearly 2 million prompts containing planted fake secrets to AI providers and found at least three providers breached, resellers logging prompts and some ignoring zero-retention settings. A couple hundred bait AWS keys were later tried tens of thousands of times by attackers. It is a warning against pasting credentials or sensitive data into chatbots.",
+      "source": "Ars Technica via Sam on AI",
+      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
     },
     {
       "tag": "Security",
-      "headline": "Amazon: China-linked hackers ran autonomous AI agents in attacks",
-      "summary": "Amazon's threat intelligence team said China-nexus actors used an AI agent framework to autonomously find and exploit a previously unknown flaw in MONAI Label, an open-source medical imaging tool, in a campaign against East Asian universities. It is one of the clearest documented cases of AI agents carrying out intrusions largely on their own. Separately this week, hackers breached a USDA farmer-payment system, NBC reported.",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
-    },
-    {
-      "tag": "AI",
-      "headline": "Claude-assisted Riemann hypothesis proof claim compiles but is unverified",
-      "summary": "Anthropic mathematician Levent Alpöge posted a claimed proof of the generalized Riemann hypothesis produced with Claude and written in the Lean proof language; an MIT mathematician reports the code compiles, but no expert has yet understood or accepted it. Earlier this week Anthropic's research model raised the proven share of zeta zeros on the critical line from 41.6% to 67.2%, which mathematicians called notable but not a route to the full conjecture.",
-      "source": "Scientific American",
-      "url": "https://scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math"
+      "headline": "Bell Canada says an AI-driven attacker stole enterprise customer data",
+      "summary": "Bell Canada disclosed a Nov. 17 breach by what it described as an agentic, AI-assisted attacker that took enterprise customer records, including circuit ordering and provisioning data. It joins a string of incidents this month in which attackers used AI agents to find and exploit flaws, including Amazon's report on China-linked hackers.",
+      "source": "BleepingComputer via EpiFive",
+      "url": "https://www.epifive.com/news/live/2026-11-21"
     },
     {
       "tag": "Software",
-      "headline": "Intuit sells Mailchimp to Bending Spoons for $3.68 billion",
-      "summary": "Bending Spoons, the Italian owner of Evernote, Vimeo and AOL, agreed to buy Mailchimp from Intuit for $3.68 billion, with Intuit reinvesting about $368 million. Intuit paid $12 billion for the email marketing firm in 2021 and says it will focus on AI-native tools for small businesses.",
-      "source": "Stock Analysis",
-      "url": "https://stockanalysis.com/news/intuit-to-sell-mailchimp-to-bending-spoons/"
+      "headline": "Signal blocks screenshots to keep AI assistants out of chats",
+      "summary": "Signal now restricts screenshots on iOS 27 and Android so built-in assistants like Siri and Gemini can't read conversations off the screen. Signal president Meredith Whittaker acknowledged the fix is incomplete.",
+      "source": "The Verge via Sam on AI",
+      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
     },
     {
-      "tag": "Policy",
-      "headline": "Trump threatens tax on US data centers built overseas",
-      "summary": "President Trump said he would bar US companies from building data centers abroad or hit them with a steep tax if they do. The threat adds to policy uncertainty for AI infrastructure spending, which has been at the center of this month's tech-stock rout.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
+      "tag": "Big Tech",
+      "headline": "Google rolls out AI-first homepage without a search button",
+      "summary": "Google began rolling out a redesigned homepage built around its AI Mode, adding a chat-history sidebar and dropping the familiar Search button. It is one of the most visible changes to Google's front page in decades as the company pushes users toward conversational search.",
+      "source": "Ars Technica via EpiFive",
+      "url": "https://www.epifive.com/news/live/2026-11-21"
     },
     {
-      "tag": "Startups",
-      "headline": "Private AI valuations keep climbing: Databricks, Cognition seek funds",
-      "summary": "Databricks is in early talks to raise several billion dollars at about a $225 billion valuation, up from $190 billion in August, the WSJ reported, and Cognition is weighing a $2 billion-plus raise at $75 billion. Meanwhile Anthropic's newly public shares slid for a second day Friday but held above the $83 IPO price after a greenshoe lifted its raise to about $93.5 billion.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de"
+      "tag": "AI",
+      "headline": "METR: AI agents now match skilled humans on coding tasks",
+      "summary": "Evaluation group METR's latest update finds frontier agents match or beat skilled humans on coding and optimization work but still trail experts on judgment-heavy tasks. The length of tasks AI can complete is doubling roughly every 3.6 months. Separately, OpenAI said new safeguards cut attempts to extract its models' hidden reasoning from 54% success to 0.2% in internal tests.",
+      "source": "Sam on AI",
+      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 20 (markets closed for the weekend)",
-    "summary": "An AI-led selloff sent the S&P 500 down for a seventh straight day and into a correction, capping Wall Street's worst week since April 2025; the rout spilled into crypto over the weekend.",
+    "asOf": "market close, Fri Nov 20 (futures reopen Sunday evening); Bitcoin as of Sun morning",
+    "summary": "Stocks are coming off Wall Street's worst week since April 2025, with the S&P 500 and Dow in correction; Bitcoin is holding near $59,000 after Saturday's plunge to a two-year low.",
     "indexes": [
       {
         "name": "Dow",
@@ -91,8 +84,8 @@
       },
       {
         "name": "Bitcoin",
-        "value": "~$60,000 (Sat)",
-        "change": ""
+        "value": "$58,900",
+        "change": "-2%"
       }
     ],
     "movers": [
@@ -132,46 +125,39 @@
   },
   "other": [
     {
+      "tag": "World",
+      "headline": "Russian strike hits apartment block near Kyiv; 14 unaccounted for",
+      "summary": "An overnight attack destroyed a section of a five-story building in Dymer, north of Kyiv, and President Zelensky said 14 people may be trapped under the rubble. Ukraine's air force said Russia launched 186 drones, 161 of which were downed or jammed. Separately, Britain agreed to fund production of Ukrainian strike drones in the UK.",
+      "source": "Kyiv Independent via Ukraine desk note",
+      "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-22-november-2026"
+    },
+    {
+      "tag": "World",
+      "headline": "NATO's eastern flank reports airspace scares",
+      "summary": "Poland's top operational commander said a NATO Swedish Gripen pilot was cleared to shoot down a suspected Russian cruise missile over Poland on Nov. 20 but couldn't identify it in bad weather. Moldova reported a Russian drone crossing its airspace twice, and Finland is investigating a suspected helicopter incursion.",
+      "source": "Kyiv Independent via Ukraine desk note",
+      "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-22-november-2026"
+    },
+    {
+      "tag": "US",
+      "headline": "Trump orders contractors to loop in White House on congressional requests",
+      "summary": "President Trump issued an executive order directing federal contractors to coordinate with the White House when congressional committees request information from them. The move touches on how much direct access Congress has to companies doing government work.",
+      "source": "CNN",
+      "url": "https://cnn.com/2026/11/21/politics/trump-executive-order-federal-contractors-congressional-requests"
+    },
+    {
       "tag": "Business",
-      "headline": "Bitcoin briefly sinks to $55,000, a two-year low",
-      "summary": "The selloff in tech stocks spread to crypto Saturday, with Bitcoin dropping to roughly $55,000 for the first time in two years before recovering to around $60,000. More than $1 billion in leveraged positions were liquidated during the plunge.",
-      "source": "The Crypto Times",
-      "url": "https://www.cryptotimes.io/2026/11/21/bitcoin-reclaims-60k-after-plunging-to-55k-as-liquidations-top-1b/"
+      "headline": "Bitcoin steadies near $59,000 after two-year low",
+      "summary": "Bitcoin hovered around $58,900 Sunday after dropping to about $55,600 Saturday, leaving it more than 50% below its October 2025 peak. Spot Bitcoin ETFs have seen about $2.35 billion in recent outflows as the AI-led stock selloff spilled into crypto.",
+      "source": "Sunday Guardian",
+      "url": "https://sundayguardianlive.com/business/bitcoin-price-today-btc-trades-at-58875-as-indian-investors-track-the-latest-crypto-market-move-check-market-drivers-snapshot-more-325947/"
     },
     {
-      "tag": "World",
-      "headline": "Mexico captures cartel leader 'El Chapo Isidro'; 11 killed in Sinaloa",
-      "summary": "Mexican forces arrested Fausto Isidro Meza Flores, a cartel boss on the FBI's 10 most wanted list, in an operation that used US intelligence. Seven alleged gunmen and four soldiers were killed in a firefight that began Friday night.",
-      "source": "AP",
-      "url": "https://www.crossville-chronicle.com/news/ap_news/ap-news-summary-at-2-55-p-m-est/article_ed91a8d6-2809-5e35-b385-0983419e3468.html"
-    },
-    {
-      "tag": "World",
-      "headline": "Russian strikes hit Kryvyi Rih after deadly attacks on Kyiv and Lviv",
-      "summary": "A ballistic missile attack on Zelenskyy's hometown overnight killed two and wounded about 60, damaging a hospital and schools, a day after strikes in Kyiv and Lviv killed at least 10. A Russian cargo ship caught fire in the Gulf of Finland after a drone hit, and Finland's prime minister warned the war is spilling into the region.",
-      "source": "AP",
-      "url": "https://www.clintonherald.com/news/national_news/ap-news-summary-at-12-13-p-m-est/article_93e6263a-1143-50da-84b9-7da1651e9ff0.html"
-    },
-    {
-      "tag": "Business",
-      "headline": "YouTube nears $3 billion settlement with school districts",
-      "summary": "YouTube reached an agreement in principle to pay about $3 billion to US school districts that accused it of fostering addiction among students, Bloomberg reported. Finalizing the deal could take months.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/youtube-finalizing-multibillion-dollar-schools-settlement-over-addiction-claims"
-    },
-    {
-      "tag": "World",
-      "headline": "Trump, Xi and Putin pledge to reduce nuclear risk",
-      "summary": "The three leaders committed to steps aimed at lowering the danger of nuclear conflict, though the pledge left the war in Ukraine unresolved.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html"
-    },
-    {
-      "tag": "World",
-      "headline": "World Court rules Myanmar committed genocide against Rohingya",
-      "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya Muslim minority, a landmark ruling in the case brought by Gambia.",
-      "source": "AP",
-      "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78"
+      "tag": "Sports",
+      "headline": "Verstappen wins chaotic Las Vegas Grand Prix",
+      "summary": "Max Verstappen won Saturday night's race on the Strip as Lando Norris passed Kimi Antonelli for second on the final lap. George Russell crashed out and the two Ferraris collided, adding to a messy night for Mercedes and Ferrari.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-max-verstappen-wins-ferrari-drivers-collide/"
     }
   ]
 }
