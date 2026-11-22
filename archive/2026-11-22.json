@@ -1,21 +1,35 @@
 {
   "date": "2026-11-22",
   "dateLabel": "Sunday, November 22, 2026",
-  "updated": "6:16 AM CT, Nov 22",
+  "updated": "11:15 AM CT, Nov 22",
   "glance": [
-    "Treasury Secretary Bessent wants answers from Nvidia's board within 10 days as the SEC accounting probe and filing delay weigh on the chipmaker.",
+    "Amazon is reportedly near a $7.5 billion deal for AI startup Decart, possibly next week, to bolster AWS's AI compute push.",
+    "Nvidia's crisis deepens: Bessent wants board answers within 10 days, and an NYT report says China's spy agency has spent years targeting AI chips.",
+    "Russia's strike on an apartment block in Dymer near Kyiv has killed at least three; Zelensky says 14 were unaccounted for.",
     "A researcher's bait test found AI providers leaking prompts: planted fake AWS keys were reused tens of thousands of times.",
-    "Russia struck an apartment block in Dymer near Kyiv overnight; Zelensky says 14 people are unaccounted for.",
-    "Max Verstappen won a chaotic Las Vegas Grand Prix; Lando Norris grabbed second on the final lap.",
-    "Bitcoin trades near $59,000 Sunday after briefly sinking to about $55,600 Saturday, its lowest in two years."
+    "Markets are closed for the weekend after Wall Street's worst week since April 2025; Bitcoin sits near $59,000."
   ],
   "tech": [
     {
+      "tag": "Startups",
+      "headline": "Amazon reportedly nears $7.5 billion deal for AI startup Decart",
+      "summary": "Amazon is in advanced talks to buy Decart, an AI startup focused on fast, efficient real-time AI generation, in a deal worth about $7.5 billion that could be announced as soon as next week, the Financial Times reports. The purchase would help AWS compete with Nvidia on AI compute and would be one of Amazon's largest AI acquisitions.",
+      "source": "Financial Times via Techmeme",
+      "url": "https://www.techmeme.com/"
+    },
+    {
       "tag": "Chips",
-      "headline": "Nvidia probe widens as Washington demands answers within 10 days",
+      "headline": "Nvidia faces 10-day deadline from Washington amid SEC probe",
       "summary": "After reports that the SEC is examining Nvidia's accounting and disclosures, Treasury Secretary Scott Bessent said he wants answers from the board and outside counsel within roughly 10 days. Nvidia has delayed its quarterly 10-Q filing and cited an independent board committee review, while the FT reports about half of 2025 revenue ran through its Singapore unit. The stock lost nearly $900 billion in value last week, its worst week since 2008.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+    },
+    {
+      "tag": "Chips",
+      "headline": "NYT: China's spy agency has targeted AI chips for years",
+      "summary": "China's Ministry of State Security has run a campaign for at least two years to help Chinese companies obtain advanced AI chips and gather intelligence on the sector, according to The New York Times. The report ties the effort to the Megaspeed case at the center of the Nvidia chip-smuggling scandal and notes a new US rule requiring licenses for overseas data centers serving firms in listed countries. Beijing called the espionage claims fabricated.",
+      "source": "NYT via Business Standard",
+      "url": "https://www.business-standard.com/world-news/china-s-spies-set-sights-on-ai-semiconductors-years-before-nvidia-scandal-126112200539_1.html"
     },
     {
       "tag": "Security",
@@ -32,29 +46,15 @@
       "url": "https://www.epifive.com/news/live/2026-11-21"
     },
     {
-      "tag": "Software",
-      "headline": "Signal blocks screenshots to keep AI assistants out of chats",
-      "summary": "Signal now restricts screenshots on iOS 27 and Android so built-in assistants like Siri and Gemini can't read conversations off the screen. Signal president Meredith Whittaker acknowledged the fix is incomplete.",
-      "source": "The Verge via Sam on AI",
-      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
-    },
-    {
       "tag": "Big Tech",
       "headline": "Google rolls out AI-first homepage without a search button",
       "summary": "Google began rolling out a redesigned homepage built around its AI Mode, adding a chat-history sidebar and dropping the familiar Search button. It is one of the most visible changes to Google's front page in decades as the company pushes users toward conversational search.",
       "source": "Ars Technica via EpiFive",
       "url": "https://www.epifive.com/news/live/2026-11-21"
-    },
-    {
-      "tag": "AI",
-      "headline": "METR: AI agents now match skilled humans on coding tasks",
-      "summary": "Evaluation group METR's latest update finds frontier agents match or beat skilled humans on coding and optimization work but still trail experts on judgment-heavy tasks. The length of tasks AI can complete is doubling roughly every 3.6 months. Separately, OpenAI said new safeguards cut attempts to extract its models' hidden reasoning from 54% success to 0.2% in internal tests.",
-      "source": "Sam on AI",
-      "url": "https://samonai.substack.com/p/ai-brief-november-21-2026"
     }
   ],
   "markets": {
-    "asOf": "market close, Fri Nov 20 (futures reopen Sunday evening); Bitcoin as of Sun morning",
+    "asOf": "market close, Fri Nov 20 (futures reopen Sunday 5 PM CT); Bitcoin as of Sun morning",
     "summary": "Stocks are coming off Wall Street's worst week since April 2025, with the S&P 500 and Dow in correction; Bitcoin is holding near $59,000 after Saturday's plunge to a two-year low.",
     "indexes": [
       {
@@ -126,10 +126,10 @@
   "other": [
     {
       "tag": "World",
-      "headline": "Russian strike hits apartment block near Kyiv; 14 unaccounted for",
-      "summary": "An overnight attack destroyed a section of a five-story building in Dymer, north of Kyiv, and President Zelensky said 14 people may be trapped under the rubble. Ukraine's air force said Russia launched 186 drones, 161 of which were downed or jammed. Separately, Britain agreed to fund production of Ukrainian strike drones in the UK.",
-      "source": "Kyiv Independent via Ukraine desk note",
-      "url": "https://oskarhallgrimsson.substack.com/p/ukraine-desk-note-22-november-2026"
+      "headline": "Death toll rises in Russian strike on apartment block near Kyiv",
+      "summary": "At least three people have been killed after an overnight Russian attack tore apart a section of a five-story building in Dymer, north of Kyiv, with rescuers still searching the rubble; Zelensky earlier said 14 people were unaccounted for. He said Russia fired about 2,700 drones and 165 missiles at Ukraine over the past week.",
+      "source": "Mezha / Ukrainska Pravda",
+      "url": "https://mezha.net/eng/news/mezha-1c4c0140dac6fd53b1d896e5_the_death_toll"
     },
     {
       "tag": "World",
@@ -151,6 +151,13 @@
       "summary": "Bitcoin hovered around $58,900 Sunday after dropping to about $55,600 Saturday, leaving it more than 50% below its October 2025 peak. Spot Bitcoin ETFs have seen about $2.35 billion in recent outflows as the AI-led stock selloff spilled into crypto.",
       "source": "Sunday Guardian",
       "url": "https://sundayguardianlive.com/business/bitcoin-price-today-btc-trades-at-58875-as-indian-investors-track-the-latest-crypto-market-move-check-market-drivers-snapshot-more-325947/"
+    },
+    {
+      "tag": "Business",
+      "headline": "GTA VI pulls in $3.79 billion on day one",
+      "summary": "Take-Two Interactive said Grand Theft Auto VI generated $3.79 billion in first-day sales, a record-scale launch for the video game industry and a major test of consumer spending heading into the holidays.",
+      "source": "Variety via Techmeme",
+      "url": "https://www.techmeme.com/"
     },
     {
       "tag": "Sports",
