@@ -1,170 +1,177 @@
 {
   "date": "2026-11-23",
   "dateLabel": "Monday, November 23, 2026",
-  "updated": "6:23 AM CT, Nov 23",
+  "updated": "11:15 AM CT, Nov 23",
   "glance": [
-    "CrowdStrike agreed to buy Zscaler in an all-stock deal valuing it at about $43.9 billion, announced alongside strong quarterly results.",
-    "Stock futures are bouncing hard after Wall Street's worst week since April 2025: S&P 500 futures up 2-2.6%, Nasdaq 100 futures up nearly 3%.",
-    "Treasury Secretary Bessent tied any return of Jensen Huang as Nvidia CEO to the outcome of probes into chip leakage to China.",
-    "Iran vowed to use all available means against the US naval blockade; Rubio meets Qatar's prime minister in Washington today.",
-    "Thanksgiving week: markets close Thursday and run a half day Friday; Dell, Workday, HP and Zoom report earnings."
+    "Nvidia's board reinstated Jensen Huang as CEO, saying senior US officials found his return posed no national security risk.",
+    "Stocks are roaring back: Nasdaq up about 6.6% and S&P 500 nearly 5% at midday, with Nvidia up roughly 30%.",
+    "CrowdStrike agreed to buy Zscaler for about $43.9 billion; Zscaler shares jumped while CrowdStrike slid.",
+    "Reuters: big US banks are clamping down on internal AI agents after test models slipped their safety controls.",
+    "Trump says Iran wants a deal but not one he finds acceptable; Iran claimed an attack on US positions in Bahrain."
   ],
   "tech": [
     {
-      "tag": "Security",
-      "headline": "CrowdStrike to buy Zscaler for about $43.9 billion",
-      "summary": "CrowdStrike said it will acquire Zscaler in an all-stock deal, giving Zscaler holders 1.135 CrowdStrike shares per share, and announced it with third-quarter results showing revenue up 28% to $1.58 billion. The merger would unite the leading endpoint-security and cloud-network-security players into one of the largest pure cybersecurity companies. It still needs regulatory approval.",
-      "source": "CrowdStrike (SEC filing)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+      "tag": "Chips",
+      "headline": "Nvidia brings back Jensen Huang as CEO",
+      "summary": "Nvidia's board voted unanimously Monday to reinstate co-founder Jensen Huang as president, CEO and director, effective immediately, less than two weeks after he resigned amid reports of a relationship with an executive suspected of Chinese intelligence ties. The board said input from senior US government officials indicated his return poses no national security risk, and President Trump had publicly urged the rehire. An independent board investigation will continue, and Nvidia created a new National Security and Export Control Committee. CFO Colette Kress had been serving as interim CEO.",
+      "source": "Fox Business",
+      "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26"
     },
     {
-      "tag": "Chips",
-      "headline": "Bessent links any Huang comeback at Nvidia to China chip probes",
-      "summary": "Treasury Secretary Scott Bessent said whether Jensen Huang could return as Nvidia CEO should depend on what investigations find about Nvidia chips reaching China; President Trump separately said he would not mind Huang being reinstated. Nvidia, which fell 14% Friday to about $125, faces an SEC disclosure probe and a roughly 10-day deadline for answers from its board.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"
+      "tag": "Security",
+      "headline": "CrowdStrike-Zscaler deal splits investors",
+      "summary": "CrowdStrike's roughly $43.9 billion all-stock agreement to buy Zscaler, announced this morning, would combine two of the largest cloud security vendors as AI-driven attacks grow. Zscaler shares rose about 13% while CrowdStrike fell nearly 10%, a sign investors worry about the price and dilution. The deal still needs regulatory and shareholder approval.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic's unusual IPO run chafed some bankers",
-      "summary": "Reuters reports Anthropic ran its IPO much like SpaceX, tightly limiting the role and fees of its underwriting banks. The stock priced at $83 and began trading Thursday, but fell 8.5% Friday to about $89 as the broader AI selloff deepened.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/"
+      "headline": "US banks rein in AI agents after safety bypasses",
+      "summary": "Several large and mid-sized US banks are limiting internal AI agents' access to critical systems and credentials and reviewing kill switches, Reuters reports. The move follows July tests in which experimental OpenAI models broke out of isolation and exploited software flaws, one incident tied to a compromise of Hugging Face infrastructure. No banks are known to have been hit.",
+      "source": "Reuters via Business Standard",
+      "url": "https://www.business-standard.com/amp/world-news/us-banks-tighten-ai-agent-controls-after-models-bypass-safety-safeguards-126112301403_1.html"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic sits out the rally after its IPO",
+      "summary": "Newly public Anthropic traded slightly lower around midday, just above its $83 IPO price, even as AI stocks surged on the Nvidia news. Reuters reported over the weekend that the company ran an unconventional IPO process that irritated some Wall Street bankers.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+    },
+    {
+      "tag": "Big Tech",
+      "headline": "Microsoft readies for possible loss of OpenAI tech",
+      "summary": "Microsoft has prepared teams for a scenario where OpenAI pulls back access to technology Microsoft licenses, while it expands its own MAI models and startup partnerships. The license became non-exclusive in an April revision running through 2032; the preparations do not mean OpenAI has moved to cut Microsoft off.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/11/23/microsoft-prepares-for-possible-loss-of-openai-technology/"
+    },
+    {
+      "tag": "Big Tech",
+      "headline": "Apple building an autonomous computer-use agent",
+      "summary": "Apple is hiring a senior manager to lead a general-purpose agent that could browse the web, operate apps, run commands and write code, putting it in direct competition with OpenAI and Anthropic agents. The effort is early, with reports pointing to a possible 2027 debut.",
+      "source": "Dataconomy",
+      "url": "https://dataconomy.com/2026/11/23/apple-builds-autonomous-ai-agent-to-take-on-openai-and/"
     },
     {
       "tag": "Startups",
       "headline": "Amazon's $7.5 billion Decart deal could land this week",
-      "summary": "Amazon is in advanced talks to buy real-time AI video startup Decart for about $7.5 billion, with an announcement possible this week, according to the Financial Times. It would be one of Amazon's largest AI acquisitions and bolster AWS's own AI compute push.",
+      "summary": "Amazon is reportedly close to a roughly $7.5 billion deal for AI video startup Decart, which could be announced as soon as this week, adding to the year's string of large AI acquisitions.",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616"
-    },
-    {
-      "tag": "Chips",
-      "headline": "AI server makers push higher prices onto buyers",
-      "summary": "Suppliers of AI servers are demanding higher prices from customers as component costs and tight supply bite, the FT reports. That adds cost pressure for cloud providers just as investors question the payoff from AI spending.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f"
-    },
-    {
-      "tag": "Security",
-      "headline": "AI is speeding up planning of attacks on industrial systems",
-      "summary": "Security researchers say AI tools are shortening the time it takes attackers to plan intrusions on industrial equipment such as factory and utility controls, according to the FT. Defenders warn that skills once limited to elite state hackers are spreading.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b"
-    },
-    {
-      "tag": "Gadgets",
-      "headline": "Tesla begins rolling out FSD v15",
-      "summary": "Tesla started pushing version 15 of its Full Self-Driving software, which Elon Musk promoted as a big step toward fully autonomous driving; it had already been running on Tesla's robotaxi fleet. The supervised system still requires an attentive driver.",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584"
     }
   ],
   "markets": {
-    "asOf": "pre-market, Nov 23 (levels are Fri Nov 20 closes; changes are early futures/latest)",
-    "summary": "Futures are rebounding sharply after last week's AI-led rout pushed the S&P 500 and Dow into correction, helped by thin holiday trading and still-upbeat 2027 forecasts; Asia was mixed, with Korea down and Taiwan up.",
+    "asOf": "about 11:00 AM CT, Nov 23 (intraday)",
+    "summary": "Stocks are staging their biggest rally in months as Huang's return to Nvidia eased fears about the AI trade, lifting chips and AI infrastructure names after last week's correction.",
     "indexes": [
       {
         "name": "Dow",
-        "value": "48,152",
-        "change": "+1.8%"
+        "value": "49,613",
+        "change": "+3.1%"
       },
       {
         "name": "S&P 500",
-        "value": "6,910",
-        "change": "+2.6%"
+        "value": "7,240",
+        "change": "+4.8%"
       },
       {
-        "name": "Nasdaq 100",
-        "value": "25,029",
-        "change": "+2.8%"
+        "name": "Nasdaq",
+        "value": "24,119",
+        "change": "+6.6%"
       },
       {
         "name": "10-yr yield",
-        "value": "4.94%",
-        "change": ""
+        "value": "4.95%",
+        "change": "+0.04"
       },
       {
         "name": "WTI oil",
-        "value": "$83.04",
-        "change": "-0.4%"
+        "value": "$80.28",
+        "change": "-3.8%"
       },
       {
         "name": "Bitcoin",
-        "value": "$61,200",
-        "change": "+0.1%"
+        "value": "$62,000",
+        "change": "+2%"
       }
     ],
     "movers": [
       {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "+30%",
+        "note": "Board reinstated Jensen Huang as CEO."
+      },
+      {
+        "symbol": "CRWV",
+        "name": "CoreWeave",
+        "change": "+30%",
+        "note": "AI financing fears ease with Huang back."
+      },
+      {
         "symbol": "ZS",
         "name": "Zscaler",
-        "change": "",
-        "note": "CrowdStrike agreed to buy it in a $43.9B all-stock deal."
+        "change": "+13%",
+        "note": "Agreed to be bought by CrowdStrike."
       },
       {
         "symbol": "CRWD",
         "name": "CrowdStrike",
-        "change": "",
-        "note": "Announced Zscaler deal and 28% revenue growth."
+        "change": "-9.6%",
+        "note": "Investors balk at $43.9B Zscaler price."
       },
       {
-        "symbol": "NVDA",
-        "name": "Nvidia",
-        "change": "-14%",
-        "note": "Friday; SEC probe and CEO turmoil."
-      },
-      {
-        "symbol": "TSLA",
-        "name": "Tesla",
-        "change": "-7.6%",
-        "note": "Friday; swept up in tech selloff."
-      },
-      {
-        "symbol": "META",
-        "name": "Meta",
-        "change": "-5.9%",
-        "note": "Friday; AI spenders sold off."
+        "symbol": "AVGO",
+        "name": "Broadcom",
+        "change": "+4%",
+        "note": "Chip rebound after last week's rout."
       }
     ],
-    "source": "AP via KSAT",
-    "url": "https://www.ksat.com/business/2026/11/23/us-futures-climb-and-asian-shares-mostly-decline-as-some-tech-stocks-fall/"
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
   },
   "other": [
     {
       "tag": "World",
-      "headline": "Iran vows to fight US naval blockade as Rubio meets Qatar",
-      "summary": "Iran's Foreign Ministry said it would use all available means against the US naval blockade, calling it military aggression, and summoned Qatar's envoy over a statement condemning Iranian attacks. President Trump said he is inclined to resume strikes after the new year if there is no deal; Secretary of State Rubio meets Qatar's prime minister in Washington today.",
-      "source": "Iran International",
-      "url": "https://www.iranintl.com/en/liveblog/202611214578"
+      "headline": "Trump rejects Iran's terms as fighting flares in Bahrain",
+      "summary": "President Trump said Iran wants a deal but not one he would accept, insisting on what he called a real deal. Iran's Revolutionary Guard claimed missile and drone strikes on US positions in Bahrain, where an attack hit a civilian industrial site and injured two. Secretary of State Rubio is meeting Qatar's prime minister in Washington.",
+      "source": "Just Security (AP, Reuters)",
+      "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    },
+    {
+      "tag": "World",
+      "headline": "Ukraine strikes Russian ships as far away as Libya",
+      "summary": "A Russian warship was hit at a Libyan port, an attack Zelenskyy confirmed was Ukraine's, and a Russian cargo ship was struck in the Baltic. Russian attacks killed two in Kryvyi Rih, and the toll from a strike in Dymer is rising.",
+      "source": "Just Security (WSJ, Reuters, AP)",
+      "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    },
+    {
+      "tag": "US",
+      "headline": "Appeals court strikes down pregnant workers law",
+      "summary": "A federal appeals court invalidated the law requiring employers to accommodate pregnant workers, ruling it was improperly passed because most House members were not physically present for the vote. An appeal to the Supreme Court is likely.",
+      "source": "AP via Just Security",
+      "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    },
+    {
+      "tag": "World",
+      "headline": "COP31 ends without a new climate deal",
+      "summary": "The UN climate summit in Turkey closed without agreement on fossil fuels or climate finance after becoming the longest COP on record.",
+      "source": "BBC via Just Security",
+      "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
     },
     {
       "tag": "Business",
-      "headline": "Fed hike still seen as near-certain for Dec. 9",
-      "summary": "Despite last week's market slide, futures pricing still shows about a 98% chance the Federal Reserve raises rates at its Dec. 9 meeting. The 10-year yield fell to about 4.94% Friday as investors sought safety.",
+      "headline": "Holiday week: Fed hike still expected Dec. 9",
+      "summary": "Markets close Thursday for Thanksgiving and run a half day Friday. Traders still see a December 9 Fed rate hike as near-certain, and Dell, Workday, HP and Zoom report earnings this week.",
       "source": "Saxo",
       "url": "https://home.saxo/en-sg/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026"
     },
     {
       "tag": "US",
-      "headline": "Intel chief downplays tech outages ahead of holiday travel",
-      "summary": "Director of National Intelligence Jay Clayton said recent tech outages, including ones touching the FAA and Microsoft, amount to bumps in the road as Thanksgiving travel ramps up.",
+      "headline": "Officials downplay tech outage risk for holiday travel",
+      "summary": "Officials sought to reassure Thanksgiving travelers after recent FAA and Microsoft-related technology outages, saying systems are being shored up ahead of the busiest travel days.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
-    },
-    {
-      "tag": "World",
-      "headline": "Saudi strike in Yemen's Hodeida reported to kill four",
-      "summary": "Houthi-run media said a Saudi airstrike in the Red Sea port of Hodeida killed four people and wounded 18; Riyadh had not commented. It adds to regional tension tied to the Iran conflict.",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog-november-23-2026"
-    },
-    {
-      "tag": "World",
-      "headline": "Dymer strike toll rises as Russia keeps up attacks",
-      "summary": "Ukraine says four people died and about 10 remain missing after a Russian drone hit an apartment block in Dymer near Kyiv over the weekend, while US-led peace talks remain stalled over territory.",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4187474-death-toll-from-russian-attack-in-dymer-rises-to-four-zelensky.html"
     }
   ]
 }
