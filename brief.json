@@ -1,152 +1,127 @@
 {
   "date": "2026-11-24",
   "dateLabel": "Tuesday, November 24, 2026",
-  "updated": "6:17 AM CT, Nov 24",
+  "updated": "11:20 AM CT, Nov 24",
   "glance": [
-    "Stock futures edge higher after Monday's historic rally; Nvidia closed up 31.5% at $165.05 on Jensen Huang's return as CEO.",
-    "Reports say Trump brushed aside US intelligence findings to back Huang's reinstatement, citing the need to stop market losses.",
-    "OpenAI and Anthropic staff reportedly warn that internal, unreleased models have advanced too fast to release safely.",
-    "US probes whether Iran was behind cyberattacks on up to 50 energy tankers via a Fortinet router flaw.",
-    "Trump signals strikes on Iran could resume next year if talks fail, as Bahrain intercepts new Iranian attacks."
+    "AI stocks reverse: Nvidia down about 6.6% and the Nasdaq off 1.3% a day after Huang's return sparked a historic rally, while the Dow rises.",
+    "Anthropic and OpenAI each publish AI-written proofs claiming to settle a 1979 math conjecture; neither is human-verified yet.",
+    "CrowdStrike agrees to buy Zscaler for $43.9 billion in stock, a major cybersecurity consolidation.",
+    "US blacklists Singapore's Megaspeed over chip-diversion risk, as Singapore vows it won't be a back door.",
+    "Iran vows to use all tools against the US naval blockade; Russia strikes Zaporizhzhia overnight."
   ],
   "tech": [
     {
       "tag": "Big Tech",
-      "headline": "New details emerge on how Huang got his Nvidia job back",
-      "summary": "The New York Times reports President Trump set aside US intelligence findings in pushing for Jensen Huang's reinstatement, telling CNBC he needed to halt the market slide. The FT says a Silicon Valley group including Marc Andreessen and Brad Gerstner lobbied Trump and JD Vance, while the WSJ reports Huang disclosed additional affairs to the board on Sunday. The episode raises governance and conflict-of-interest questions even as investors cheered the outcome.",
-      "source": "New York Times / Techmeme",
-      "url": "https://www.techmeme.com/261124/p9"
+      "headline": "Nvidia gives back part of its record gain as AI trade wobbles",
+      "summary": "A day after soaring 31.5% on Jensen Huang's reinstatement as CEO, Nvidia fell about 6.6% Tuesday morning, dragging CoreWeave, GE Vernova and other AI names lower. Reports say Trump brushed aside intelligence findings in backing Huang, and Sen. Chuck Schumer has called on Congress to act. The swing shows how jittery investors remain about AI valuations and governance.",
+      "source": "AP",
+      "url": "https://www.news-gazette.com/news/nation-world/wall-streets-sugar-high-quickly-disappears-as-nvidia-and-other-ai-stocks-tumble-again/article_25b815e3-e01d-5b6e-8fb2-bea996f85854.html"
     },
     {
       "tag": "AI",
-      "headline": "AI insiders warn unreleased models may be too risky to ship",
-      "summary": "Axios reports that employees at OpenAI and Anthropic say internal models have made rapid gains in reasoning, enough that they consider them unsafe for public release. The warnings come a day after OpenAI called for tougher government rules on frontier AI, adding pressure on regulators to act.",
-      "source": "Axios / Techmeme",
-      "url": "https://www.techmeme.com/261124/p11"
+      "headline": "Anthropic and OpenAI race to claim AI-written proof of famous math conjecture",
+      "summary": "Anthropic released a 70-page paper by an internal Claude research model claiming to prove Leslie Valiant's 1979 VP vs. VNP conjecture, with a Lean formal check. OpenAI posted its own shorter proof about five hours later. If mathematicians confirm either, it would be a landmark for AI-driven research; neither has had human review yet.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
     },
     {
       "tag": "Security",
-      "headline": "US investigates Iran over tanker cyberattacks",
-      "summary": "Investigators are looking at whether Iran used a Fortinet router vulnerability to hit as many as 50 energy tankers, according to the Wall Street Journal; Russia is also under consideration. If confirmed, it would mark a significant expansion of the Iran conflict into maritime and energy infrastructure. Organizations running Fortinet gear should check for patches.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942"
-    },
-    {
-      "tag": "Security",
-      "headline": "Ex-OpenAI engineer allegedly recorded dozens of meetings",
-      "summary": "Prosecutors say the former OpenAI engineer charged with bugging an executive conference room had dozens of meeting recordings, many likely touching trade secrets. A filing also says he recorded a meeting with foreign government representatives. Separately, the FT reports AI labs are hiring ex-CIA staff and restricting employee movement to counter espionage.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says"
+      "headline": "CrowdStrike to buy Zscaler in $43.9 billion all-stock deal",
+      "summary": "CrowdStrike will pay 1.135 of its shares for each Zscaler share, a 34% premium, and targets about $1 billion in cost savings. George Kurtz stays CEO. The deal would combine endpoint and cloud network security into one of the industry's largest platforms, pending regulatory review.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
     },
     {
       "tag": "Chips",
-      "headline": "Singapore vows it won't be a back door for Nvidia chips",
-      "summary": "Prime Minister Lawrence Wong said Singapore will not be used to get around US chip export controls as authorities investigate Megaspeed's purchases of Nvidia processors. The case highlights continued US scrutiny of AI chips flowing to China through third countries.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says"
+      "headline": "US blacklists Megaspeed over Nvidia chip diversion risk",
+      "summary": "The Commerce Department added Singapore-based cloud firm Megaspeed International and affiliates to the Entity List, so US firms now need a license to sell them chips. Singapore's prime minister said the country won't be used to get around US export controls. The move tightens scrutiny of AI chips reaching China through third countries.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/11/23/us-prepares-to-blacklist-megaspeed-as-huang-returns-to-nvidia-01180920"
     },
     {
-      "tag": "Big Tech",
-      "headline": "Meta launches its Muse AI agent in the UK",
-      "summary": "Meta rolled out Muse, a personal AI agent that handles everyday tasks, to adults in the UK. Politico says it is the first agent product from a Big Tech company launched there, a test case for how agents fare under UK rules.",
-      "source": "Politico / Techmeme",
-      "url": "https://www.techmeme.com/261124/p4"
+      "tag": "Policy",
+      "headline": "Virginia and Oregon sue Musk's companies over Grok deepfakes",
+      "summary": "The two states' attorneys general filed consumer-protection suits against SpaceX, X and xAI, alleging Grok's image tools produced non-consensual sexualized images, including of minors. They seek injunctions and penalties, adding to legal pressure on AI image generators.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
     },
     {
-      "tag": "Software",
-      "headline": "OpenAI expands GPT-6.2 Sol and teams with Cisco on security tool",
-      "summary": "ChatGPT's Chat tab now offers a GPT-6.2 Sol version tuned for everyday conversation to paid Plus, Pro, Business and Enterprise users, and OpenAI set retirement dates for two older models. OpenAI and Cisco also released Shirudo, an open-source runtime that shields live Linux systems while patches are pending, without a reboot.",
-      "source": "9to5Mac",
+      "tag": "Startups",
+      "headline": "Marlowe raises $277M seed to run AI on non-Nvidia chips",
+      "summary": "The six-month-old Bellevue, Wash., startup, led by a Convoy co-founder and an ex-Microsoft executive, raised one of the largest seed rounds ever at a $1.15 billion valuation, led by Accel. It plans inference data centers using AMD and Etched chips, with the first due next month.",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/"
+    },
+    {
+      "tag": "AI",
+      "headline": "Meta's Muse agent launches in the UK; OpenAI updates ChatGPT models",
+      "summary": "Meta's Muse personal agent can now plan and complete tasks with UK partners like Ocado and easyJet, with every purchase needing user approval. OpenAI added a chat-tuned GPT-6.2 Sol for paid ChatGPT users and will retire two GPT-5.6 models on Dec. 23.",
+      "source": "Meta / 9to5Mac",
       "url": "https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/"
     }
   ],
   "markets": {
-    "asOf": "pre-market, ~6:15 AM CT, Nov 24 (futures)",
-    "summary": "Futures are modestly higher after Monday's huge rebound (S&P 500 +4.7%, Nasdaq +6.5%, Dow +3%), with traders pricing a likely December Fed rate hike and eyeing Wednesday's PCE inflation data.",
+    "asOf": "~9:05 AM CT, Nov 24 (intraday)",
+    "summary": "AI and chip stocks are sliding again after Monday's Nvidia-fueled surge, pulling the Nasdaq lower, while the Dow gains on a better-than-expected consumer confidence report.",
     "indexes": [
-      {
-        "name": "Dow futures",
-        "value": "49,756",
-        "change": "+0.2%"
-      },
-      {
-        "name": "S&P 500 futures",
-        "value": "7,268",
-        "change": "+0.2%"
-      },
-      {
-        "name": "Nasdaq 100 futures",
-        "value": "26,852",
-        "change": "+0.2%"
-      },
-      {
-        "name": "10-yr yield",
-        "value": "4.92%",
-        "change": "+0.01"
-      },
-      {
-        "name": "WTI oil",
-        "value": "$79.70",
-        "change": "-0.6%"
-      },
-      {
-        "name": "Bitcoin",
-        "value": "$60,040",
-        "change": "-2.2%"
-      }
+      {"name": "Dow", "value": "", "change": "+0.5%"},
+      {"name": "S&P 500", "value": "", "change": "-0.5%"},
+      {"name": "Nasdaq", "value": "", "change": "-1.3%"},
+      {"name": "10-yr yield", "value": "4.91%", "change": "-0.01"},
+      {"name": "Brent oil", "value": "$88.26", "change": "+1.8%"}
     ],
     "movers": [
-      {
-        "symbol": "NVDA",
-        "name": "Nvidia",
-        "change": "+31.5%",
-        "note": "Monday close at $165.05 after Huang reinstated; best day since 2003"
-      },
-      {
-        "symbol": "HPE",
-        "name": "Hewlett Packard Enterprise",
-        "change": "-6%",
-        "note": "After hours: revenue beat, but outlook below top estimates"
-      }
+      {"symbol": "NVDA", "name": "Nvidia", "change": "-6.6%", "note": "Profit-taking after Monday's 31.5% surge"},
+      {"symbol": "CRWV", "name": "CoreWeave", "change": "-9%", "note": "AI cloud stocks retreat with Nvidia"},
+      {"symbol": "ANT", "name": "Anthropic", "change": "-7.4%", "note": "Slips below $83, near last week's IPO price"},
+      {"symbol": "DLTR", "name": "Dollar Tree", "change": "+11.3%", "note": "Quarterly results beat forecasts"},
+      {"symbol": "KSS", "name": "Kohl's", "change": "+13%", "note": "Surprise profit and upbeat revenue outlook"}
     ],
-    "source": "Investing.com via Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-nvidia-004836470.html"
+    "source": "AP",
+    "url": "https://www.news-gazette.com/news/nation-world/wall-streets-sugar-high-quickly-disappears-as-nvidia-and-other-ai-stocks-tumble-again/article_25b815e3-e01d-5b6e-8fb2-bea996f85854.html"
   },
   "other": [
     {
       "tag": "World",
-      "headline": "Trump says Iran strikes could resume next year",
-      "summary": "President Trump suggested US strikes on Iran may restart in the new year if negotiations fail, after rejecting Tehran's latest terms. The US is also weighing whether to delay action despite Israeli pressure.",
-      "source": "News Tribune (AP)",
-      "url": "https://www.newstribune.com/news/2026/nov/24/trump-suggests-iran-strikes-will-resume-next-year/"
+      "headline": "Iran vows to use all tools against US naval blockade",
+      "summary": "Iran's Foreign Ministry called the reinstated US blockade military aggression and said it would respond with every available tool. It follows Trump's signal that strikes could resume next year if talks fail.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
     },
     {
       "tag": "World",
-      "headline": "Bahrain intercepts Iranian attacks; Tehran readies tankers",
-      "summary": "Bahrain said it intercepted new Iranian attacks, while Iran is reportedly preparing 14 oil tankers to try to break the US naval blockade, a possible flashpoint for oil prices.",
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+      "headline": "Russian attack on Zaporizhzhia kills two",
+      "summary": "An overnight strike hit an apartment building in the Ukrainian city, killing two people and wounding at least 22, officials said. Separately, NATO pledged to defend against space threats after reports of a Russian nuclear-armed satellite.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russian-attack-kills-2-people-wounds-22-ukraines-zaporizhzhia-official-says-2026-11-24/"
+    },
+    {
+      "tag": "World",
+      "headline": "Israeli strike in Gaza kills Hamas security chief",
+      "summary": "Gaza medics said strikes killed Hamas internal security director Naeem Abu Nahel and six others. Israel said it targeted a senior Hamas militant.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-three-palestinians-southern-gaza-medics-say-2026-11-24/"
+    },
+    {
+      "tag": "US",
+      "headline": "Unsealed records detail broad probe of Rep. Ilhan Omar",
+      "summary": "Heavily redacted warrant documents behind last month's search of Omar's Washington residence show prosecutors seeking records going back decades in a pre-indictment investigation.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/politics/policy/ilhan-omar-investigation-covers-most-of-her-life-unsealed-records-show-a914232c"
     },
     {
       "tag": "Business",
-      "headline": "Markets now expect a December Fed rate hike",
-      "summary": "CME FedWatch shows traders pricing roughly a 96% chance of a quarter-point increase next month. Wednesday's PCE inflation report is the next big test.",
-      "source": "Investing.com via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-nvidia-004836470.html"
+      "headline": "Consumer confidence beats forecasts; Fed hike still expected",
+      "summary": "A stronger-than-expected confidence reading lifted non-tech stocks, while traders still price roughly a 95% chance of a December rate hike. Wednesday's PCE inflation data is next.",
+      "source": "AP",
+      "url": "https://www.news-gazette.com/news/nation-world/wall-streets-sugar-high-quickly-disappears-as-nvidia-and-other-ai-stocks-tumble-again/article_25b815e3-e01d-5b6e-8fb2-bea996f85854.html"
     },
     {
       "tag": "US",
       "headline": "About 81 million Americans expected to travel for Thanksgiving",
-      "summary": "AAA forecasts more than 81 million travelers this week, slightly below last year's record, as high airfares and gas prices weigh on trips.",
+      "summary": "AAA forecasts more than 81 million travelers this week, just shy of last year's record, as high airfares and gas prices weigh on trips.",
       "source": "Fox Weather",
       "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers"
-    },
-    {
-      "tag": "Business",
-      "headline": "Kalshi halts operations in Utah after court loss",
-      "summary": "The prediction market paused service for more than 177,000 Utah users after losing a federal case over the state's gambling law, and it also faces criminal charges in the state.",
-      "source": "Utah News Dispatch",
-      "url": "https://utahnewsdispatch.com/2026/11/23/kalshi-blocks-operations-in-utah-legal-challenges-ongoing/"
     }
   ]
 }
