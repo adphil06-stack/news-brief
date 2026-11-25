@@ -1,19 +1,26 @@
 {
   "date": "2026-11-25",
   "dateLabel": "Wednesday, November 25, 2026",
-  "updated": "6:16 AM CT, Nov 25",
+  "updated": "11:15 AM CT, Nov 25",
   "glance": [
-    "Stock futures slide before the open, led by a roughly 2.5% drop in Nasdaq futures as the chip selloff continues; key PCE inflation data lands this morning.",
-    "Jensen Huang apologizes to Nvidia staff in his first all-hands since returning as CEO, as scrutiny grows over the White House role in his reinstatement.",
-    "Tesla and SpaceX have reportedly named board committees to negotiate a roughly $3.5 trillion all-stock merger.",
-    "Dell posts record quarter with revenue up 103% and lifts its full-year forecast to $202 billion on AI server demand.",
-    "A US jury convicts Huawei of trade-secret conspiracy and bank fraud; markets close Thursday for Thanksgiving."
+    "Stocks slide on hot inflation and new tariff plans: Nasdaq down about 3%, S&P 500 down about 2% late morning; Nvidia off nearly 8%.",
+    "Core PCE inflation ran 3.3% in October, above forecasts, cementing bets on a December Fed rate hike; Q3 GDP was revised up to 4.3%.",
+    "The administration proposed new tariffs of up to 20% on China, the EU and 12 other trading partners, likely not before January.",
+    "Trump says a pardon for Jensen Huang is an option but probably unnecessary; Huang testifies to Congress next week.",
+    "Markets close Thursday for Thanksgiving and reopen Friday for a half-day session."
   ],
   "tech": [
     {
+      "tag": "Chips",
+      "headline": "Chip rout deepens; Nasdaq-100 nears bear-market territory",
+      "summary": "Nvidia fell nearly 8% by late morning and the Philadelphia semiconductor index dropped more than 6%, extending a selloff driven by doubts about AI profitability and overspending. A hotter-than-expected inflation reading and new tariff plans piled on, leaving the Nasdaq-100 on pace to close 20% below its peak. Memory makers Micron and Sandisk were among the hardest hit.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
       "tag": "Big Tech",
       "headline": "Huang apologizes to Nvidia staff as questions mount over his return",
-      "summary": "In his first all-hands since being reinstated as CEO, Jensen Huang apologized to employees and denied that President Trump forced the board to bring him back. Reports say a group of Silicon Valley figures lobbied the White House on his behalf and that Trump brushed aside intelligence-agency concerns; some lawmakers now want to investigate. Governance experts warn that reinstating him before the board's own probe finished could invite shareholder lawsuits.",
+      "summary": "In his first all-hands since being reinstated as CEO, Jensen Huang apologized to employees and denied that President Trump forced the board to bring him back. On Wednesday Trump said a pardon for Huang was always an option but likely not needed. Huang is due to testify before Congress next week, and governance experts warn the reinstatement could invite shareholder suits.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
     },
@@ -27,7 +34,7 @@
     {
       "tag": "AI",
       "headline": "Dell's AI server boom delivers a record quarter",
-      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and the company raised its full-year outlook for the third time, to $202 billion. Its AI server backlog hit a record $132.3 billion, a sign that data-center spending remains strong even as chip stocks wobble. Shares rose about 2-3% after hours.",
+      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and it raised its full-year outlook to $202 billion, with a record $132.3 billion AI server backlog. Despite the blowout, the stock slipped Wednesday as the broader AI selloff overwhelmed the good news.",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
     },
@@ -39,107 +46,79 @@
       "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
     },
     {
+      "tag": "Security",
+      "headline": "Amazon says an AI agent found and exploited a zero-day largely on its own",
+      "summary": "Amazon reported that an open-source AI agent exploited a previously unknown software vulnerability with only limited human help. It is a notable real-world sign that autonomous AI tools can speed up offensive hacking, raising pressure on defenders to patch faster.",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891"
+    },
+    {
       "tag": "Policy",
       "headline": "Huawei convicted on trade-secret and bank-fraud charges",
       "summary": "A US federal jury found Huawei guilty of conspiring to steal trade secrets and of bank fraud, while acquitting it on the racketeering conspiracy count. The verdict caps a long-running case at the center of US-China tech tensions.",
       "source": "Associated Press",
       "url": "https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab"
-    },
-    {
-      "tag": "Chips",
-      "headline": "US blacklists an Alibaba-owned Singapore unit",
-      "summary": "The Commerce Department added Apex Enterprise Solutions, an Alibaba subsidiary in Singapore, to its Entity List alongside Megaspeed and its affiliates. The move restricts access to US technology and is a setback for Alibaba's AI ambitions.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
-    },
-    {
-      "tag": "Software",
-      "headline": "Microsoft declares 'Code Red' after historic 365 outage",
-      "summary": "Internal memos show Microsoft launched an urgent effort to overhaul how it prevents and responds to major outages, following a roughly 24-hour Microsoft 365 disruption. The push signals reliability is now a top priority for its cloud and productivity business.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
     }
   ],
   "markets": {
-    "asOf": "pre-market, Nov 25 (index futures ~6:15 AM CT); Nov 24 closes below",
-    "summary": "Futures are falling sharply as the chip and AI selloff extends into a third session, with traders bracing for this morning's PCE inflation report and pricing in a likely December Fed rate hike.",
+    "asOf": "~11:05 AM CT, Nov 25 (intraday)",
+    "summary": "Stocks are sharply lower as a hot core PCE reading locks in a likely December Fed hike, new tariff proposals rattle investors, and the AI-chip selloff deepens; Treasuries are rallying.",
     "indexes": [
       {
-        "name": "Dow fut.",
-        "value": "49,653",
+        "name": "Dow",
+        "value": "49,632",
         "change": "-0.8%"
       },
       {
-        "name": "S&P 500 fut.",
-        "value": "7,110",
-        "change": "-1.5%"
+        "name": "S&P 500",
+        "value": "7,061",
+        "change": "-1.9%"
       },
       {
-        "name": "Nasdaq 100 fut.",
-        "value": "25,625",
-        "change": "-2.5%"
-      },
-      {
-        "name": "Dow (Tue close)",
-        "value": "50,019",
-        "change": "+0.9%"
-      },
-      {
-        "name": "S&P 500 (Tue close)",
-        "value": "7,201",
-        "change": "-0.5%"
-      },
-      {
-        "name": "Nasdaq (Tue close)",
-        "value": "23,734",
-        "change": "-1.5%"
+        "name": "Nasdaq",
+        "value": "23,017",
+        "change": "-3.0%"
       },
       {
         "name": "10-yr yield",
-        "value": "4.90%",
-        "change": "-0.01"
+        "value": "4.81%",
+        "change": "-0.09"
       },
       {
         "name": "WTI oil",
-        "value": "$81.77",
-        "change": "-0.3%"
+        "value": "$83.03",
+        "change": "+1.2%"
       },
       {
         "name": "Bitcoin",
-        "value": "$58,882",
-        "change": "-1.4%"
+        "value": "$58,801",
+        "change": "-2.1%"
       }
     ],
     "movers": [
       {
         "symbol": "NVDA",
         "name": "Nvidia",
-        "change": "-5.0%",
-        "note": "Pre-market; AI profitability worries extend Tuesday's 5.9% drop"
+        "change": "-7.8%",
+        "note": "AI profitability doubts; second straight losing session"
       },
       {
-        "symbol": "DELL",
-        "name": "Dell Technologies",
-        "change": "+3%",
-        "note": "After hours; record quarter and raised forecast"
+        "symbol": "AMBA",
+        "name": "Ambarella",
+        "change": "-30%",
+        "note": "Pre-market; weak results and guidance"
       },
       {
         "symbol": "MU",
         "name": "Micron",
-        "change": "-11.0%",
-        "note": "Tuesday; gave back most of Monday's chip rally"
+        "change": "",
+        "note": "Among the biggest losers in the chip selloff"
       },
       {
-        "symbol": "AMD",
-        "name": "AMD",
-        "change": "-8.9%",
-        "note": "Tuesday; broad semiconductor selloff"
-      },
-      {
-        "symbol": "KSS",
-        "name": "Kohl's",
-        "change": "+20%",
-        "note": "Tuesday; surprise profit and upbeat outlook"
+        "symbol": "DELL",
+        "name": "Dell Technologies",
+        "change": "",
+        "note": "Lower despite record quarter and raised forecast"
       }
     ],
     "source": "Yahoo Finance",
@@ -148,10 +127,17 @@
   "other": [
     {
       "tag": "Business",
-      "headline": "PCE inflation report due as markets brace for a Fed hike",
-      "summary": "October's PCE price index, the Fed's preferred inflation gauge, comes out this morning; forecasts call for 3.8% headline and 3.2% core inflation. Traders see near-certain odds of a quarter-point rate hike in December. Markets close Thursday for Thanksgiving and close early Friday.",
+      "headline": "Inflation heats up as economy grows faster than thought",
+      "summary": "October's PCE price index rose 3.8% from a year earlier, the highest since 2023, while core prices rose 3.3%, a tenth above forecasts. Separately, third-quarter GDP growth was revised up to a 4.3% annual rate. Futures now price roughly a 98% chance of a quarter-point Fed hike in December.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+      "tag": "US",
+      "headline": "Administration proposes new tariffs on 14 trading partners",
+      "summary": "Following an eight-month probe into excess factory capacity, the US proposed duties of up to 20% on China, the EU and 12 other partners, stacked on existing tariffs. Officials say they would take effect after hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.",
+      "source": "Yahoo Finance / Reuters",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-proposes-tariffs-14-trading-131826582.html"
     },
     {
       "tag": "World",
@@ -180,13 +166,6 @@
       "summary": "The California Democrat said he will step down next week after the House Ethics Committee found he violated rules on sexual conduct toward employees.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
-    },
-    {
-      "tag": "World",
-      "headline": "Japan speeds ICC payment ahead of US sanctions",
-      "summary": "Japan said it will pay its full 2027 contribution to the International Criminal Court before year-end, ahead of US sanctions on the court taking effect.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/japan-accelerates-icc-funding-us-sanctions-threaten-court-2026-11-24/"
     }
   ]
 }
