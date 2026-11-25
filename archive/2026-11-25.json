@@ -1,19 +1,19 @@
 {
   "date": "2026-11-25",
   "dateLabel": "Wednesday, November 25, 2026",
-  "updated": "11:15 AM CT, Nov 25",
+  "updated": "4:14 PM CT, Nov 25",
   "glance": [
-    "Stocks slide on hot inflation and new tariff plans: Nasdaq down about 3%, S&P 500 down about 2% late morning; Nvidia off nearly 8%.",
-    "Core PCE inflation ran 3.3% in October, above forecasts, cementing bets on a December Fed rate hike; Q3 GDP was revised up to 4.3%.",
+    "Wall Street claws back a steep drop: the Dow closed up 0.3%, while the S&P 500 (-0.2%) and Nasdaq (-0.6%) finished far above their morning lows.",
+    "Nvidia closed down about 4% after falling more than 8% early; chip stocks recovered most of their slide by the bell.",
+    "Core PCE inflation ran 3.3% in October, above forecasts, and markets now price a near-certain December Fed rate hike.",
     "The administration proposed new tariffs of up to 20% on China, the EU and 12 other trading partners, likely not before January.",
-    "Trump says a pardon for Jensen Huang is an option but probably unnecessary; Huang testifies to Congress next week.",
-    "Markets close Thursday for Thanksgiving and reopen Friday for a half-day session."
+    "Markets are closed Thursday for Thanksgiving and reopen Friday for a shortened session."
   ],
   "tech": [
     {
       "tag": "Chips",
-      "headline": "Chip rout deepens; Nasdaq-100 nears bear-market territory",
-      "summary": "Nvidia fell nearly 8% by late morning and the Philadelphia semiconductor index dropped more than 6%, extending a selloff driven by doubts about AI profitability and overspending. A hotter-than-expected inflation reading and new tariff plans piled on, leaving the Nasdaq-100 on pace to close 20% below its peak. Memory makers Micron and Sandisk were among the hardest hit.",
+      "headline": "Chip stocks claw back most of a brutal early slide",
+      "summary": "Nvidia fell more than 8% in the morning but closed down about 3.9% at roughly $149, and the Philadelphia semiconductor index recovered much of a near-6% drop. AMD, Micron and Marvell were among the morning's hardest hit as doubts about AI spending met hot inflation data and tariff news. The late rebound kept the Nasdaq-100 out of bear-market territory for now.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
@@ -34,16 +34,16 @@
     {
       "tag": "AI",
       "headline": "Dell's AI server boom delivers a record quarter",
-      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and it raised its full-year outlook to $202 billion, with a record $132.3 billion AI server backlog. Despite the blowout, the stock slipped Wednesday as the broader AI selloff overwhelmed the good news.",
+      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and it raised its full-year outlook to $202 billion, with a record $132.3 billion AI server backlog. The stock still fell about 5% at midday Wednesday as the broader AI selloff overwhelmed the good news.",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic closes below its IPO price",
-      "summary": "Anthropic shares ended Tuesday at $81.91, under their $83 offering price, as the post-debut rally unwound. Filings also showed co-founders Dario and Daniela Amodei each sold more than $280 million in stock to the IPO underwriters.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+      "headline": "Anthropic struggles to climb back above its IPO price",
+      "summary": "Anthropic shares traded well below their $83 offering price for much of Wednesday after closing Tuesday at $81.91, as the AI selloff weighed on the newly public company. Filings also showed co-founders Dario and Daniela Amodei each sold more than $280 million in stock to the IPO underwriters.",
+      "source": "CNBC",
+      "url": "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
     },
     {
       "tag": "Security",
@@ -61,64 +61,70 @@
     }
   ],
   "markets": {
-    "asOf": "~11:05 AM CT, Nov 25 (intraday)",
-    "summary": "Stocks are sharply lower as a hot core PCE reading locks in a likely December Fed hike, new tariff proposals rattle investors, and the AI-chip selloff deepens; Treasuries are rallying.",
+    "asOf": "market close, Nov 25 (oil, yield, bitcoin late afternoon)",
+    "summary": "Stocks staged a sharp afternoon recovery from a hot-inflation, tariff and AI-chip selloff, leaving the Dow higher and the Nasdaq only modestly lower heading into Thanksgiving.",
     "indexes": [
       {
         "name": "Dow",
-        "value": "49,632",
-        "change": "-0.8%"
+        "value": "50,183",
+        "change": "+0.3%"
       },
       {
         "name": "S&P 500",
-        "value": "7,061",
-        "change": "-1.9%"
+        "value": "7,183",
+        "change": "-0.3%"
       },
       {
         "name": "Nasdaq",
-        "value": "23,017",
-        "change": "-3.0%"
+        "value": "23,586",
+        "change": "-0.6%"
       },
       {
         "name": "10-yr yield",
-        "value": "4.81%",
-        "change": "-0.09"
+        "value": "4.85%",
+        "change": "-0.06"
       },
       {
         "name": "WTI oil",
-        "value": "$83.03",
-        "change": "+1.2%"
+        "value": "$84.19",
+        "change": "+2.6%"
       },
       {
         "name": "Bitcoin",
-        "value": "$58,801",
-        "change": "-2.1%"
+        "value": "$60,238",
+        "change": "+0.7%"
       }
     ],
     "movers": [
       {
         "symbol": "NVDA",
         "name": "Nvidia",
-        "change": "-7.8%",
-        "note": "AI profitability doubts; second straight losing session"
+        "change": "-3.9%",
+        "note": "Pared an 8%+ morning drop; AI spending doubts"
       },
       {
-        "symbol": "AMBA",
-        "name": "Ambarella",
-        "change": "-30%",
-        "note": "Pre-market; weak results and guidance"
+        "symbol": "HPQ",
+        "name": "HP Inc.",
+        "change": "+10%",
+        "note": "Midday; fourth-quarter revenue beat estimates"
       },
       {
-        "symbol": "MU",
-        "name": "Micron",
-        "change": "",
-        "note": "Among the biggest losers in the chip selloff"
+        "symbol": "WDAY",
+        "name": "Workday",
+        "change": "-9.3%",
+        "note": "Midday; profit hit by restructuring charges"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": "-6.5%",
+        "note": "Midday; led the chip selloff alongside Micron"
       },
       {
         "symbol": "DELL",
         "name": "Dell Technologies",
-        "change": "",
-        "note": "Lower despite record quarter and raised forecast"
+        "change": "-5.4%",
+        "note": "Midday; fell despite record quarter and raised forecast"
       }
     ],
     "source": "Yahoo Finance",
@@ -128,7 +134,7 @@
     {
       "tag": "Business",
       "headline": "Inflation heats up as economy grows faster than thought",
-      "summary": "October's PCE price index rose 3.8% from a year earlier, the highest since 2023, while core prices rose 3.3%, a tenth above forecasts. Separately, third-quarter GDP growth was revised up to a 4.3% annual rate. Futures now price roughly a 98% chance of a quarter-point Fed hike in December.",
+      "summary": "October's PCE price index rose 3.8% from a year earlier, the highest since 2023, while core prices rose 3.3%, a tenth above forecasts. Third-quarter GDP growth was revised up to a 4.3% annual rate, and the Fed's Beige Book flagged broadening price pressures. Futures price roughly a 97-98% chance of a quarter-point Fed hike in December.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
@@ -138,6 +144,13 @@
       "summary": "Following an eight-month probe into excess factory capacity, the US proposed duties of up to 20% on China, the EU and 12 other partners, stacked on existing tariffs. Officials say they would take effect after hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.",
       "source": "Yahoo Finance / Reuters",
       "url": "https://finance.yahoo.com/economy/policy/articles/us-proposes-tariffs-14-trading-131826582.html"
+    },
+    {
+      "tag": "Business",
+      "headline": "Mortgage rates ease slightly ahead of the holiday",
+      "summary": "Freddie Mac said the average 30-year fixed mortgage rate dipped to 7.21% from 7.28% a week earlier, a small reprieve for buyers even as markets brace for a Fed rate hike.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
       "tag": "World",
@@ -159,13 +172,6 @@
       "summary": "President Trump said he will sign a directive telling the Justice Department to speed up federal executions and seek the death penalty in certain murder cases.",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/us-news/law/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-5704f97a"
-    },
-    {
-      "tag": "US",
-      "headline": "Rep. Jimmy Gomez to resign after ethics finding",
-      "summary": "The California Democrat said he will step down next week after the House Ethics Committee found he violated rules on sexual conduct toward employees.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
     }
   ]
 }
