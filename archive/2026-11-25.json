@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-25",
+  "dateLabel": "Wednesday, November 25, 2026",
+  "updated": "6:16 AM CT, Nov 25",
+  "glance": [
+    "Stock futures slide before the open, led by a roughly 2.5% drop in Nasdaq futures as the chip selloff continues; key PCE inflation data lands this morning.",
+    "Jensen Huang apologizes to Nvidia staff in his first all-hands since returning as CEO, as scrutiny grows over the White House role in his reinstatement.",
+    "Tesla and SpaceX have reportedly named board committees to negotiate a roughly $3.5 trillion all-stock merger.",
+    "Dell posts record quarter with revenue up 103% and lifts its full-year forecast to $202 billion on AI server demand.",
+    "A US jury convicts Huawei of trade-secret conspiracy and bank fraud; markets close Thursday for Thanksgiving."
+  ],
+  "tech": [
+    {
+      "tag": "Big Tech",
+      "headline": "Huang apologizes to Nvidia staff as questions mount over his return",
+      "summary": "In his first all-hands since being reinstated as CEO, Jensen Huang apologized to employees and denied that President Trump forced the board to bring him back. Reports say a group of Silicon Valley figures lobbied the White House on his behalf and that Trump brushed aside intelligence-agency concerns; some lawmakers now want to investigate. Governance experts warn that reinstating him before the board's own probe finished could invite shareholder lawsuits.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+    },
+    {
+      "tag": "Big Tech",
+      "headline": "Tesla and SpaceX reportedly open formal merger talks",
+      "summary": "The Financial Times reports the two Musk-led companies have set up special committees of independent directors to negotiate an all-stock combination valuing the pair around $3.5 trillion. It would be among the largest corporate deals ever and would fold Musk's rocket, satellite and AI businesses together with the carmaker.",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9"
+    },
+    {
+      "tag": "AI",
+      "headline": "Dell's AI server boom delivers a record quarter",
+      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and the company raised its full-year outlook for the third time, to $202 billion. Its AI server backlog hit a record $132.3 billion, a sign that data-center spending remains strong even as chip stocks wobble. Shares rose about 2-3% after hours.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic closes below its IPO price",
+      "summary": "Anthropic shares ended Tuesday at $81.91, under their $83 offering price, as the post-debut rally unwound. Filings also showed co-founders Dario and Daniela Amodei each sold more than $280 million in stock to the IPO underwriters.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "Huawei convicted on trade-secret and bank-fraud charges",
+      "summary": "A US federal jury found Huawei guilty of conspiring to steal trade secrets and of bank fraud, while acquitting it on the racketeering conspiracy count. The verdict caps a long-running case at the center of US-China tech tensions.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab"
+    },
+    {
+      "tag": "Chips",
+      "headline": "US blacklists an Alibaba-owned Singapore unit",
+      "summary": "The Commerce Department added Apex Enterprise Solutions, an Alibaba subsidiary in Singapore, to its Entity List alongside Megaspeed and its affiliates. The move restricts access to US technology and is a setback for Alibaba's AI ambitions.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
+    },
+    {
+      "tag": "Software",
+      "headline": "Microsoft declares 'Code Red' after historic 365 outage",
+      "summary": "Internal memos show Microsoft launched an urgent effort to overhaul how it prevents and responds to major outages, following a roughly 24-hour Microsoft 365 disruption. The push signals reliability is now a top priority for its cloud and productivity business.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+    }
+  ],
+  "markets": {
+    "asOf": "pre-market, Nov 25 (index futures ~6:15 AM CT); Nov 24 closes below",
+    "summary": "Futures are falling sharply as the chip and AI selloff extends into a third session, with traders bracing for this morning's PCE inflation report and pricing in a likely December Fed rate hike.",
+    "indexes": [
+      {
+        "name": "Dow fut.",
+        "value": "49,653",
+        "change": "-0.8%"
+      },
+      {
+        "name": "S&P 500 fut.",
+        "value": "7,110",
+        "change": "-1.5%"
+      },
+      {
+        "name": "Nasdaq 100 fut.",
+        "value": "25,625",
+        "change": "-2.5%"
+      },
+      {
+        "name": "Dow (Tue close)",
+        "value": "50,019",
+        "change": "+0.9%"
+      },
+      {
+        "name": "S&P 500 (Tue close)",
+        "value": "7,201",
+        "change": "-0.5%"
+      },
+      {
+        "name": "Nasdaq (Tue close)",
+        "value": "23,734",
+        "change": "-1.5%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "4.90%",
+        "change": "-0.01"
+      },
+      {
+        "name": "WTI oil",
+        "value": "$81.77",
+        "change": "-0.3%"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "$58,882",
+        "change": "-1.4%"
+      }
+    ],
+    "movers": [
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "-5.0%",
+        "note": "Pre-market; AI profitability worries extend Tuesday's 5.9% drop"
+      },
+      {
+        "symbol": "DELL",
+        "name": "Dell Technologies",
+        "change": "+3%",
+        "note": "After hours; record quarter and raised forecast"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "change": "-11.0%",
+        "note": "Tuesday; gave back most of Monday's chip rally"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": "-8.9%",
+        "note": "Tuesday; broad semiconductor selloff"
+      },
+      {
+        "symbol": "KSS",
+        "name": "Kohl's",
+        "change": "+20%",
+        "note": "Tuesday; surprise profit and upbeat outlook"
+      }
+    ],
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+  },
+  "other": [
+    {
+      "tag": "Business",
+      "headline": "PCE inflation report due as markets brace for a Fed hike",
+      "summary": "October's PCE price index, the Fed's preferred inflation gauge, comes out this morning; forecasts call for 3.8% headline and 3.2% core inflation. Traders see near-certain odds of a quarter-point rate hike in December. Markets close Thursday for Thanksgiving and close early Friday.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+      "tag": "World",
+      "headline": "Iran vows to confront the US naval blockade",
+      "summary": "Iran's Foreign Ministry said it will use every available tool against the US naval blockade reinstated in July, keeping Gulf tensions and oil prices in focus.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
+    },
+    {
+      "tag": "World",
+      "headline": "Israeli strike kills Hamas security chief in Gaza",
+      "summary": "Israeli airstrikes killed Hamas internal security director Naeem Abu Nahel and six others, including two police officers, according to Gaza medics and police.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-three-palestinians-southern-gaza-medics-say-2026-11-24/"
+    },
+    {
+      "tag": "US",
+      "headline": "Trump to order faster federal death-penalty cases",
+      "summary": "President Trump said he will sign a directive telling the Justice Department to speed up federal executions and seek the death penalty in certain murder cases.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/law/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-5704f97a"
+    },
+    {
+      "tag": "US",
+      "headline": "Rep. Jimmy Gomez to resign after ethics finding",
+      "summary": "The California Democrat said he will step down next week after the House Ethics Committee found he violated rules on sexual conduct toward employees.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
+    },
+    {
+      "tag": "World",
+      "headline": "Japan speeds ICC payment ahead of US sanctions",
+      "summary": "Japan said it will pay its full 2027 contribution to the International Criminal Court before year-end, ahead of US sanctions on the court taking effect.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/japan-accelerates-icc-funding-us-sanctions-threaten-court-2026-11-24/"
+    }
+  ]
+}

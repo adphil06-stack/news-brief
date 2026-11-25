@@ -1,83 +1,98 @@
 {
-  "date": "2026-11-24",
-  "dateLabel": "Tuesday, November 24, 2026",
-  "updated": "4:15 PM CT, Nov 24",
+  "date": "2026-11-25",
+  "dateLabel": "Wednesday, November 25, 2026",
+  "updated": "6:16 AM CT, Nov 25",
   "glance": [
-    "Chip stocks crater at the close: the Philadelphia semiconductor index falls about 7.9% and Nvidia gives back roughly 6% of Monday's record surge.",
-    "The Dow still finishes above 50,000, up about 423 points, as money rotates into retailers like Kohl's and Abercrombie.",
-    "Anthropic shares dip below their $83 IPO price four sessions after debuting.",
-    "Amazon buys Decart's AI-optimization technology for a reported $7.5 billion to boost its Trainium chips.",
-    "Traders now see near-certain odds of a Fed rate hike; Iran vows to resist the US naval blockade."
+    "Stock futures slide before the open, led by a roughly 2.5% drop in Nasdaq futures as the chip selloff continues; key PCE inflation data lands this morning.",
+    "Jensen Huang apologizes to Nvidia staff in his first all-hands since returning as CEO, as scrutiny grows over the White House role in his reinstatement.",
+    "Tesla and SpaceX have reportedly named board committees to negotiate a roughly $3.5 trillion all-stock merger.",
+    "Dell posts record quarter with revenue up 103% and lifts its full-year forecast to $202 billion on AI server demand.",
+    "A US jury convicts Huawei of trade-secret conspiracy and bank fraud; markets close Thursday for Thanksgiving."
   ],
   "tech": [
     {
-      "tag": "Chips",
-      "headline": "Chip stocks erase much of Monday's historic rally",
-      "summary": "All 30 stocks in the Philadelphia semiconductor index closed lower, with the index down nearly 8%. Nvidia fell about 6% and AMD and Micron dropped sharply a day after Jensen Huang's reinstatement as CEO sent Nvidia up more than 30%. The swing shows how jittery investors remain about how much AI growth is already priced in.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic stock slips below its IPO price",
-      "summary": "Shares of Anthropic briefly fell to about $82.30, under the $83 offering price, in only its fourth day of trading. Analysts pointed to the company's heavy capital needs, possible insider selling and profit-taking. A broken IPO this fast is an early test of public-market appetite for AI labs.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63596550/stock-market-today-anthropic-below-ipo-price-nvidia-record-rally-reversal"
+      "tag": "Big Tech",
+      "headline": "Huang apologizes to Nvidia staff as questions mount over his return",
+      "summary": "In his first all-hands since being reinstated as CEO, Jensen Huang apologized to employees and denied that President Trump forced the board to bring him back. Reports say a group of Silicon Valley figures lobbied the White House on his behalf and that Trump brushed aside intelligence-agency concerns; some lawmakers now want to investigate. Governance experts warn that reinstating him before the board's own probe finished could invite shareholder lawsuits.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
     },
     {
       "tag": "Big Tech",
-      "headline": "Amazon buys Decart's AI optimization tech for $7.5 billion",
-      "summary": "Amazon is acquiring Decart's technology and research team in a deal reported at $7.5 billion. The goal is to run AI models more efficiently on Amazon's in-house Trainium chips as it prepares to sell them more widely, adding pressure on Nvidia's dominance.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
-    },
-    {
-      "tag": "Security",
-      "headline": "CrowdStrike to buy Zscaler in $43.9 billion all-stock deal",
-      "summary": "CrowdStrike agreed to acquire fellow security firm Zscaler, combining endpoint protection with cloud network security. It would be one of the largest cybersecurity deals ever and will face regulatory review.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+      "headline": "Tesla and SpaceX reportedly open formal merger talks",
+      "summary": "The Financial Times reports the two Musk-led companies have set up special committees of independent directors to negotiate an all-stock combination valuing the pair around $3.5 trillion. It would be among the largest corporate deals ever and would fold Musk's rocket, satellite and AI businesses together with the carmaker.",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9"
     },
     {
       "tag": "AI",
-      "headline": "Anthropic and OpenAI claim AI-written proof of a 1979 conjecture",
-      "summary": "Both companies published proofs, generated largely by their AI models, that they say settle a long-open problem in complexity theory. Mathematicians have not yet verified either one, but a confirmed result would be a milestone for AI in research math.",
-      "source": "Interesting Engineering",
-      "url": "https://interestingengineering.com/ai-robotics/claude-proves-vp-not-vnp-valiant-conjecture"
+      "headline": "Dell's AI server boom delivers a record quarter",
+      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and the company raised its full-year outlook for the third time, to $202 billion. Its AI server backlog hit a record $132.3 billion, a sign that data-center spending remains strong even as chip stocks wobble. Shares rose about 2-3% after hours.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+    },
+    {
+      "tag": "AI",
+      "headline": "Anthropic closes below its IPO price",
+      "summary": "Anthropic shares ended Tuesday at $81.91, under their $83 offering price, as the post-debut rally unwound. Filings also showed co-founders Dario and Daniela Amodei each sold more than $280 million in stock to the IPO underwriters.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
     },
     {
       "tag": "Policy",
-      "headline": "US blacklists Megaspeed; Senate hearing on chip exports set",
-      "summary": "The Commerce Department added Singapore-based Megaspeed to its entity list over the risk of Nvidia chips being diverted to China. Senate Banking Chairman Tim Scott said a hearing on chip export controls is planned for December 3.",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/11/23/us-prepares-to-blacklist-megaspeed-as-huang-returns-to-nvidia-01180920"
+      "headline": "Huawei convicted on trade-secret and bank-fraud charges",
+      "summary": "A US federal jury found Huawei guilty of conspiring to steal trade secrets and of bank fraud, while acquitting it on the racketeering conspiracy count. The verdict caps a long-running case at the center of US-China tech tensions.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab"
+    },
+    {
+      "tag": "Chips",
+      "headline": "US blacklists an Alibaba-owned Singapore unit",
+      "summary": "The Commerce Department added Apex Enterprise Solutions, an Alibaba subsidiary in Singapore, to its Entity List alongside Megaspeed and its affiliates. The move restricts access to US technology and is a setback for Alibaba's AI ambitions.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions"
     },
     {
       "tag": "Software",
-      "headline": "Google's AI Mode can now read your Drive and Wallet",
-      "summary": "Google Search's AI Mode gained optional connections to Google Drive and Google Wallet for more personalized answers, with Wallet access read-only. Separately, OpenAI widened its GPT-6.2 Sol model to paid ChatGPT plans.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+      "headline": "Microsoft declares 'Code Red' after historic 365 outage",
+      "summary": "Internal memos show Microsoft launched an urgent effort to overhaul how it prevents and responds to major outages, following a roughly 24-hour Microsoft 365 disruption. The push signals reliability is now a top priority for its cloud and productivity business.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 24 (Nasdaq, yield, oil and bitcoin as of ~2:30 PM CT)",
-    "summary": "A chip-stock rout dragged the S&P 500 and Nasdaq lower while the Dow closed above 50,000 on gains in retail and other non-tech names.",
+    "asOf": "pre-market, Nov 25 (index futures ~6:15 AM CT); Nov 24 closes below",
+    "summary": "Futures are falling sharply as the chip and AI selloff extends into a third session, with traders bracing for this morning's PCE inflation report and pricing in a likely December Fed rate hike.",
     "indexes": [
       {
-        "name": "Dow",
+        "name": "Dow fut.",
+        "value": "49,653",
+        "change": "-0.8%"
+      },
+      {
+        "name": "S&P 500 fut.",
+        "value": "7,110",
+        "change": "-1.5%"
+      },
+      {
+        "name": "Nasdaq 100 fut.",
+        "value": "25,625",
+        "change": "-2.5%"
+      },
+      {
+        "name": "Dow (Tue close)",
         "value": "50,019",
         "change": "+0.9%"
       },
       {
-        "name": "S&P 500",
-        "value": "",
+        "name": "S&P 500 (Tue close)",
+        "value": "7,201",
         "change": "-0.5%"
       },
       {
-        "name": "Nasdaq",
-        "value": "23,612",
-        "change": "-2.0%"
+        "name": "Nasdaq (Tue close)",
+        "value": "23,734",
+        "change": "-1.5%"
       },
       {
         "name": "10-yr yield",
@@ -86,92 +101,92 @@
       },
       {
         "name": "WTI oil",
-        "value": "$81.56",
-        "change": "+1.7%"
+        "value": "$81.77",
+        "change": "-0.3%"
       },
       {
         "name": "Bitcoin",
-        "value": "$59,442",
-        "change": "-2.8%"
+        "value": "$58,882",
+        "change": "-1.4%"
       }
     ],
     "movers": [
       {
         "symbol": "NVDA",
         "name": "Nvidia",
-        "change": "-5.9%",
-        "note": "Gives back part of Monday's 31% Huang-return surge"
+        "change": "-5.0%",
+        "note": "Pre-market; AI profitability worries extend Tuesday's 5.9% drop"
+      },
+      {
+        "symbol": "DELL",
+        "name": "Dell Technologies",
+        "change": "+3%",
+        "note": "After hours; record quarter and raised forecast"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "change": "-11.0%",
+        "note": "Tuesday; gave back most of Monday's chip rally"
       },
       {
         "symbol": "AMD",
         "name": "AMD",
-        "change": "-9.5%",
-        "note": "Caught in broad semiconductor selloff (late session)"
-      },
-      {
-        "symbol": "HPE",
-        "name": "Hewlett Packard Enterprise",
-        "change": "-13%",
-        "note": "Guided AI unit margins lower for fiscal 2027"
+        "change": "-8.9%",
+        "note": "Tuesday; broad semiconductor selloff"
       },
       {
         "symbol": "KSS",
         "name": "Kohl's",
         "change": "+20%",
-        "note": "Surprise profit and upbeat outlook"
-      },
-      {
-        "symbol": "DLTR",
-        "name": "Dollar Tree",
-        "change": "+11%",
-        "note": "Beat estimates and raised full-year guidance"
+        "note": "Tuesday; surprise profit and upbeat outlook"
       }
     ],
     "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
   },
   "other": [
     {
       "tag": "Business",
-      "headline": "Traders bet heavily on a Fed rate hike",
-      "summary": "Futures now price roughly a 95% chance of a quarter-point increase, and bets on at least two more hikes returned after strong data, including a better-than-expected consumer confidence reading.",
+      "headline": "PCE inflation report due as markets brace for a Fed hike",
+      "summary": "October's PCE price index, the Fed's preferred inflation gauge, comes out this morning; forecasts call for 3.8% headline and 3.2% core inflation. Traders see near-certain odds of a quarter-point rate hike in December. Markets close Thursday for Thanksgiving and close early Friday.",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
       "tag": "World",
-      "headline": "Iran vows to use all tools against US naval blockade",
-      "summary": "Iran's Foreign Ministry called the reinstated US blockade military aggression and said it would respond with every available means, though oil markets also watched signs of continuing diplomacy.",
+      "headline": "Iran vows to confront the US naval blockade",
+      "summary": "Iran's Foreign Ministry said it will use every available tool against the US naval blockade reinstated in July, keeping Gulf tensions and oil prices in focus.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
     },
     {
       "tag": "World",
-      "headline": "Russian strike on Zaporizhzhia kills two",
-      "summary": "An overnight attack hit an apartment building in the Ukrainian city, killing two and wounding dozens, including children, according to the regional governor.",
+      "headline": "Israeli strike kills Hamas security chief in Gaza",
+      "summary": "Israeli airstrikes killed Hamas internal security director Naeem Abu Nahel and six others, including two police officers, according to Gaza medics and police.",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/russian-attack-kills-2-people-wounds-22-ukraines-zaporizhzhia-official-says-2026-11-24/"
+      "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-three-palestinians-southern-gaza-medics-say-2026-11-24/"
     },
     {
       "tag": "US",
-      "headline": "Appeals court revives Trump bid to move NY case to federal court",
-      "summary": "A federal appeals panel ruled a judge erred in refusing to move Trump's 2024 New York felony case to federal court and sent it back for a prompt new ruling.",
+      "headline": "Trump to order faster federal death-penalty cases",
+      "summary": "President Trump said he will sign a directive telling the Justice Department to speed up federal executions and seek the death penalty in certain murder cases.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/law/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-5704f97a"
+    },
+    {
+      "tag": "US",
+      "headline": "Rep. Jimmy Gomez to resign after ethics finding",
+      "summary": "The California Democrat said he will step down next week after the House Ethics Committee found he violated rules on sexual conduct toward employees.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/11/23/nyregion/trump-conviction-appeal-federal-court.html"
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
     },
     {
       "tag": "World",
-      "headline": "UK sanctions Myanmar generals after ICJ genocide ruling",
-      "summary": "Britain sanctioned five senior Myanmar military leaders after the International Court of Justice found Myanmar committed genocide against the Rohingya.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo"
-    },
-    {
-      "tag": "US",
-      "headline": "About 81 million Americans expected to travel for Thanksgiving",
-      "summary": "Forecasters expect near-record holiday travel this week, though slightly fewer drivers and flyers than last year.",
-      "source": "Fox Weather",
-      "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers"
+      "headline": "Japan speeds ICC payment ahead of US sanctions",
+      "summary": "Japan said it will pay its full 2027 contribution to the International Criminal Court before year-end, ahead of US sanctions on the court taking effect.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/japan-accelerates-icc-funding-us-sanctions-threaten-court-2026-11-24/"
     }
   ]
 }
