@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-25",
-  "dateLabel": "Wednesday, November 25, 2026",
-  "updated": "4:14 PM CT, Nov 25",
+  "date": "2026-11-26",
+  "dateLabel": "Thursday, November 26, 2026",
+  "updated": "6:21 AM CT, Nov 26",
   "glance": [
-    "Wall Street claws back a steep drop: the Dow closed up 0.3%, while the S&P 500 (-0.2%) and Nasdaq (-0.6%) finished far above their morning lows.",
-    "Nvidia closed down about 4% after falling more than 8% early; chip stocks recovered most of their slide by the bell.",
-    "Core PCE inflation ran 3.3% in October, above forecasts, and markets now price a near-certain December Fed rate hike.",
-    "The administration proposed new tariffs of up to 20% on China, the EU and 12 other trading partners, likely not before January.",
-    "Markets are closed Thursday for Thanksgiving and reopen Friday for a shortened session."
+    "Happy Thanksgiving: US markets are closed today and reopen Friday for a half-day session.",
+    "Reports say Pentagon officials floated using a wartime law to pressure Nvidia's board to reinstate Jensen Huang, and the DOJ never formally investigated him.",
+    "1Password disclosed a breach of its internal systems via an employee's GitHub account; it says customer vaults were not touched.",
+    "The FCC authorized SpaceX to launch up to 1 million satellites for orbiting AI data centers.",
+    "Markets head into Friday pricing a near-certain December Fed rate hike after hot October inflation data."
   ],
   "tech": [
     {
-      "tag": "Chips",
-      "headline": "Chip stocks claw back most of a brutal early slide",
-      "summary": "Nvidia fell more than 8% in the morning but closed down about 3.9% at roughly $149, and the Philadelphia semiconductor index recovered much of a near-6% drop. AMD, Micron and Marvell were among the morning's hardest hit as doubts about AI spending met hot inflation data and tariff news. The late rebound kept the Nasdaq-100 out of bear-market territory for now.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-    },
-    {
       "tag": "Big Tech",
-      "headline": "Huang apologizes to Nvidia staff as questions mount over his return",
-      "summary": "In his first all-hands since being reinstated as CEO, Jensen Huang apologized to employees and denied that President Trump forced the board to bring him back. On Wednesday Trump said a pardon for Huang was always an option but likely not needed. Huang is due to testify before Congress next week, and governance experts warn the reinstatement could invite shareholder suits.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
-    },
-    {
-      "tag": "Big Tech",
-      "headline": "Tesla and SpaceX reportedly open formal merger talks",
-      "summary": "The Financial Times reports the two Musk-led companies have set up special committees of independent directors to negotiate an all-stock combination valuing the pair around $3.5 trillion. It would be among the largest corporate deals ever and would fold Musk's rocket, satellite and AI businesses together with the carmaker.",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9"
-    },
-    {
-      "tag": "AI",
-      "headline": "Dell's AI server boom delivers a record quarter",
-      "summary": "Dell's quarterly revenue roughly doubled from a year ago to $54.9 billion, and it raised its full-year outlook to $202 billion, with a record $132.3 billion AI server backlog. The stock still fell about 5% at midday Wednesday as the broader AI selloff overwhelmed the good news.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
-    },
-    {
-      "tag": "AI",
-      "headline": "Anthropic struggles to climb back above its IPO price",
-      "summary": "Anthropic shares traded well below their $83 offering price for much of Wednesday after closing Tuesday at $81.91, as the AI selloff weighed on the newly public company. Filings also showed co-founders Dario and Daniela Amodei each sold more than $280 million in stock to the IPO underwriters.",
-      "source": "CNBC",
-      "url": "https://cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+      "headline": "Pentagon reportedly weighed wartime law to put Huang back atop Nvidia",
+      "summary": "The Washington Post reports Pentagon officials discussed invoking the Defense Production Act to press Nvidia's board into reappointing Jensen Huang as CEO. Reuters separately reports the Justice Department never opened a formal probe into Huang before he was cleared, and the WSJ says officials told Congress there is no evidence China orchestrated the relationship at the center of the scandal. The episode is raising sharp questions about government pressure on a private company's board; Huang is due to testify before Congress next week.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/"
     },
     {
       "tag": "Security",
-      "headline": "Amazon says an AI agent found and exploited a zero-day largely on its own",
-      "summary": "Amazon reported that an open-source AI agent exploited a previously unknown software vulnerability with only limited human help. It is a notable real-world sign that autonomous AI tools can speed up offensive hacking, raising pressure on defenders to patch faster.",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891"
+      "headline": "1Password says hackers got into its internal systems",
+      "summary": "Password manager 1Password disclosed that attackers broke in through a compromised employee GitHub account and took customer names and email addresses. The company says encrypted vault contents and passwords were not accessed. Users should still watch for targeted phishing that uses the stolen contact details.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
     },
     {
       "tag": "Policy",
-      "headline": "Huawei convicted on trade-secret and bank-fraud charges",
-      "summary": "A US federal jury found Huawei guilty of conspiring to steal trade secrets and of bank fraud, while acquitting it on the racketeering conspiracy count. The verdict caps a long-running case at the center of US-China tech tensions.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab"
+      "headline": "FCC clears SpaceX for up to 1 million data-center satellites",
+      "summary": "US regulators authorized SpaceX to deploy as many as 1 million satellites intended to host AI computing in orbit, an enormous jump from today's Starlink fleet. The approval lands as Tesla and SpaceX reportedly explore an all-stock merger valuing the pair near $3.5 trillion, which would combine Musk's rocket, satellite and AI businesses with the carmaker.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Banned Nvidia chips still on offer in China; Nvidia settles old investor suit",
+      "summary": "The Washington Post found top-end Nvidia servers still being quoted in Shenzhen despite US export bans, with B300 systems priced above $3 million, underscoring how hard the controls are to enforce. Separately, Reuters reports Nvidia agreed to pay $290 million to settle a 2018 class action over how it disclosed crypto-mining demand for its GPUs. Nvidia shares fell about 4% Wednesday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/"
+    },
+    {
+      "tag": "Policy",
+      "headline": "States move against AI toys and Character.AI's data sale",
+      "summary": "New York Gov. Kathy Hochul signed a five-year ban on AI chatbot toys just as holiday shopping begins. Meanwhile, 42 state attorneys general are opposing Character.AI's plan to auction data from more than 21 million US accounts, including over 2 million registered to minors.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI claims a result on a classic math problem",
+      "summary": "OpenAI posted a preprint arguing that the exponent governing how fast matrices can be multiplied is exactly 9/4, which would settle a long-open question in computer science if it holds up. Outside mathematicians have yet to verify the proof, but it is the boldest claim yet of AI-assisted research producing a major theoretical result.",
+      "source": "alphaXiv / OpenAI",
+      "url": "https://www.alphaxiv.org/abs/2611.matrix-multiplication-exponent-lower-bound"
+    },
+    {
+      "tag": "Startups",
+      "headline": "ElevenLabs eyes $33 billion valuation",
+      "summary": "Bloomberg reports voice-AI startup ElevenLabs is in early talks for a 2027 funding round targeting a $33 billion valuation, up from $22 billion in September, a sign investor appetite for AI apps remains strong even as chip stocks wobble.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 25 (oil, yield, bitcoin late afternoon)",
-    "summary": "Stocks staged a sharp afternoon recovery from a hot-inflation, tariff and AI-chip selloff, leaving the Dow higher and the Nasdaq only modestly lower heading into Thanksgiving.",
+    "asOf": "market close, Nov 25 (yield, oil and bitcoin late Nov 25); US markets closed today for Thanksgiving",
+    "summary": "US stock and bond markets are closed for Thanksgiving; they reopen Friday for a shortened session (stocks close at noon CT) after Wednesday's sharp afternoon rebound from a hot-inflation, tariff and chip selloff.",
     "indexes": [
       {
         "name": "Dow",
@@ -133,45 +133,45 @@
   "other": [
     {
       "tag": "Business",
-      "headline": "Inflation heats up as economy grows faster than thought",
-      "summary": "October's PCE price index rose 3.8% from a year earlier, the highest since 2023, while core prices rose 3.3%, a tenth above forecasts. Third-quarter GDP growth was revised up to a 4.3% annual rate, and the Fed's Beige Book flagged broadening price pressures. Futures price roughly a 97-98% chance of a quarter-point Fed hike in December.",
+      "headline": "Hot inflation sets up a likely December Fed hike",
+      "summary": "October's PCE price index rose 3.8% from a year earlier, the most since 2023, with core prices up 3.3%, and third-quarter GDP growth was revised up to 4.3%. Futures now price roughly a 97% chance of a quarter-point rate increase next month.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
       "tag": "US",
-      "headline": "Administration proposes new tariffs on 14 trading partners",
-      "summary": "Following an eight-month probe into excess factory capacity, the US proposed duties of up to 20% on China, the EU and 12 other partners, stacked on existing tariffs. Officials say they would take effect after hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.",
+      "headline": "New tariffs proposed on 14 trading partners",
+      "summary": "The administration proposed duties of up to 20% on China, the EU and 12 others over excess factory capacity, layered on existing tariffs. They would follow hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.",
       "source": "Yahoo Finance / Reuters",
       "url": "https://finance.yahoo.com/economy/policy/articles/us-proposes-tariffs-14-trading-131826582.html"
     },
     {
+      "tag": "US",
+      "headline": "Busy holiday travel, and the 100th Macy's parade",
+      "summary": "AAA expected more than 81 million Americans to travel over the holiday, slightly below last year's record amid high airfares and gas prices. The Macy's Thanksgiving Day Parade marks its 100th edition this morning in New York, airing live on NBC and Peacock.",
+      "source": "Fox Weather / NBCUniversal",
+      "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers"
+    },
+    {
       "tag": "Business",
-      "headline": "Mortgage rates ease slightly ahead of the holiday",
-      "summary": "Freddie Mac said the average 30-year fixed mortgage rate dipped to 7.21% from 7.28% a week earlier, a small reprieve for buyers even as markets brace for a Fed rate hike.",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+      "headline": "Record online holiday spending forecast as deals begin",
+      "summary": "Adobe projects US online holiday sales will reach a record $275.1 billion, up 6.7% from last year, with Thanksgiving, Black Friday and Cyber Monday the peak days for discounts.",
+      "source": "Adobe",
+      "url": "https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record"
     },
     {
       "tag": "World",
       "headline": "Iran vows to confront the US naval blockade",
-      "summary": "Iran's Foreign Ministry said it will use every available tool against the US naval blockade reinstated in July, keeping Gulf tensions and oil prices in focus.",
+      "summary": "Iran's Foreign Ministry said it will use every available tool against the US naval blockade reinstated in July, keeping Gulf tensions and oil prices in focus; WTI rose 2.6% Wednesday.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
     },
     {
-      "tag": "World",
-      "headline": "Israeli strike kills Hamas security chief in Gaza",
-      "summary": "Israeli airstrikes killed Hamas internal security director Naeem Abu Nahel and six others, including two police officers, according to Gaza medics and police.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-least-three-palestinians-southern-gaza-medics-say-2026-11-24/"
-    },
-    {
-      "tag": "US",
-      "headline": "Trump to order faster federal death-penalty cases",
-      "summary": "President Trump said he will sign a directive telling the Justice Department to speed up federal executions and seek the death penalty in certain murder cases.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/law/trump-blasts-newsom-and-defends-death-penalty-in-justice-department-speech-5704f97a"
+      "tag": "Health",
+      "headline": "Neuralink cleared for pivotal ALS implant trial",
+      "summary": "Neuralink says the FDA approved a pivotal trial of its brain-computer implant in people with ALS, a key step toward potential market approval of the device.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/neuralink-gets-clearance-for-brain-implant-trial-in-als-patients"
     }
   ]
 }
