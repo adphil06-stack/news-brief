@@ -1,13 +1,13 @@
 {
   "date": "2026-11-26",
   "dateLabel": "Thursday, November 26, 2026",
-  "updated": "6:21 AM CT, Nov 26",
+  "updated": "11:19 AM CT, Nov 26",
   "glance": [
-    "Happy Thanksgiving: US markets are closed today and reopen Friday for a half-day session.",
-    "Reports say Pentagon officials floated using a wartime law to pressure Nvidia's board to reinstate Jensen Huang, and the DOJ never formally investigated him.",
-    "1Password disclosed a breach of its internal systems via an employee's GitHub account; it says customer vaults were not touched.",
-    "The FCC authorized SpaceX to launch up to 1 million satellites for orbiting AI data centers.",
-    "Markets head into Friday pricing a near-certain December Fed rate hike after hot October inflation data."
+    "Happy Thanksgiving: US stock and bond markets are closed today and reopen Friday for a shortened session.",
+    "Bitcoin is bouncing on the holiday, back near $60,600 after dipping toward $57,000 earlier in the week.",
+    "Reports say Pentagon officials floated a wartime law to pressure Nvidia's board to reinstate Jensen Huang; Huang testifies to Congress next week.",
+    "1Password disclosed a breach of internal systems via an employee's GitHub account; customer vaults were not touched.",
+    "Israeli strikes killed at least eight people in Gaza on Thursday, including a Hamas-appointed deputy minister, local officials say."
   ],
   "tech": [
     {
@@ -61,8 +61,8 @@
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 25 (yield, oil and bitcoin late Nov 25); US markets closed today for Thanksgiving",
-    "summary": "US stock and bond markets are closed for Thanksgiving; they reopen Friday for a shortened session (stocks close at noon CT) after Wednesday's sharp afternoon rebound from a hot-inflation, tariff and chip selloff.",
+    "asOf": "market close, Nov 25 for stocks, yield and oil; bitcoin late morning Nov 26. US markets closed today for Thanksgiving",
+    "summary": "US stock and bond markets are closed for Thanksgiving and reopen Friday for a half-day session (stocks close at noon CT); bitcoin is rebounding in thin holiday trading.",
     "indexes": [
       {
         "name": "Dow",
@@ -91,8 +91,8 @@
       },
       {
         "name": "Bitcoin",
-        "value": "$60,238",
-        "change": "+0.7%"
+        "value": "$60,600",
+        "change": "+2.3%"
       }
     ],
     "movers": [
@@ -139,6 +139,13 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
     },
     {
+      "tag": "World",
+      "headline": "Israeli strikes kill at least eight in Gaza",
+      "summary": "Israeli strikes in Gaza killed at least eight people on Thursday, among them a Hamas-appointed deputy minister, according to local officials, adding strain to the fragile ceasefire. Separately, Iran's government has vowed to use every available tool against the US naval blockade, keeping Gulf tensions in focus.",
+      "source": "Al Arabiya / Washington Post",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/11/26/israel-kills-nine-in-gaza-including-hamasappointed-deputy-minister-officials-say"
+    },
+    {
       "tag": "US",
       "headline": "New tariffs proposed on 14 trading partners",
       "summary": "The administration proposed duties of up to 20% on China, the EU and 12 others over excess factory capacity, layered on existing tariffs. They would follow hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.",
@@ -158,13 +165,6 @@
       "summary": "Adobe projects US online holiday sales will reach a record $275.1 billion, up 6.7% from last year, with Thanksgiving, Black Friday and Cyber Monday the peak days for discounts.",
       "source": "Adobe",
       "url": "https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record"
-    },
-    {
-      "tag": "World",
-      "headline": "Iran vows to confront the US naval blockade",
-      "summary": "Iran's Foreign Ministry said it will use every available tool against the US naval blockade reinstated in July, keeping Gulf tensions and oil prices in focus; WTI rose 2.6% Wednesday.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
     },
     {
       "tag": "Health",
