@@ -1,13 +1,13 @@
 {
   "date": "2026-11-27",
   "dateLabel": "Friday, November 27, 2026",
-  "updated": "6:15 AM CT, Nov 27",
+  "updated": "11:15 AM CT, Nov 27",
   "glance": [
-    "Stock futures jumped about 1.3% to 2.4% before a shortened Black Friday session (closes noon CT), led by a rebound in battered AI and memory-chip stocks.",
+    "Stocks are up sharply in a shortened Black Friday session (closes noon CT): S&P 500 about +1.4%, Nasdaq about +1.9%, led by a rebound in AI and memory-chip stocks.",
     "Nvidia reportedly told server partners to halt shipments to Malaysia, Singapore, Thailand and Indonesia under new US export rules.",
-    "SAP is weighing at least 10,000 job cuts in an AI-driven restructuring, Bloomberg reports; SAP says nothing is decided.",
-    "Black Friday deals are underway after shoppers spent $82.5 billion online Nov. 1-22, up 9.1%, per Adobe.",
-    "China's main stock indexes posted their biggest gains in over two years after Beijing urged state investors to steady the market."
+    "The FCC authorized SpaceX to launch up to one million satellites for an orbital AI computing network.",
+    "Shoppers lined up at stores for Black Friday after a record $82.5 billion in early-November online spending, per Adobe.",
+    "Oil is climbing again after fresh attacks on tankers near the Strait of Hormuz and on Saudi energy sites."
   ],
   "tech": [
     {
@@ -25,6 +25,13 @@
       "url": "https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring"
     },
     {
+      "tag": "Policy",
+      "headline": "FCC clears SpaceX plan for a million AI-computing satellites",
+      "summary": "The FCC authorized SpaceX to deploy up to one million satellites for a proposed network that would run AI workloads in low Earth orbit on solar power. The approval covers a potential constellation, not satellites already built, and scientists have questioned the economics and how the hardware would shed heat. It signals regulators' willingness to let space-based data centers move ahead as AI power demand strains the grid.",
+      "source": "AP",
+      "url": "https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c"
+    },
+    {
       "tag": "Chips",
       "headline": "Netherlands vows to fight US bill targeting ASML's China sales",
       "summary": "The Dutch government says it will resist the proposed US Match Act, which would further restrict ASML's chipmaking-equipment sales to China, calling it a threat to the company. ASML's CEO separately argued that tighter controls would only speed up China's homegrown chip efforts.",
@@ -40,10 +47,10 @@
     },
     {
       "tag": "AI",
-      "headline": "OpenAI fixes billing error from GPT-6.2 launch",
-      "summary": "OpenAI said a mistake at the launch of its GPT-6.2 Astra and Sol models had been undercounting usage. With the fix, paying ChatGPT users on Astra could hit their plan limits up to 40% sooner.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster"
+      "headline": "OpenAI fixes GPT-6.2 billing error, will merge ChatGPT usage limits",
+      "summary": "OpenAI said a launch mistake with GPT-6.2 caused paying ChatGPT users to burn through usage allowances up to 40% faster, and that it has been corrected. Separately, the company plans to combine Chat and Work usage limits into one shared allowance, so heavy users of both may hit caps sooner; a wider rollout is planned for December.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
     },
     {
       "tag": "Security",
@@ -51,92 +58,79 @@
       "summary": "Microsoft says state-backed groups from China and North Korea, including Salt Typhoon, have added the ARTEX AI penetration-testing tool to their arsenals. Separately, FIFA confirmed a breach exposing personal and business data, and Binance fully reopened withdrawals after last month's record $6.3 billion hack.",
       "source": "The Record",
       "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
-    },
-    {
-      "tag": "Policy",
-      "headline": "X adds parental controls for teen users",
-      "summary": "X rolled out its first parental controls for users aged 13 to 17, placing teens in a protected mode by default and turning off targeted ads. The change comes as states and Congress step up pressure on platforms over young users, though bipartisan AI legislation is moving slowly.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
     }
   ],
   "markets": {
-    "asOf": "pre-market, Nov 27 (~5:30 AM ET); index levels are the Nov 25 close, changes are Friday futures",
-    "summary": "Futures point to a sharp rebound as AI and memory-chip stocks recover from November's selloff and Asian markets rally, though traders still see a near-certain Fed rate hike in December; stocks close early at noon CT.",
+    "asOf": "about 11:15 AM CT, Nov 27 (intraday; market closes early at noon CT)",
+    "summary": "Stocks are rallying in thin post-Thanksgiving trading as beaten-down AI and memory-chip shares rebound, though rising Treasury yields and a hawkish Fed outlook cap gains.",
     "indexes": [
       {
         "name": "Dow",
-        "value": "50,183",
-        "change": "+1.3%"
+        "value": "50,769",
+        "change": "+1.2%"
       },
       {
         "name": "S&P 500",
-        "value": "7,183",
-        "change": "+1.7%"
+        "value": "7,285",
+        "change": "+1.4%"
       },
       {
         "name": "Nasdaq",
-        "value": "23,586",
-        "change": "+2.4%"
+        "value": "24,029",
+        "change": "+1.9%"
       },
       {
         "name": "10-yr yield",
-        "value": "4.92%",
-        "change": "+0.06"
+        "value": "4.93%",
+        "change": "+0.09"
       },
       {
         "name": "WTI oil",
-        "value": "$85.67",
-        "change": "+0.9%"
+        "value": "",
+        "change": ""
       },
       {
         "name": "Bitcoin",
-        "value": "$61,000",
-        "change": "+2%"
+        "value": "$59,900",
+        "change": "-0.9%"
       }
     ],
     "movers": [
       {
-        "symbol": "NVDA",
-        "name": "Nvidia",
-        "change": "+4.2%",
-        "note": "Pre-market; AI rebound after weeks of selling"
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "change": "+8.5%",
+        "note": "Memory-chip rally on tight supply"
       },
       {
         "symbol": "MU",
         "name": "Micron",
-        "change": "+6.4%",
-        "note": "Pre-market; memory stocks bounce on tight supply"
+        "change": "+6.7%",
+        "note": "Memory stocks bounce after midweek tariff selloff"
       },
       {
-        "symbol": "SNDK",
-        "name": "Sandisk",
-        "change": "+10.8%",
-        "note": "Pre-market; memory-chip rally"
+        "symbol": "VRTX",
+        "name": "Vertex Pharmaceuticals",
+        "change": "-9.3%",
+        "note": "Biggest S&P laggard; health care trails market"
       },
       {
-        "symbol": "AMD",
-        "name": "AMD",
-        "change": "+5%",
-        "note": "Pre-market; chipmakers recover from midweek slide"
-      },
-      {
-        "symbol": "ORCL",
-        "name": "Oracle",
-        "change": "+4.6%",
-        "note": "Pre-market; AI infrastructure names rebound"
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "-0.3%",
+        "note": "Gave back early 4% gain amid Southeast Asia shipment halt"
       }
     ],
-    "source": "Forbes",
-    "url": "https://www.forbes.com/sites/siladityaray/2026/11/27/stock-futures-surge-as-battered-ai-shares-rebound-ahead-of-shorterned-friday-trading/"
+    "source": "Yahoo Finance / Eurasia Business News",
+    "url": "https://eurasiabusinessnews.com/2026/11/27/u-s-stock-market-today-november-27-2026-tech-rebounds-in-shortened-black-friday-session/"
   },
   "other": [
     {
       "tag": "Business",
-      "headline": "Black Friday arrives after record early online spending",
-      "summary": "Shoppers spent $82.5 billion online from Nov. 1 to 22, up 9.1% from a year earlier, as retailers pushed deals early, according to Adobe. Adobe expects a record $275 billion in online holiday sales for the season.",
-      "source": "AP",
-      "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+      "headline": "Black Friday crowds return to stores after record online run-up",
+      "summary": "Die-hard shoppers lined up at malls and big-box stores across the country Friday morning, even as online sales keep growing. Adobe says US consumers spent $82.5 billion online from Nov. 1 to 22, up 9.1% from a year ago, with higher electronics prices from the memory-chip shortage a wildcard for gift budgets.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564"
     },
     {
       "tag": "US",
@@ -161,10 +155,10 @@
     },
     {
       "tag": "World",
-      "headline": "Houthi attack on Saudi refinery keeps Gulf tensions high",
-      "summary": "Yemen's Houthis said they struck Saudi Arabia's Ras Tanura refinery, its largest, in retaliation for deadly strikes, as Saudi-Houthi fighting escalates. Separately, two Italian technicians were killed in a drone attack at a work site in Kuwait.",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-claim-attack-saudi-arabias-largest-refinery"
+      "headline": "Tanker and refinery attacks push oil higher",
+      "summary": "Oil prices rose more than $1 a barrel after new attacks on tankers near the Strait of Hormuz, following a Houthi strike claim on Saudi Arabia's largest refinery. The moves snapped a three-week losing streak for crude ahead of Sunday's OPEC+ meeting, where producers are expected to hold output steady.",
+      "source": "Reuters via The Daily Star",
+      "url": "https://www.thedailystar.net/business/global-economy/news/oil-climbs-over-1-tanker-attacks-4248531"
     }
   ]
 }
