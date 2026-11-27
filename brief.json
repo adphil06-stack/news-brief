@@ -1,1 +1,170 @@
-{"date": "2026-11-26", "dateLabel": "Thursday, November 26, 2026", "updated": "4:19 PM CT, Nov 26", "glance": ["Happy Thanksgiving: US stock and bond markets were closed today; stocks reopen Friday for a half-day session ending at noon CT.", "Bitcoin climbed to about $61,000 on Thanksgiving, squeezing short sellers in thin holiday trading.", "Reports say Pentagon officials floated a wartime law to pressure Nvidia's board to reinstate Jensen Huang; Huang testifies to Congress next week.", "1Password disclosed a breach of internal systems via an employee's GitHub account; customer vaults were not touched.", "Israeli strikes killed at least eight people in Gaza on Thursday, including a Hamas-appointed deputy minister, local officials say."], "tech": [{"tag": "Big Tech", "headline": "Pentagon reportedly weighed wartime law to put Huang back atop Nvidia", "summary": "The Washington Post reports Pentagon officials discussed invoking the Defense Production Act to press Nvidia's board into reappointing Jensen Huang as CEO. Reuters separately reports the Justice Department never opened a formal probe into Huang before he was cleared, and the WSJ says officials told Congress there is no evidence China orchestrated the relationship at the center of the scandal. The episode is raising sharp questions about government pressure on a private company's board; Huang is due to testify before Congress next week.", "source": "Washington Post", "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/"}, {"tag": "Security", "headline": "1Password says hackers got into its internal systems", "summary": "Password manager 1Password disclosed that attackers broke in through a compromised employee GitHub account and took customer names and email addresses. The company says encrypted vault contents and passwords were not accessed. Users should still watch for targeted phishing that uses the stolen contact details.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"}, {"tag": "Policy", "headline": "FCC clears SpaceX for up to 1 million data-center satellites", "summary": "US regulators authorized SpaceX to deploy as many as 1 million satellites intended to host AI computing in orbit, an enormous jump from today's Starlink fleet. The approval lands as Tesla and SpaceX reportedly explore an all-stock merger valuing the pair near $3.5 trillion, which would combine Musk's rocket, satellite and AI businesses with the carmaker.", "source": "Reuters", "url": "https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/"}, {"tag": "Chips", "headline": "Banned Nvidia chips still on offer in China; Nvidia settles old investor suit", "summary": "The Washington Post found top-end Nvidia servers still being quoted in Shenzhen despite US export bans, with B300 systems priced above $3 million, underscoring how hard the controls are to enforce. Separately, Reuters reports Nvidia agreed to pay $290 million to settle a 2018 class action over how it disclosed crypto-mining demand for its GPUs. Nvidia shares fell about 4% Wednesday.", "source": "Washington Post", "url": "https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/"}, {"tag": "Policy", "headline": "States move against AI toys and Character.AI's data sale", "summary": "New York Gov. Kathy Hochul signed a five-year ban on AI chatbot toys just as holiday shopping begins. Meanwhile, 42 state attorneys general are opposing Character.AI's plan to auction data from more than 21 million US accounts, including over 2 million registered to minors.", "source": "TechCrunch", "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"}, {"tag": "AI", "headline": "OpenAI claims a result on a classic math problem", "summary": "OpenAI posted a preprint arguing that the exponent governing how fast matrices can be multiplied is exactly 9/4, which would settle a long-open question in computer science if it holds up. Outside mathematicians have yet to verify the proof, but it is the boldest claim yet of AI-assisted research producing a major theoretical result.", "source": "alphaXiv / OpenAI", "url": "https://www.alphaxiv.org/abs/2611.matrix-multiplication-exponent-lower-bound"}, {"tag": "Startups", "headline": "ElevenLabs eyes $33 billion valuation", "summary": "Bloomberg reports voice-AI startup ElevenLabs is in early talks for a 2027 funding round targeting a $33 billion valuation, up from $22 billion in September, a sign investor appetite for AI apps remains strong even as chip stocks wobble.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value"}], "markets": {"asOf": "market close, Nov 25 for stocks, yield and oil; bitcoin late afternoon Nov 26. US markets closed today for Thanksgiving", "summary": "US stock and bond markets were closed for Thanksgiving and reopen Friday for a shortened session; bitcoin rose toward $61,000 in thin holiday trading.", "indexes": [{"name": "Dow", "value": "50,183", "change": "+0.3%"}, {"name": "S&P 500", "value": "7,183", "change": "-0.3%"}, {"name": "Nasdaq", "value": "23,586", "change": "-0.6%"}, {"name": "10-yr yield", "value": "4.85%", "change": "-0.06"}, {"name": "WTI oil", "value": "$84.19", "change": "+2.6%"}, {"name": "Bitcoin", "value": "$60,800", "change": ""}], "movers": [{"symbol": "NVDA", "name": "Nvidia", "change": "-3.9%", "note": "Pared an 8%+ morning drop; AI spending doubts"}, {"symbol": "HPQ", "name": "HP Inc.", "change": "+10%", "note": "Midday; fourth-quarter revenue beat estimates"}, {"symbol": "WDAY", "name": "Workday", "change": "-9.3%", "note": "Midday; profit hit by restructuring charges"}, {"symbol": "AMD", "name": "AMD", "change": "-6.5%", "note": "Midday; led the chip selloff alongside Micron"}, {"symbol": "DELL", "name": "Dell Technologies", "change": "-5.4%", "note": "Midday; fell despite record quarter and raised forecast"}], "source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}, "other": [{"tag": "Business", "headline": "Hot inflation sets up a likely December Fed hike", "summary": "October's PCE price index rose 3.8% from a year earlier, the most since 2023, with core prices up 3.3%, and third-quarter GDP growth was revised up to 4.3%. Futures now price roughly a 97% chance of a quarter-point rate increase next month.", "source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}, {"tag": "World", "headline": "Israeli strikes kill at least eight in Gaza", "summary": "Israeli strikes in Gaza killed at least eight people on Thursday, among them a Hamas-appointed deputy minister, according to local officials, adding strain to the fragile ceasefire. Separately, Iran's government has vowed to use every available tool against the US naval blockade, keeping Gulf tensions in focus.", "source": "Al Arabiya / Washington Post", "url": "https://english.alarabiya.net/News/middle-east/2026/11/26/israel-kills-nine-in-gaza-including-hamasappointed-deputy-minister-officials-say"}, {"tag": "US", "headline": "New tariffs proposed on 14 trading partners", "summary": "The administration proposed duties of up to 20% on China, the EU and 12 others over excess factory capacity, layered on existing tariffs. They would follow hearings and public comment, likely January at the earliest; the US-China trade truce expires Jan. 10.", "source": "Yahoo Finance / Reuters", "url": "https://finance.yahoo.com/economy/policy/articles/us-proposes-tariffs-14-trading-131826582.html"}, {"tag": "US", "headline": "Busy holiday travel, and the 100th Macy's parade", "summary": "AAA expected more than 81 million Americans to travel over the holiday, slightly below last year's record amid high airfares and gas prices. The Macy's Thanksgiving Day Parade marked its 100th edition Thursday morning in New York.", "source": "Fox Weather / NBCUniversal", "url": "https://www.foxweather.com/lifestyle/more-than-81-million-americans-expected-travel-thanksgiving-despite-fewer-drivers-flyers"}, {"tag": "Business", "headline": "Record online holiday spending forecast as deals begin", "summary": "Adobe projects US online holiday sales will reach a record $275.1 billion, up 6.7% from last year, with Thanksgiving, Black Friday and Cyber Monday the peak days for discounts.", "source": "Adobe", "url": "https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record"}, {"tag": "Health", "headline": "Neuralink cleared for pivotal ALS implant trial", "summary": "Neuralink says the FDA approved a pivotal trial of its brain-computer implant in people with ALS, a key step toward potential market approval of the device.", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/neuralink-gets-clearance-for-brain-implant-trial-in-als-patients"}]}
+{
+  "date": "2026-11-27",
+  "dateLabel": "Friday, November 27, 2026",
+  "updated": "6:15 AM CT, Nov 27",
+  "glance": [
+    "Stock futures jumped about 1.3% to 2.4% before a shortened Black Friday session (closes noon CT), led by a rebound in battered AI and memory-chip stocks.",
+    "Nvidia reportedly told server partners to halt shipments to Malaysia, Singapore, Thailand and Indonesia under new US export rules.",
+    "SAP is weighing at least 10,000 job cuts in an AI-driven restructuring, Bloomberg reports; SAP says nothing is decided.",
+    "Black Friday deals are underway after shoppers spent $82.5 billion online Nov. 1-22, up 9.1%, per Adobe.",
+    "China's main stock indexes posted their biggest gains in over two years after Beijing urged state investors to steady the market."
+  ],
+  "tech": [
+    {
+      "tag": "Chips",
+      "headline": "Nvidia halts server shipments to four Southeast Asian countries",
+      "summary": "Nvidia told partners including Dell and Supermicro to stop shipping its AI servers to Malaysia, Singapore, Thailand and Indonesia to comply with new US export controls, the Financial Times reported. The region has been a suspected transit route for advanced chips headed to China. It is the latest turn in a tumultuous month for Nvidia, whose board reinstated Jensen Huang as CEO on Monday ahead of his congressional testimony next week.",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
+    },
+    {
+      "tag": "Software",
+      "headline": "SAP weighs at least 10,000 job cuts in AI restructuring",
+      "summary": "Europe's largest software company is preparing to eliminate roughly 9% of its workforce as it reorganizes around AI, according to Bloomberg. SAP said no decision has been made. The move would be one of the biggest AI-linked layoffs yet at a major enterprise software maker.",
+      "source": "Bloomberg via The Straits Times",
+      "url": "https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Netherlands vows to fight US bill targeting ASML's China sales",
+      "summary": "The Dutch government says it will resist the proposed US Match Act, which would further restrict ASML's chipmaking-equipment sales to China, calling it a threat to the company. ASML's CEO separately argued that tighter controls would only speed up China's homegrown chip efforts.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml"
+    },
+    {
+      "tag": "Gadgets",
+      "headline": "Memory shortage pushes up electronics prices and dents phone sales",
+      "summary": "Some memory-chip prices have risen as much as tenfold in a year as AI data centers soak up supply, prompting companies to set up procurement war rooms, the WSJ reports. Counterpoint says US smartphone shipments fell 9% in the third quarter as costs squeezed Android makers, while Apple's share climbed to 57%.",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a"
+    },
+    {
+      "tag": "AI",
+      "headline": "OpenAI fixes billing error from GPT-6.2 launch",
+      "summary": "OpenAI said a mistake at the launch of its GPT-6.2 Astra and Sol models had been undercounting usage. With the fix, paying ChatGPT users on Astra could hit their plan limits up to 40% sooner.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster"
+    },
+    {
+      "tag": "Security",
+      "headline": "Microsoft: Chinese and North Korean hackers adopt AI attack tool",
+      "summary": "Microsoft says state-backed groups from China and North Korea, including Salt Typhoon, have added the ARTEX AI penetration-testing tool to their arsenals. Separately, FIFA confirmed a breach exposing personal and business data, and Binance fully reopened withdrawals after last month's record $6.3 billion hack.",
+      "source": "The Record",
+      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+    },
+    {
+      "tag": "Policy",
+      "headline": "X adds parental controls for teen users",
+      "summary": "X rolled out its first parental controls for users aged 13 to 17, placing teens in a protected mode by default and turning off targeted ads. The change comes as states and Congress step up pressure on platforms over young users, though bipartisan AI legislation is moving slowly.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/"
+    }
+  ],
+  "markets": {
+    "asOf": "pre-market, Nov 27 (~5:30 AM ET); index levels are the Nov 25 close, changes are Friday futures",
+    "summary": "Futures point to a sharp rebound as AI and memory-chip stocks recover from November's selloff and Asian markets rally, though traders still see a near-certain Fed rate hike in December; stocks close early at noon CT.",
+    "indexes": [
+      {
+        "name": "Dow",
+        "value": "50,183",
+        "change": "+1.3%"
+      },
+      {
+        "name": "S&P 500",
+        "value": "7,183",
+        "change": "+1.7%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "23,586",
+        "change": "+2.4%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "4.92%",
+        "change": "+0.06"
+      },
+      {
+        "name": "WTI oil",
+        "value": "$85.67",
+        "change": "+0.9%"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "$61,000",
+        "change": "+2%"
+      }
+    ],
+    "movers": [
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "change": "+4.2%",
+        "note": "Pre-market; AI rebound after weeks of selling"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "change": "+6.4%",
+        "note": "Pre-market; memory stocks bounce on tight supply"
+      },
+      {
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "change": "+10.8%",
+        "note": "Pre-market; memory-chip rally"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "change": "+5%",
+        "note": "Pre-market; chipmakers recover from midweek slide"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle",
+        "change": "+4.6%",
+        "note": "Pre-market; AI infrastructure names rebound"
+      }
+    ],
+    "source": "Forbes",
+    "url": "https://www.forbes.com/sites/siladityaray/2026/11/27/stock-futures-surge-as-battered-ai-shares-rebound-ahead-of-shorterned-friday-trading/"
+  },
+  "other": [
+    {
+      "tag": "Business",
+      "headline": "Black Friday arrives after record early online spending",
+      "summary": "Shoppers spent $82.5 billion online from Nov. 1 to 22, up 9.1% from a year earlier, as retailers pushed deals early, according to Adobe. Adobe expects a record $275 billion in online holiday sales for the season.",
+      "source": "AP",
+      "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+    },
+    {
+      "tag": "US",
+      "headline": "Trump calls for investigation after big GDP revision",
+      "summary": "The government revised third-quarter growth up to 4.3% from 3.4%. President Trump alleged the initial figure was deliberately wrong and demanded an investigation; no probe has been confirmed.",
+      "source": "AP",
+      "url": "https://apnews.com/article/4fd800b44005ae11f950f96ff62f876e"
+    },
+    {
+      "tag": "World",
+      "headline": "China and Japan push back on proposed US tariffs",
+      "summary": "China rejected Washington's overcapacity rationale for new tariffs on 14 trading partners and said it reserves the right to respond, while Japan lodged a formal protest.",
+      "source": "AP via MPR News",
+      "url": "https://www.mprnews.org/story/2026/11/26/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans"
+    },
+    {
+      "tag": "World",
+      "headline": "Chinese stocks surge as Beijing steps in",
+      "summary": "The Shanghai Composite jumped 4.2% and the CSI 300 rose 3.7% on Friday, their best days since October 2024, after the State Council called on state-backed investors to stabilize the market.",
+      "source": "Reuters via Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html"
+    },
+    {
+      "tag": "World",
+      "headline": "Houthi attack on Saudi refinery keeps Gulf tensions high",
+      "summary": "Yemen's Houthis said they struck Saudi Arabia's Ras Tanura refinery, its largest, in retaliation for deadly strikes, as Saudi-Houthi fighting escalates. Separately, two Italian technicians were killed in a drone attack at a work site in Kuwait.",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-claim-attack-saudi-arabias-largest-refinery"
+    }
+  ]
+}
