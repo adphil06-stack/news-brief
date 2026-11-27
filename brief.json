@@ -1,13 +1,13 @@
 {
   "date": "2026-11-27",
   "dateLabel": "Friday, November 27, 2026",
-  "updated": "11:15 AM CT, Nov 27",
+  "updated": "4:14 PM CT, Nov 27",
   "glance": [
-    "Stocks are up sharply in a shortened Black Friday session (closes noon CT): S&P 500 about +1.4%, Nasdaq about +1.9%, led by a rebound in AI and memory-chip stocks.",
+    "Stocks closed the holiday-shortened week higher: S&P 500 +1.6%, Nasdaq +2.3% Friday as battered AI and memory-chip shares rebounded; the Dow had its best week since 2022.",
+    "Chip stocks bounced nearly 5% Friday but are still headed for their worst month since 2002 after November's AI selloff.",
     "Nvidia reportedly told server partners to halt shipments to Malaysia, Singapore, Thailand and Indonesia under new US export rules.",
     "The FCC authorized SpaceX to launch up to one million satellites for an orbital AI computing network.",
-    "Shoppers lined up at stores for Black Friday after a record $82.5 billion in early-November online spending, per Adobe.",
-    "Oil is climbing again after fresh attacks on tankers near the Strait of Hormuz and on Saudi energy sites."
+    "Black Friday crowds hit stores after a record $82.5 billion in early-November online spending; OPEC+ meets Sunday amid Gulf tanker attacks."
   ],
   "tech": [
     {
@@ -61,27 +61,27 @@
     }
   ],
   "markets": {
-    "asOf": "about 11:15 AM CT, Nov 27 (intraday; market closes early at noon CT)",
-    "summary": "Stocks are rallying in thin post-Thanksgiving trading as beaten-down AI and memory-chip shares rebound, though rising Treasury yields and a hawkish Fed outlook cap gains.",
+    "asOf": "market close, Nov 27 (early 12:00 PM CT close)",
+    "summary": "Stocks finished a volatile holiday week higher as AI and semiconductor shares rebounded on easing worries about AI profitability, though Treasury yields climbed after a strong GDP revision.",
     "indexes": [
       {
         "name": "Dow",
-        "value": "50,769",
+        "value": "50,775",
         "change": "+1.2%"
       },
       {
         "name": "S&P 500",
-        "value": "7,285",
-        "change": "+1.4%"
+        "value": "7,297",
+        "change": "+1.6%"
       },
       {
         "name": "Nasdaq",
-        "value": "24,029",
-        "change": "+1.9%"
+        "value": "24,130",
+        "change": "+2.3%"
       },
       {
         "name": "10-yr yield",
-        "value": "4.93%",
+        "value": "4.94%",
         "change": "+0.09"
       },
       {
@@ -92,37 +92,37 @@
       {
         "name": "Bitcoin",
         "value": "$59,900",
-        "change": "-0.9%"
+        "change": "-1.2%"
       }
     ],
     "movers": [
       {
-        "symbol": "SNDK",
-        "name": "Sandisk",
-        "change": "+8.5%",
-        "note": "Memory-chip rally on tight supply"
-      },
-      {
         "symbol": "MU",
         "name": "Micron",
-        "change": "+6.7%",
-        "note": "Memory stocks bounce after midweek tariff selloff"
+        "change": "+7%",
+        "note": "Led memory-chip rebound as AI-profit worries eased"
       },
       {
-        "symbol": "VRTX",
-        "name": "Vertex Pharmaceuticals",
-        "change": "-9.3%",
-        "note": "Biggest S&P laggard; health care trails market"
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "change": "+6%",
+        "note": "Memory rally on tight supply and higher prices"
+      },
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "change": "+3%",
+        "note": "Musk repeated pledge to give US kids shares; FCC satellite approval"
       },
       {
         "symbol": "NVDA",
         "name": "Nvidia",
-        "change": "-0.3%",
-        "note": "Gave back early 4% gain amid Southeast Asia shipment halt"
+        "change": "",
+        "note": "Ended modestly higher despite Southeast Asia shipment halt report"
       }
     ],
-    "source": "Yahoo Finance / Eurasia Business News",
-    "url": "https://eurasiabusinessnews.com/2026/11/27/u-s-stock-market-today-november-27-2026-tech-rebounds-in-shortened-black-friday-session/"
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
   },
   "other": [
     {
@@ -155,8 +155,8 @@
     },
     {
       "tag": "World",
-      "headline": "Tanker and refinery attacks push oil higher",
-      "summary": "Oil prices rose more than $1 a barrel after new attacks on tankers near the Strait of Hormuz, following a Houthi strike claim on Saudi Arabia's largest refinery. The moves snapped a three-week losing streak for crude ahead of Sunday's OPEC+ meeting, where producers are expected to hold output steady.",
+      "headline": "Gulf tanker and refinery attacks keep oil on edge",
+      "summary": "Oil rose more than $1 a barrel early Friday after new attacks on tankers near the Strait of Hormuz and a Houthi strike claim on Saudi Arabia's largest refinery, though rising US crude inventories tempered gains later. OPEC+ meets Sunday and is expected to hold output steady.",
       "source": "Reuters via The Daily Star",
       "url": "https://www.thedailystar.net/business/global-economy/news/oil-climbs-over-1-tanker-attacks-4248531"
     }
