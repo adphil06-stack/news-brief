@@ -1,19 +1,26 @@
 {
   "date": "2026-11-28",
   "dateLabel": "Saturday, November 28, 2026",
-  "updated": "6:21 AM CT, Nov 28",
+  "updated": "11:20 AM CT, Nov 28",
   "glance": [
-    "Stocks wrapped their best week since April 2025: S&P 500 +5.6%, Nasdaq +6.7%, Dow +5.5% for the holiday week, led by a chip rebound.",
-    "Black Friday online spending was tracking toward a record $13.0-13.4 billion, up roughly 13% from last year, per Adobe.",
-    "A cyber incident knocked most UK benefits and pension systems offline Friday; SAP also disclosed a security incident.",
-    "Regulators shut Evansville, Indiana-based United Fidelity Bank, the largest US bank failure since April 2024; First Citizens takes the deposits.",
-    "Nvidia paused server shipments to four Southeast Asian countries as US chip curbs squeeze Chinese AI labs."
+    "East Coast cleans up from a soaking Thanksgiving storm; power is slowly returning to hundreds of thousands of customers.",
+    "SAP's security incident reportedly involved stolen employee tokens used to reach its GitHub code repositories.",
+    "Stocks wrapped their best week since April 2025: S&P 500 +5.6%, Nasdaq +6.7%, Dow +5.5%, led by a chip rebound.",
+    "Bitcoin is stuck below $60,000 Saturday, down about 27% since late October.",
+    "Black Friday online spending was tracking toward a record $13.0-13.4 billion, per Adobe."
   ],
   "tech": [
     {
+      "tag": "Security",
+      "headline": "SAP incident reportedly reached its code repositories",
+      "summary": "Attackers reportedly stole employee access tokens and used them to get into SAP's GitHub repositories, according to Der Spiegel and SecurityWeek. SAP says it has found no evidence customer data was accessed and has rotated signing keys and paused automated development pipelines. The breach lands as the German software giant weighs about 10,000 job cuts tied to an AI reorganization.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised"
+    },
+    {
       "tag": "Chips",
       "headline": "Nvidia pauses server shipments to Southeast Asia under new US rules",
-      "summary": "Nvidia told server partners to suspend shipments to Malaysia, Singapore, Thailand and Indonesia after a mid-November US rule began requiring licenses for advanced chips sent there. Existing data-center arrangements must be licensed within 90 days, and Commerce has confirmed a criminal probe into Singapore-based Megaspeed. The move targets suspected routing of AI compute to China.",
+      "summary": "Nvidia told server partners to suspend shipments to Malaysia, Singapore, Thailand and Indonesia after a mid-November US rule began requiring licenses for advanced chips sent there. Existing data-center arrangements must be licensed within 90 days, and Commerce has confirmed a criminal probe into Singapore-based Megaspeed. The move targets suspected routing of AI compute to China. Bloomberg separately reported a GB300 server rack turning up at a Shanghai site linked to Megaspeed, which denies wrongdoing.",
       "source": "The Decoder / FT",
       "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
     },
@@ -30,13 +37,6 @@
       "summary": "Nearly all of the UK Department for Work and Pensions' online services were pulled offline Friday as a precaution, disrupting pension, disability and Universal Credit processing. Officials say regular payments are unaffected and no data loss is suspected so far. The FT says it is part of a wave of incidents that also hit FIFA and the US Treasury, though no common cause has been shown.",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/ck1l0e946dqmo"
-    },
-    {
-      "tag": "Security",
-      "headline": "SAP reports a security incident amid planned AI-driven layoffs",
-      "summary": "SAP said it detected suspicious activity but has found no evidence so far that customer business data was accessed; the disclosure followed a Der Spiegel report on an internal memo. It comes days after reports that the German software giant is weighing at least 10,000 job cuts, about 9% of staff, as it reorganizes around AI.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/sap-flags-security-incident-says-no-evidence-unauthorized-access-customer-data-2026-11-27/"
     },
     {
       "tag": "Big Tech",
@@ -61,7 +61,7 @@
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 27 (early close; markets closed for the weekend)",
+    "asOf": "market close, Nov 27 (early close); Bitcoin as of 10 AM ET, Nov 28",
     "summary": "Stocks closed the holiday-shortened week with their best weekly gain since April 2025 as AI and chip shares rebounded from November's selloff, even as Treasury yields rose after a strong GDP revision.",
     "indexes": [
       {
@@ -91,7 +91,7 @@
       },
       {
         "name": "Bitcoin",
-        "value": "",
+        "value": "$59,277",
         "change": ""
       }
     ],
@@ -126,6 +126,13 @@
   },
   "other": [
     {
+      "tag": "US",
+      "headline": "East Coast recovers from Thanksgiving storm",
+      "summary": "Heavy rain is winding down after a storm caused travel delays, downed trees and water rescues from New York to Virginia, and crews are restoring power to hundreds of thousands of customers. Wet snow reached as far south as the Tennessee Valley, while more snow is forecast for the Cascades and northern Rockies.",
+      "source": "AP",
+      "url": "https://www.crossville-chronicle.com/news/ap_news/ap-news-summary-at-10-52-a-m-est/article_60df6110-cd8c-5a3c-ac0c-41f82215b836.html"
+    },
+    {
       "tag": "Business",
       "headline": "Black Friday online sales head for a record $13 billion",
       "summary": "Shoppers spent $9.7 billion online by early Friday evening, up about 13% from last year, and Adobe expects the day to finish at $13.0 to $13.4 billion. Adobe forecasts $15.1 billion for Cyber Monday and $47.5 billion for the five days from Thanksgiving through Cyber Monday.",
@@ -138,13 +145,6 @@
       "summary": "Regulators closed Evansville-based United Fidelity Bank on Friday, the biggest US bank failure since April 2024, with about $5.9 billion in assets. First Citizens is assuming substantially all deposits, and the FDIC estimates a $1.83 billion hit to its insurance fund. Depositors keep access to their money.",
       "source": "US News America",
       "url": "https://usnewsamerica.com/regulators-close-united-fidelity-bank-in-indiana-the-biggest-u-s-bank-failure-since-april-2024/"
-    },
-    {
-      "tag": "Business",
-      "headline": "US goods trade deficit jumps as AI buildout lifts imports",
-      "summary": "The October goods deficit widened 10.7% to $149.5 billion, well above forecasts, as imports of AI hardware surged. The data lands as Washington pushes new tariffs that China and Japan have pushed back on.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27"
     },
     {
       "tag": "World",
