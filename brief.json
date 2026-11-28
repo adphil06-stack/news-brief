@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-27",
-  "dateLabel": "Friday, November 27, 2026",
-  "updated": "4:14 PM CT, Nov 27",
+  "date": "2026-11-28",
+  "dateLabel": "Saturday, November 28, 2026",
+  "updated": "6:21 AM CT, Nov 28",
   "glance": [
-    "Stocks closed the holiday-shortened week higher: S&P 500 +1.6%, Nasdaq +2.3% Friday as battered AI and memory-chip shares rebounded; the Dow had its best week since 2022.",
-    "Chip stocks bounced nearly 5% Friday but are still headed for their worst month since 2002 after November's AI selloff.",
-    "Nvidia reportedly told server partners to halt shipments to Malaysia, Singapore, Thailand and Indonesia under new US export rules.",
-    "The FCC authorized SpaceX to launch up to one million satellites for an orbital AI computing network.",
-    "Black Friday crowds hit stores after a record $82.5 billion in early-November online spending; OPEC+ meets Sunday amid Gulf tanker attacks."
+    "Stocks wrapped their best week since April 2025: S&P 500 +5.6%, Nasdaq +6.7%, Dow +5.5% for the holiday week, led by a chip rebound.",
+    "Black Friday online spending was tracking toward a record $13.0-13.4 billion, up roughly 13% from last year, per Adobe.",
+    "A cyber incident knocked most UK benefits and pension systems offline Friday; SAP also disclosed a security incident.",
+    "Regulators shut Evansville, Indiana-based United Fidelity Bank, the largest US bank failure since April 2024; First Citizens takes the deposits.",
+    "Nvidia paused server shipments to four Southeast Asian countries as US chip curbs squeeze Chinese AI labs."
   ],
   "tech": [
     {
       "tag": "Chips",
-      "headline": "Nvidia halts server shipments to four Southeast Asian countries",
-      "summary": "Nvidia told partners including Dell and Supermicro to stop shipping its AI servers to Malaysia, Singapore, Thailand and Indonesia to comply with new US export controls, the Financial Times reported. The region has been a suspected transit route for advanced chips headed to China. It is the latest turn in a tumultuous month for Nvidia, whose board reinstated Jensen Huang as CEO on Monday ahead of his congressional testimony next week.",
-      "source": "Reuters via Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112"
-    },
-    {
-      "tag": "Software",
-      "headline": "SAP weighs at least 10,000 job cuts in AI restructuring",
-      "summary": "Europe's largest software company is preparing to eliminate roughly 9% of its workforce as it reorganizes around AI, according to Bloomberg. SAP said no decision has been made. The move would be one of the biggest AI-linked layoffs yet at a major enterprise software maker.",
-      "source": "Bloomberg via The Straits Times",
-      "url": "https://www.straitstimes.com/business/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring"
-    },
-    {
-      "tag": "Policy",
-      "headline": "FCC clears SpaceX plan for a million AI-computing satellites",
-      "summary": "The FCC authorized SpaceX to deploy up to one million satellites for a proposed network that would run AI workloads in low Earth orbit on solar power. The approval covers a potential constellation, not satellites already built, and scientists have questioned the economics and how the hardware would shed heat. It signals regulators' willingness to let space-based data centers move ahead as AI power demand strains the grid.",
-      "source": "AP",
-      "url": "https://apnews.com/article/b9897fe06f851ffaf92fd304ae69075c"
-    },
-    {
-      "tag": "Chips",
-      "headline": "Netherlands vows to fight US bill targeting ASML's China sales",
-      "summary": "The Dutch government says it will resist the proposed US Match Act, which would further restrict ASML's chipmaking-equipment sales to China, calling it a threat to the company. ASML's CEO separately argued that tighter controls would only speed up China's homegrown chip efforts.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml"
-    },
-    {
-      "tag": "Gadgets",
-      "headline": "Memory shortage pushes up electronics prices and dents phone sales",
-      "summary": "Some memory-chip prices have risen as much as tenfold in a year as AI data centers soak up supply, prompting companies to set up procurement war rooms, the WSJ reports. Counterpoint says US smartphone shipments fell 9% in the third quarter as costs squeezed Android makers, while Apple's share climbed to 57%.",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a"
+      "headline": "Nvidia pauses server shipments to Southeast Asia under new US rules",
+      "summary": "Nvidia told server partners to suspend shipments to Malaysia, Singapore, Thailand and Indonesia after a mid-November US rule began requiring licenses for advanced chips sent there. Existing data-center arrangements must be licensed within 90 days, and Commerce has confirmed a criminal probe into Singapore-based Megaspeed. The move targets suspected routing of AI compute to China.",
+      "source": "The Decoder / FT",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
     },
     {
       "tag": "AI",
-      "headline": "OpenAI fixes GPT-6.2 billing error, will merge ChatGPT usage limits",
-      "summary": "OpenAI said a launch mistake with GPT-6.2 caused paying ChatGPT users to burn through usage allowances up to 40% faster, and that it has been corrected. Separately, the company plans to combine Chat and Work usage limits into one shared allowance, so heavy users of both may hit caps sooner; a wider rollout is planned for December.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      "headline": "US chip curbs are slowing China's AI labs",
+      "summary": "Reuters reports that Z.AI's next flagship model has slipped to early 2027 and that Moonshot AI expects gaps between major releases to stretch to a year or more without overseas compute. Moonshot reportedly cancelled a planned Nvidia Blackwell deal in Indonesia. It is the clearest sign yet that the export controls are biting Chinese model development.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
     },
     {
       "tag": "Security",
-      "headline": "Microsoft: Chinese and North Korean hackers adopt AI attack tool",
-      "summary": "Microsoft says state-backed groups from China and North Korea, including Salt Typhoon, have added the ARTEX AI penetration-testing tool to their arsenals. Separately, FIFA confirmed a breach exposing personal and business data, and Binance fully reopened withdrawals after last month's record $6.3 billion hack.",
-      "source": "The Record",
-      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool"
+      "headline": "Cyber incident takes UK benefits systems offline",
+      "summary": "Nearly all of the UK Department for Work and Pensions' online services were pulled offline Friday as a precaution, disrupting pension, disability and Universal Credit processing. Officials say regular payments are unaffected and no data loss is suspected so far. The FT says it is part of a wave of incidents that also hit FIFA and the US Treasury, though no common cause has been shown.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ck1l0e946dqmo"
+    },
+    {
+      "tag": "Security",
+      "headline": "SAP reports a security incident amid planned AI-driven layoffs",
+      "summary": "SAP said it detected suspicious activity but has found no evidence so far that customer business data was accessed; the disclosure followed a Der Spiegel report on an internal memo. It comes days after reports that the German software giant is weighing at least 10,000 job cuts, about 9% of staff, as it reorganizes around AI.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/sap-flags-security-incident-says-no-evidence-unauthorized-access-customer-data-2026-11-27/"
+    },
+    {
+      "tag": "Big Tech",
+      "headline": "Apple pulls MiniMax's AI chatbot app over child-safety concerns",
+      "summary": "Apple removed MiniMax's Talkie companion app from the App Store worldwide after an investigation found it sent inappropriate messages to minors. The app remains available on the web and Google Play. Pressure on AI companion apps is rising, with New York also moving to ban certain AI toys.",
+      "source": "Reuters",
+      "url": "https://reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Memory shortage sends electronics makers into 'war room' mode",
+      "summary": "Device makers are scouring brokers and even eBay for small batches of DRAM as the AI-driven memory crunch deepens, with PC-builder prices reportedly up as much as fivefold. SK hynix has warned 2027 could be the tightest year, with new fabs not online until 2028, which points to higher gadget prices ahead.",
+      "source": "Tom's Hardware",
+      "url": "https://tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units"
+    },
+    {
+      "tag": "Software",
+      "headline": "Poland signs $300 million Palantir deal for AI army software",
+      "summary": "Poland agreed to a five-year contract worth about $300 million for Palantir software that helps army commanders make decisions. The defense minister said all data and servers will stay under Polish military ownership, a nod to European sovereignty concerns about US tech.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/poland-signs-contract-with-palantir-worth-300-mln-over-5-years-2026-11-27"
     }
   ],
   "markets": {
-    "asOf": "market close, Nov 27 (early 12:00 PM CT close)",
-    "summary": "Stocks finished a volatile holiday week higher as AI and semiconductor shares rebounded on easing worries about AI profitability, though Treasury yields climbed after a strong GDP revision.",
+    "asOf": "market close, Nov 27 (early close; markets closed for the weekend)",
+    "summary": "Stocks closed the holiday-shortened week with their best weekly gain since April 2025 as AI and chip shares rebounded from November's selloff, even as Treasury yields rose after a strong GDP revision.",
     "indexes": [
       {
         "name": "Dow",
@@ -86,13 +86,13 @@
       },
       {
         "name": "WTI oil",
-        "value": "",
-        "change": ""
+        "value": "$84.50",
+        "change": "+1%"
       },
       {
         "name": "Bitcoin",
-        "value": "$59,900",
-        "change": "-1.2%"
+        "value": "",
+        "change": ""
       }
     ],
     "movers": [
@@ -112,13 +112,13 @@
         "symbol": "SPCX",
         "name": "SpaceX",
         "change": "+3%",
-        "note": "Musk repeated pledge to give US kids shares; FCC satellite approval"
+        "note": "FCC approved plan for up to one million AI-computing satellites"
       },
       {
-        "symbol": "NVDA",
-        "name": "Nvidia",
-        "change": "",
-        "note": "Ended modestly higher despite Southeast Asia shipment halt report"
+        "symbol": "SOX",
+        "name": "Philadelphia Semiconductor Index",
+        "change": "+4.7%",
+        "note": "Chips bounced but still on track for a rough November"
       }
     ],
     "source": "Yahoo Finance",
@@ -127,38 +127,45 @@
   "other": [
     {
       "tag": "Business",
-      "headline": "Black Friday crowds return to stores after record online run-up",
-      "summary": "Die-hard shoppers lined up at malls and big-box stores across the country Friday morning, even as online sales keep growing. Adobe says US consumers spent $82.5 billion online from Nov. 1 to 22, up 9.1% from a year ago, with higher electronics prices from the memory-chip shortage a wildcard for gift budgets.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564"
+      "headline": "Black Friday online sales head for a record $13 billion",
+      "summary": "Shoppers spent $9.7 billion online by early Friday evening, up about 13% from last year, and Adobe expects the day to finish at $13.0 to $13.4 billion. Adobe forecasts $15.1 billion for Cyber Monday and $47.5 billion for the five days from Thanksgiving through Cyber Monday.",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
     },
     {
-      "tag": "US",
-      "headline": "Trump calls for investigation after big GDP revision",
-      "summary": "The government revised third-quarter growth up to 4.3% from 3.4%. President Trump alleged the initial figure was deliberately wrong and demanded an investigation; no probe has been confirmed.",
-      "source": "AP",
-      "url": "https://apnews.com/article/4fd800b44005ae11f950f96ff62f876e"
+      "tag": "Business",
+      "headline": "Indiana's United Fidelity Bank fails; First Citizens takes over",
+      "summary": "Regulators closed Evansville-based United Fidelity Bank on Friday, the biggest US bank failure since April 2024, with about $5.9 billion in assets. First Citizens is assuming substantially all deposits, and the FDIC estimates a $1.83 billion hit to its insurance fund. Depositors keep access to their money.",
+      "source": "US News America",
+      "url": "https://usnewsamerica.com/regulators-close-united-fidelity-bank-in-indiana-the-biggest-u-s-bank-failure-since-april-2024/"
     },
     {
-      "tag": "World",
-      "headline": "China and Japan push back on proposed US tariffs",
-      "summary": "China rejected Washington's overcapacity rationale for new tariffs on 14 trading partners and said it reserves the right to respond, while Japan lodged a formal protest.",
-      "source": "AP via MPR News",
-      "url": "https://www.mprnews.org/story/2026/11/26/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans"
-    },
-    {
-      "tag": "World",
-      "headline": "Chinese stocks surge as Beijing steps in",
-      "summary": "The Shanghai Composite jumped 4.2% and the CSI 300 rose 3.7% on Friday, their best days since October 2024, after the State Council called on state-backed investors to stabilize the market.",
-      "source": "Reuters via Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/china-stocks-surge-most-two-081045333.html"
+      "tag": "Business",
+      "headline": "US goods trade deficit jumps as AI buildout lifts imports",
+      "summary": "The October goods deficit widened 10.7% to $149.5 billion, well above forecasts, as imports of AI hardware surged. The data lands as Washington pushes new tariffs that China and Japan have pushed back on.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27"
     },
     {
       "tag": "World",
-      "headline": "Gulf tanker and refinery attacks keep oil on edge",
-      "summary": "Oil rose more than $1 a barrel early Friday after new attacks on tankers near the Strait of Hormuz and a Houthi strike claim on Saudi Arabia's largest refinery, though rising US crude inventories tempered gains later. OPEC+ meets Sunday and is expected to hold output steady.",
-      "source": "Reuters via The Daily Star",
-      "url": "https://www.thedailystar.net/business/global-economy/news/oil-climbs-over-1-tanker-attacks-4248531"
+      "headline": "Russia claims it downed more than 1,200 Ukrainian drones overnight",
+      "summary": "Russia's Defense Ministry said it destroyed 1,246 drones across more than a dozen regions, with over 400 aimed at Moscow; the figures could not be independently verified. Ukraine reported deadly Russian strikes in Zaporizhzhia.",
+      "source": "Reuters via US News America",
+      "url": "https://usnewsamerica.com/russia-says-it-downed-1246-ukrainian-drones-overnight-with-more-than-400-launched-toward-moscow/"
+    },
+    {
+      "tag": "World",
+      "headline": "Oil climbs on new Middle East attacks ahead of OPEC+ talks",
+      "summary": "Brent traded near $96 and WTI near $84.50 on Friday after renewed Gulf tanker and refinery attacks, putting crude on course for a weekly gain, though prices remain well below wartime highs near $120. OPEC+ ministers meet Sunday.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/27/business/oil-prices-rising-intl"
+    },
+    {
+      "tag": "Sports",
+      "headline": "Historic Thanksgiving finishes; Texas clinches SEC title-game spot",
+      "summary": "All three Thanksgiving NFL games were decided by go-ahead scores in the final minute, including Philadelphia rallying from 21 down to beat Dallas 39-38. On Friday, Pittsburgh routed Denver 27-5 and Texas beat Texas A&M 16-6 to reach the SEC championship.",
+      "source": "US News America",
+      "url": "https://usnewsamerica.com/thanksgiving-tripleheader-makes-nfl-history-with-go-ahead-scores-in-final-minute-of-all-three-games/"
     }
   ]
 }

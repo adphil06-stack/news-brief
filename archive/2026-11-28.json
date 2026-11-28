@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-28",
+  "dateLabel": "Saturday, November 28, 2026",
+  "updated": "6:21 AM CT, Nov 28",
+  "glance": [
+    "Stocks wrapped their best week since April 2025: S&P 500 +5.6%, Nasdaq +6.7%, Dow +5.5% for the holiday week, led by a chip rebound.",
+    "Black Friday online spending was tracking toward a record $13.0-13.4 billion, up roughly 13% from last year, per Adobe.",
+    "A cyber incident knocked most UK benefits and pension systems offline Friday; SAP also disclosed a security incident.",
+    "Regulators shut Evansville, Indiana-based United Fidelity Bank, the largest US bank failure since April 2024; First Citizens takes the deposits.",
+    "Nvidia paused server shipments to four Southeast Asian countries as US chip curbs squeeze Chinese AI labs."
+  ],
+  "tech": [
+    {
+      "tag": "Chips",
+      "headline": "Nvidia pauses server shipments to Southeast Asia under new US rules",
+      "summary": "Nvidia told server partners to suspend shipments to Malaysia, Singapore, Thailand and Indonesia after a mid-November US rule began requiring licenses for advanced chips sent there. Existing data-center arrangements must be licensed within 90 days, and Commerce has confirmed a criminal probe into Singapore-based Megaspeed. The move targets suspected routing of AI compute to China.",
+      "source": "The Decoder / FT",
+      "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/"
+    },
+    {
+      "tag": "AI",
+      "headline": "US chip curbs are slowing China's AI labs",
+      "summary": "Reuters reports that Z.AI's next flagship model has slipped to early 2027 and that Moonshot AI expects gaps between major releases to stretch to a year or more without overseas compute. Moonshot reportedly cancelled a planned Nvidia Blackwell deal in Indonesia. It is the clearest sign yet that the export controls are biting Chinese model development.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+    },
+    {
+      "tag": "Security",
+      "headline": "Cyber incident takes UK benefits systems offline",
+      "summary": "Nearly all of the UK Department for Work and Pensions' online services were pulled offline Friday as a precaution, disrupting pension, disability and Universal Credit processing. Officials say regular payments are unaffected and no data loss is suspected so far. The FT says it is part of a wave of incidents that also hit FIFA and the US Treasury, though no common cause has been shown.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ck1l0e946dqmo"
+    },
+    {
+      "tag": "Security",
+      "headline": "SAP reports a security incident amid planned AI-driven layoffs",
+      "summary": "SAP said it detected suspicious activity but has found no evidence so far that customer business data was accessed; the disclosure followed a Der Spiegel report on an internal memo. It comes days after reports that the German software giant is weighing at least 10,000 job cuts, about 9% of staff, as it reorganizes around AI.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/sap-flags-security-incident-says-no-evidence-unauthorized-access-customer-data-2026-11-27/"
+    },
+    {
+      "tag": "Big Tech",
+      "headline": "Apple pulls MiniMax's AI chatbot app over child-safety concerns",
+      "summary": "Apple removed MiniMax's Talkie companion app from the App Store worldwide after an investigation found it sent inappropriate messages to minors. The app remains available on the web and Google Play. Pressure on AI companion apps is rising, with New York also moving to ban certain AI toys.",
+      "source": "Reuters",
+      "url": "https://reuters.com/business/retail-consumer/apple-pulls-minimax-ai-chatbot-app-store-over-child-safety-concerns-2026-11-26"
+    },
+    {
+      "tag": "Chips",
+      "headline": "Memory shortage sends electronics makers into 'war room' mode",
+      "summary": "Device makers are scouring brokers and even eBay for small batches of DRAM as the AI-driven memory crunch deepens, with PC-builder prices reportedly up as much as fivefold. SK hynix has warned 2027 could be the tightest year, with new fabs not online until 2028, which points to higher gadget prices ahead.",
+      "source": "Tom's Hardware",
+      "url": "https://tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units"
+    },
+    {
+      "tag": "Software",
+      "headline": "Poland signs $300 million Palantir deal for AI army software",
+      "summary": "Poland agreed to a five-year contract worth about $300 million for Palantir software that helps army commanders make decisions. The defense minister said all data and servers will stay under Polish military ownership, a nod to European sovereignty concerns about US tech.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/poland-signs-contract-with-palantir-worth-300-mln-over-5-years-2026-11-27"
+    }
+  ],
+  "markets": {
+    "asOf": "market close, Nov 27 (early close; markets closed for the weekend)",
+    "summary": "Stocks closed the holiday-shortened week with their best weekly gain since April 2025 as AI and chip shares rebounded from November's selloff, even as Treasury yields rose after a strong GDP revision.",
+    "indexes": [
+      {
+        "name": "Dow",
+        "value": "50,775",
+        "change": "+1.2%"
+      },
+      {
+        "name": "S&P 500",
+        "value": "7,297",
+        "change": "+1.6%"
+      },
+      {
+        "name": "Nasdaq",
+        "value": "24,130",
+        "change": "+2.3%"
+      },
+      {
+        "name": "10-yr yield",
+        "value": "4.94%",
+        "change": "+0.09"
+      },
+      {
+        "name": "WTI oil",
+        "value": "$84.50",
+        "change": "+1%"
+      },
+      {
+        "name": "Bitcoin",
+        "value": "",
+        "change": ""
+      }
+    ],
+    "movers": [
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "change": "+7%",
+        "note": "Led memory-chip rebound as AI-profit worries eased"
+      },
+      {
+        "symbol": "SNDK",
+        "name": "Sandisk",
+        "change": "+6%",
+        "note": "Memory rally on tight supply and higher prices"
+      },
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "change": "+3%",
+        "note": "FCC approved plan for up to one million AI-computing satellites"
+      },
+      {
+        "symbol": "SOX",
+        "name": "Philadelphia Semiconductor Index",
+        "change": "+4.7%",
+        "note": "Chips bounced but still on track for a rough November"
+      }
+    ],
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+  },
+  "other": [
+    {
+      "tag": "Business",
+      "headline": "Black Friday online sales head for a record $13 billion",
+      "summary": "Shoppers spent $9.7 billion online by early Friday evening, up about 13% from last year, and Adobe expects the day to finish at $13.0 to $13.4 billion. Adobe forecasts $15.1 billion for Cyber Monday and $47.5 billion for the five days from Thanksgiving through Cyber Monday.",
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031"
+    },
+    {
+      "tag": "Business",
+      "headline": "Indiana's United Fidelity Bank fails; First Citizens takes over",
+      "summary": "Regulators closed Evansville-based United Fidelity Bank on Friday, the biggest US bank failure since April 2024, with about $5.9 billion in assets. First Citizens is assuming substantially all deposits, and the FDIC estimates a $1.83 billion hit to its insurance fund. Depositors keep access to their money.",
+      "source": "US News America",
+      "url": "https://usnewsamerica.com/regulators-close-united-fidelity-bank-in-indiana-the-biggest-u-s-bank-failure-since-april-2024/"
+    },
+    {
+      "tag": "Business",
+      "headline": "US goods trade deficit jumps as AI buildout lifts imports",
+      "summary": "The October goods deficit widened 10.7% to $149.5 billion, well above forecasts, as imports of AI hardware surged. The data lands as Washington pushes new tariffs that China and Japan have pushed back on.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27"
+    },
+    {
+      "tag": "World",
+      "headline": "Russia claims it downed more than 1,200 Ukrainian drones overnight",
+      "summary": "Russia's Defense Ministry said it destroyed 1,246 drones across more than a dozen regions, with over 400 aimed at Moscow; the figures could not be independently verified. Ukraine reported deadly Russian strikes in Zaporizhzhia.",
+      "source": "Reuters via US News America",
+      "url": "https://usnewsamerica.com/russia-says-it-downed-1246-ukrainian-drones-overnight-with-more-than-400-launched-toward-moscow/"
+    },
+    {
+      "tag": "World",
+      "headline": "Oil climbs on new Middle East attacks ahead of OPEC+ talks",
+      "summary": "Brent traded near $96 and WTI near $84.50 on Friday after renewed Gulf tanker and refinery attacks, putting crude on course for a weekly gain, though prices remain well below wartime highs near $120. OPEC+ ministers meet Sunday.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/27/business/oil-prices-rising-intl"
+    },
+    {
+      "tag": "Sports",
+      "headline": "Historic Thanksgiving finishes; Texas clinches SEC title-game spot",
+      "summary": "All three Thanksgiving NFL games were decided by go-ahead scores in the final minute, including Philadelphia rallying from 21 down to beat Dallas 39-38. On Friday, Pittsburgh routed Denver 27-5 and Texas beat Texas A&M 16-6 to reach the SEC championship.",
+      "source": "US News America",
+      "url": "https://usnewsamerica.com/thanksgiving-tripleheader-makes-nfl-history-with-go-ahead-scores-in-final-minute-of-all-three-games/"
+    }
+  ]
+}
